@@ -7,8 +7,10 @@
 
 ### 2026-06-16
 - Яндекс Директ меняет работу бюджетов — https://ppc.world/news/direkt-obnovlyaet-rabotu-byudzhetov-v-kampaniyah/
-- VK Реклама: единый объект для продвижения каналов (ВК.МАИ/Дзен) — https://ppc.world/news/cherez-vk-reklamu-teper-mozhno-prodvigat-kanaly-v-makse-vkontakte-i-dzene/
+- VK Реклама: единый объект для продвижения каналов (ВК/MAX/Дзен) — https://ppc.world/news/cherez-vk-reklamu-teper-mozhno-prodvigat-kanaly-v-makse-vkontakte-i-dzene/
 - Рынок рекламы в MAX вырос в 55 раз за полгода — https://ppc.world/news/rynok-reklamy-v-makse-vyros-v-55-raz-za-polgoda/
 - Google отключает блокировщики рекламы в Chrome — https://ppc.world/news/google-otklyuchit-blokirovschiki-reklamy-v-chrome/
 - WARC пересмотрел прогноз роста рекламного рынка — https://adindex.ru/news/tendencies/2026/06/15/345870.phtml
 - Telegram-боты: расширенное форматирование — https://ppc.world/news/boty-v-telegram-poluchili-rasshirennoe-formatirovanie-tablicy-formuly-i-dlinnye-soobscheniya/
+- «Платформа для партнёров» MAX доступна самозанятым — https://ppc.world/news/platforma-dlya-partnerov-messendzhera-maks-stala-dostupna-samozanyatym/
+- Яндекс KIT: услуги в карточке товара — https://ppc.world/news/internet-magaziny-na-yandeks-kit-smogut-predlagat-uslugi-v-kartochke-tovara/
