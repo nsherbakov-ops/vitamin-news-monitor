@@ -18,3 +18,7 @@
 - WPP: реклама в AI-поиске — самый быстрорастущий сегмент — https://adindex.ru/news/digital/2026/06/16/345921.phtml
 - Медиарынок: рост в 2026 замедлится до 15% (Native Speech) — https://adindex.ru/news/tendencies/2026/06/16/345918.phtml
 - Письма с именем получателя и эмодзи открывают на 13% чаще — https://adindex.ru/news/researches/2026/06/16/345925.phtml
+- Директ обновит текстово-графические объявления до комбинаторных в ЕПК [23:33 МСК] — https://ppc.world/news/direkt-obnovit-tekstovo-graficheskie-obyavleniya-do-kombinatornyh-v-edinoy-perfomans-kampanii/
+- В Яндекс Метрике появились цели по параметрам событий, мультицели и единый раздел [23:33 МСК] — https://ppc.world/news/v-yandeks-metrike-poyavilis-celi-po-parametram-sobytiy-multiceli-i-edinyy-razdel-dlya-raboty-s-celyami-i-konversiyami/
+- Electronic Arts запустила платформу для рекламодателей [23:33 МСК] — https://adindex.ru/news/digital/2026/06/16/345910.phtml
+- Uber Advertising запустил новые рекламные форматы [23:33 МСК] — https://adindex.ru/news/marketing/2026/06/16/345906.phtml
