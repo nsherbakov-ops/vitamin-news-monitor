@@ -7,7 +7,10 @@ on:
     # Mandatory digests at 10:00 MSK (07:00 UTC) and 15:00 MSK (12:00 UTC)
     # are enforced by the prompt logic in MONITOR.md, not by separate cron lines.
     # NOTE: GitHub may delay scheduled runs by several minutes under load.
-    - cron: '0 7-16 * * *'
+    # Minute offset to :07 avoids top-of-hour (:00) congestion where GitHub
+    # most often delays/drops scheduled runs. Hour is unchanged, so the
+    # mandatory-slot logic (UTC hour 07 & 12) still fires.
+    - cron: '7 7-16 * * *'
   workflow_dispatch: {}
 
 permissions:
