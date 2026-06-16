@@ -11,6 +11,8 @@ on:
     # most often delays/drops scheduled runs. Hour is unchanged, so the
     # mandatory-slot logic (UTC hour 07 & 12) still fires.
     - cron: '7 7-16 * * *'
+    # One-off verification slot: 17:00 UTC = 20:00 MSK (autonomy test 2026-06-16).
+    - cron: '0 17 * * *'
   workflow_dispatch: {}
 
 permissions:
