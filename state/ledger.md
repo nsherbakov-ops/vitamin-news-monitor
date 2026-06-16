@@ -14,3 +14,7 @@
 - Telegram-боты: расширенное форматирование — https://ppc.world/news/boty-v-telegram-poluchili-rasshirennoe-formatirovanie-tablicy-formuly-i-dlinnye-soobscheniya/
 - «Платформа для партнёров» MAX доступна самозанятым — https://ppc.world/news/platforma-dlya-partnerov-messendzhera-maks-stala-dostupna-samozanyatym/
 - Яндекс KIT: услуги в карточке товара — https://ppc.world/news/internet-magaziny-na-yandeks-kit-smogut-predlagat-uslugi-v-kartochke-tovara/
+- Бизнес увеличил траты на рекламу в Telegram на 11% — https://adindex.ru/news/tendencies/2026/06/16/345911.phtml
+- WPP: реклама в AI-поиске — самый быстрорастущий сегмент — https://adindex.ru/news/digital/2026/06/16/345921.phtml
+- Медиарынок: рост в 2026 замедлится до 15% (Native Speech) — https://adindex.ru/news/tendencies/2026/06/16/345918.phtml
+- Письма с именем получателя и эмодзи открывают на 13% чаще — https://adindex.ru/news/researches/2026/06/16/345925.phtml
