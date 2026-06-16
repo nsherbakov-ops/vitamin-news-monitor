@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  id-token: write
 
 concurrency:
   group: vitamin-news-monitor
@@ -28,7 +29,7 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          prompt_file: MONITOR.md
+          prompt: "Read the file MONITOR.md in the repository root and follow its instructions exactly."
           claude_args: '--allowedTools "WebFetch,Read,Edit,Bash(curl:*)"'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
