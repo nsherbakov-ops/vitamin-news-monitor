@@ -5,6 +5,11 @@
 
 ## Опубликовано
 
+### 2026-06-17
+- Объём рекламы через СМС вырос на треть из-за ограничений интернета [13:24 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/17/345951.phtml
+- Кроссплатформенность — главный тренд 2026: VK для нативки (60%), Telegram для CPA (79%) [13:24 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/17/345955.phtml
+- Топ-5 категорий Telegram-каналов по вовлечению (март–май 2026) [13:24 МСК, обычный прогон] — https://sostav.ru/publication/top-5-kategorij-kanalov-v-telegram-po-vovlecheniu-za-poslednie-dva-mesyaca-84593.html
+
 ### 2026-06-16
 - Яндекс Директ меняет работу бюджетов — https://ppc.world/news/direkt-obnovlyaet-rabotu-byudzhetov-v-kampaniyah/
 - VK Реклама: единый объект для продвижения каналов (ВК/MAX/Дзен) — https://ppc.world/news/cherez-vk-reklamu-teper-mozhno-prodvigat-kanaly-v-makse-vkontakte-i-dzene/
