@@ -1,18 +1,10 @@
 name: Vitamin news monitor
 
 on:
-  schedule:
-    # GitHub Actions cron is in UTC. MSK = UTC+3.
-    # Hourly 10:00-19:00 MSK  ==  07:00-16:00 UTC.
-    # Mandatory digests at 10:00 MSK (07:00 UTC) and 15:00 MSK (12:00 UTC)
-    # are enforced by the prompt logic in MONITOR.md, not by separate cron lines.
-    # NOTE: GitHub may delay scheduled runs by several minutes under load.
-    # Minute offset to :07 avoids top-of-hour (:00) congestion where GitHub
-    # most often delays/drops scheduled runs. Hour is unchanged, so the
-    # mandatory-slot logic (UTC hour 07 & 12) still fires.
-    - cron: '7 7-16 * * *'
-    # One-off verification slot: 17:00 UTC = 20:00 MSK (autonomy test 2026-06-16).
-    - cron: '0 17 * * *'
+  # Scheduling is handled by an EXTERNAL pinger (cron-job.org) that calls the
+  # workflow_dispatch REST API at exact MSK times. GitHub's own `schedule:` cron
+  # was removed: it dropped/delayed slots by hours (10:00 digest never fired; the
+  # 20:00 test fired at 23:32 MSK). The external pinger is now the sole trigger.
   workflow_dispatch: {}
 
 permissions:
@@ -34,20 +26,3 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          prompt: "Read the file MONITOR.md in the repository root and follow its instructions exactly."
-          claude_args: '--allowedTools "WebFetch,Read,Edit,Bash(curl:*)"'
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-
-      - name: Persist ledger updates
-        run: |
-          if [ -n "$(git status --porcelain state/ledger.md)" ]; then
-            git config user.name "vitamin-news-bot"
-            git config user.email "actions@users.noreply.github.com"
-            git add state/ledger.md
-            git commit -m "ledger: posted items $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
-          else
-            echo "No ledger changes this run."
-          fi
