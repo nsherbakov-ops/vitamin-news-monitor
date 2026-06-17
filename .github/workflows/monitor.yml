@@ -1,7 +1,7 @@
 name: Vitamin news monitor
 
 on:
-  # Scheduling is handled by an EXTERNAL pinger (cron-job.org) that calls the
+  # Scheduling is handled by an EXTERNAL pinger (val.town cron) that calls the
   # workflow_dispatch REST API at exact MSK times. GitHub's own `schedule:` cron
   # was removed: it dropped/delayed slots by hours (10:00 digest never fired; the
   # 20:00 test fired at 23:32 MSK). The external pinger is now the sole trigger.
@@ -26,3 +26,20 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prompt: "Read the file MONITOR.md in the repository root and follow its instructions exactly."
+          claude_args: '--allowedTools "WebFetch,Read,Edit,Bash(curl:*)"'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+
+      - name: Persist ledger updates
+        run: |
+          if [ -n "$(git status --porcelain state/ledger.md)" ]; then
+            git config user.name "vitamin-news-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add state/ledger.md
+            git commit -m "ledger: posted items $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "No ledger changes this run."
+          fi
