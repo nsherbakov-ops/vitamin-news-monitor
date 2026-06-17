@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-06-17
+- Amazon грозят штрафы из-за непрозрачных рекламных аукционов [17:01 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/17/345971.phtml
+- Совфед одобрил «Антифрод 2.0» и штрафы за иностранную авторизацию [17:01 МСК, обычный прогон] — https://sostav.ru/publication/sovfed-odobril-zakon-antifrod-2-0-i-shtrafy-za-narusheniya-pravil-avtorizatsii-polzovatelej-84606.html
+- Селлеры попросили маркетплейсы снизить комиссию за отказ от скидок [17:01 МСК, обычный прогон] — https://sostav.ru/publication/sellery-poprosili-marketplejsy-snizit-komissiyu-za-otkaz-ot-skidok-84608.html
+- VK Видео: вечерний просмотр видео — главный способ снять стресс у россиян [17:01 МСК, обычный прогон] — https://likeni.ru/events/vecherniy-prosmotr-video-stal-instrumentom-borby-so-stressom-dlya-rossiyan-issledovanie-vk-video/
 - Объём рекламы через СМС вырос на треть из-за ограничений интернета [13:24 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/17/345951.phtml
 - Кроссплатформенность — главный тренд 2026: VK для нативки (60%), Telegram для CPA (79%) [13:24 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/17/345955.phtml
 - Топ-5 категорий Telegram-каналов по вовлечению (март–май 2026) [13:24 МСК, обычный прогон] — https://sostav.ru/publication/top-5-kategorij-kanalov-v-telegram-po-vovlecheniu-za-poslednie-dva-mesyaca-84593.html
