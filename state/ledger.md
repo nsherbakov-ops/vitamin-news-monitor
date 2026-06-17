@@ -9,6 +9,10 @@
 - Объём рекламы через СМС вырос на треть из-за ограничений интернета [13:24 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/17/345951.phtml
 - Кроссплатформенность — главный тренд 2026: VK для нативки (60%), Telegram для CPA (79%) [13:24 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/17/345955.phtml
 - Топ-5 категорий Telegram-каналов по вовлечению (март–май 2026) [13:24 МСК, обычный прогон] — https://sostav.ru/publication/top-5-kategorij-kanalov-v-telegram-po-vovlecheniu-za-poslednie-dva-mesyaca-84593.html
+- Совфед одобрил запрет на социальную рекламу с участием иноагентов [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/sovfed-odobril-zapret-na-sotsialnuyu-reklamu-s-uchastiem-inoagentov-84609.html
+- Больше половины россиян пользуются VPN — и не планируют отказываться [15:00 МСК, обязательный дайджест] — https://ppc.world/news/bolshe-poloviny-rossiyan-polzuyutsya-vpn-tolko-10-gotovy-ot-nego-otkazatsya-issledovanie/
+- РСЯ запустила конкурс для блогеров с призом 500 000 руб. [15:00 МСК, обязательный дайджест] — https://yandex.ru/adv/news/konkurs-dlya-blogerov-ot-rsya-vyigrayte-500000-rubley
+- 58% россиян готовы платить больше за локальные бренды [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/06/16/345929.phtml
 
 ### 2026-06-16
 - Яндекс Директ меняет работу бюджетов — https://ppc.world/news/direkt-obnovlyaet-rabotu-byudzhetov-v-kampaniyah/
