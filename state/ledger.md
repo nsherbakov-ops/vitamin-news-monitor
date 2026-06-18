@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-06-18
+- Яндекс Метрика: автоцели «Покупка» и «Создание заказа» для интернет-магазинов [18:00 МСК, обычный прогон] — https://ppc.world/news/v-yandeks-metrike-poyavilis-avtoceli-dlya-internet-magazinov-pokupka-i-sozdanie-zakaza/
+- Больше трети блогеров используют ИИ [18:00 МСК, обычный прогон] — https://sostav.ru/publication/bolshe-treti-blogerov-ispolzuyut-ii-84641.html
+- 83% диджитал-экспертов: PR — основа продвижения в нейросетях [18:00 МСК, обычный прогон] — https://sostav.ru/publication/83-ekspertov-didzhital-rynka-nazvali-pr-osnovoj-prodvizheniya-v-nejrosetyakh-84633.html
 - Директ: оптимизация рекламы в Telegram и MAX на целевые действия [15:00 МСК, обязательный дайджест] — https://ppc.world/news/v-direkte-poyavilas-vozmozhnost-optimizirovat-reklamu-v-telegram-i-makse-na-celevye-deystviya/
 - Wildberries запустила сервис для брендированных страниц продавцов [15:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/wildberries-zapustila-servis-dlya-sozdaniya-brendirovannykh-stranits-prodavtsov/
 - UGC-контент занял рекордные 44% просмотров на Rutube [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/18/345996.phtml
