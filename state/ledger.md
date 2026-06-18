@@ -5,6 +5,13 @@
 
 ## Опубликовано
 
+### 2026-06-18
+- Директ: оптимизация рекламы в Telegram и MAX на целевые действия [15:00 МСК, обязательный дайджест] — https://ppc.world/news/v-direkte-poyavilas-vozmozhnost-optimizirovat-reklamu-v-telegram-i-makse-na-celevye-deystviya/
+- Wildberries запустила сервис для брендированных страниц продавцов [15:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/wildberries-zapustila-servis-dlya-sozdaniya-brendirovannykh-stranits-prodavtsov/
+- UGC-контент занял рекордные 44% просмотров на Rutube [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/18/345996.phtml
+- Лишь 30% маркетологов стремятся к совершенству при создании рекламных креативов [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/18/345998.phtml
+- Мишустин: реклама — драйвер креативной экономики России [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/mishustin-po-reklama-i-urbanistika-drajvery-kreativnoj-ekonomiki-rossii-84628.html
+
 ### 2026-06-17
 - Amazon грозят штрафы из-за непрозрачных рекламных аукционов [17:01 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/17/345971.phtml
 - Совфед одобрил «Антифрод 2.0» и штрафы за иностранную авторизацию [17:01 МСК, обычный прогон] — https://sostav.ru/publication/sovfed-odobril-zakon-antifrod-2-0-i-shtrafy-za-narusheniya-pravil-avtorizatsii-polzovatelej-84606.html
