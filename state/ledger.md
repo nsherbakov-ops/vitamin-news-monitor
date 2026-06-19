@@ -17,6 +17,8 @@
 - Букмекеры и АРИР подписали стандарты честной рекламы ставок [16:00 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/19/346041.phtml
 - Adobe расширяет ИИ-помощника Firefly на Illustrator, InDesign и Premiere [16:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/19/346023.phtml
 - Комьюнити вместо рекламы: как сильные связи вытесняют платные размещения [16:00 МСК, обычный прогон] — https://sostav.ru/publication/silnye-svyazi-vazhnee-kak-komyuniti-zamenyaet-reklamu-84654.html
+- Стабильность блогеров оказалась важнее средних охватов [18:00 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/19/346060.phtml
+- Бренд-гайд умер как PDF. Теперь бренд — это память для ИИ-агентов [18:00 МСК, обычный прогон] — https://sostav.ru/publication/brend-gajd-umer-kak-pdf-teper-brend-eto-pamyat-dlya-ii-agentov-84634.html
 
 ### 2026-06-18
 - Яндекс Метрика: автоцели «Покупка» и «Создание заказа» для интернет-магазинов [18:00 МСК, обычный прогон] — https://ppc.world/news/v-yandeks-metrike-poyavilis-avtoceli-dlya-internet-magazinov-pokupka-i-sozdanie-zakaza/
