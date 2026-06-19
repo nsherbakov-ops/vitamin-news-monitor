@@ -5,6 +5,11 @@
 
 ## Опубликовано
 
+### 2026-06-19
+- Google запустил Ask Ad Manager — ИИ на базе Gemini для рекламных кампаний [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/19/346038.phtml
+- Meta обновила инструменты для маркетологов: реклама в live-эфирах, шопинг в трансляциях, партнёрские ссылки для блогеров [11:00 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/19/346024.phtml
+- 28% источников, цитируемых ChatGPT, не видны в Google — исследование о попадании в ИИ-поисковики [11:00 МСК, обычный прогон] — https://ppc.world/news/pochti-u-treti-citiruemyh-v-chatgpt-stranic-net-organicheskoy-vidimosti-v-google/
+
 ### 2026-06-18
 - Яндекс Метрика: автоцели «Покупка» и «Создание заказа» для интернет-магазинов [18:00 МСК, обычный прогон] — https://ppc.world/news/v-yandeks-metrike-poyavilis-avtoceli-dlya-internet-magazinov-pokupka-i-sozdanie-zakaza/
 - Больше трети блогеров используют ИИ [18:00 МСК, обычный прогон] — https://sostav.ru/publication/bolshe-treti-blogerov-ispolzuyut-ii-84641.html
