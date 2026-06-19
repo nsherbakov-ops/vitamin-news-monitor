@@ -9,6 +9,11 @@
 - Google запустил Ask Ad Manager — ИИ на базе Gemini для рекламных кампаний [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/19/346038.phtml
 - Meta обновила инструменты для маркетологов: реклама в live-эфирах, шопинг в трансляциях, партнёрские ссылки для блогеров [11:00 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/19/346024.phtml
 - 28% источников, цитируемых ChatGPT, не видны в Google — исследование о попадании в ИИ-поисковики [11:00 МСК, обычный прогон] — https://ppc.world/news/pochti-u-treti-citiruemyh-v-chatgpt-stranic-net-organicheskoy-vidimosti-v-google/
+- «Яндекс Ритм» отменил порог по подписчикам для монетизации блогеров [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/19/346052.phtml
+- Монетизация каналов в Дзен теперь доступна в РСЯ для блогеров [15:00 МСК, обязательный дайджест] — https://yandex.ru/adv/news/monetizatsiya-kanalov-v-dzene-teper-dostupna-v-rsya-dlya-blogerov
+- Как изменился рынок рекламы в Telegram — интервью Publish Media [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/publish-media-intervyu-83637.html
+- Почти половина зумеров узнаёт о новых товарах через рекламу в соцсетях [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/19/346049.phtml
+- Шопинг в ленте: как публикации в соцсетях влияют на решение о покупке [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/pokupki-rossiyan-cherez-publikatsii-v-internete-84650.html
 
 ### 2026-06-18
 - Яндекс Метрика: автоцели «Покупка» и «Создание заказа» для интернет-магазинов [18:00 МСК, обычный прогон] — https://ppc.world/news/v-yandeks-metrike-poyavilis-avtoceli-dlya-internet-magazinov-pokupka-i-sozdanie-zakaza/
