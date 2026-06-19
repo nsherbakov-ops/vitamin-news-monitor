@@ -14,6 +14,9 @@
 - Как изменился рынок рекламы в Telegram — интервью Publish Media [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/publish-media-intervyu-83637.html
 - Почти половина зумеров узнаёт о новых товарах через рекламу в соцсетях [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/19/346049.phtml
 - Шопинг в ленте: как публикации в соцсетях влияют на решение о покупке [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/pokupki-rossiyan-cherez-publikatsii-v-internete-84650.html
+- Букмекеры и АРИР подписали стандарты честной рекламы ставок [16:00 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/19/346041.phtml
+- Adobe расширяет ИИ-помощника Firefly на Illustrator, InDesign и Premiere [16:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/19/346023.phtml
+- Комьюнити вместо рекламы: как сильные связи вытесняют платные размещения [16:00 МСК, обычный прогон] — https://sostav.ru/publication/silnye-svyazi-vazhnee-kak-komyuniti-zamenyaet-reklamu-84654.html
 
 ### 2026-06-18
 - Яндекс Метрика: автоцели «Покупка» и «Создание заказа» для интернет-магазинов [18:00 МСК, обычный прогон] — https://ppc.world/news/v-yandeks-metrike-poyavilis-avtoceli-dlya-internet-magazinov-pokupka-i-sozdanie-zakaza/
