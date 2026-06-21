@@ -5,6 +5,12 @@
 
 ## Опубликовано
 
+### 2026-06-21
+- В Госдуме предложили приравнять к рекламе надписи о «пользе» продуктов на упаковках [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/psevdozozh-pod-kontrol-84663.html
+- GlobalSign — вторая волна отзыва TLS-сертификатов у российских сайтов (310 доменов) [10:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/globalsign-provodit-vtoruyu-volnu-otzyva-tls-sertifikatov-u-rossiyskikh-saytov/
+- VK AI Space получил поддержку мультиагентных систем [10:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/na-platforme-vk-ai-space-poyavilas-podderzhka-multiagentnykh-sistem/
+- Рынок ПО для ИИ в России вырастет в 4 раза к 2030 году — до 94,8 млрд руб. [10:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/rossiyskiy-rynok-po-dlya-ii-k-2030-godu-vyrastet-v-chetyre-raza-issledovanie/
+
 ### 2026-06-20
 - Рост аудитории Ozon и Wildberries замедлился [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/marketplejsy-sbavili-temp-84662.html
 - Instagram добавил индивидуальные подписи к каждому фото в «карусели» [15:00 МСК, обязательный дайджест] — https://vc.ru/services/2986566-instagram-dobavil-podpisy-dlya-kazhdoi-fotografii-v-karuseli
