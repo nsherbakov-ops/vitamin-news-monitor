@@ -11,6 +11,8 @@
 - Правительство поручило 11 министерствам разработать стратегию цифровых платформ [13:00 МСК, обычный прогон] — https://sostav.ru/publication/pravitelstvo-poruchilo-11-ministerstvam-podgotovit-strategiyu-razvitiya-tsifrovykh-platform-84681.html
 - VK Play заблокирован в браузерах — волна отзыва сертификатов GlobalSign продолжается [13:00 МСК, обычный прогон] — https://vc.ru/services/2989299-vk-play-zablokirovan-v-brauzerakh
 - L'Oréal интегрирует бренд-сервисы в ChatGPT [13:00 МСК, обычный прогон] — https://sostav.ru/publication/l-or-al-integriruet-servisy-krasoty-v-chatgpt-84678.html
+- АБА: стабильные блогеры привлекают новую аудиторию в 1,7× эффективнее [14:17 МСК, обычный прогон] — https://ppc.world/news/aba-nuzhno-izuchat-pokazateli-stabilnosti-blogerov-chtoby-prognozirovat-effektivnost-kampaniy/
+- Яндекс KIT подключился к доставке Ozon по модели FBS [14:17 МСК, обычный прогон] — https://yandex.ru/adv/news/polzovateli-yandex-kit-mogut-podklyuchit-ozon-dostavku-fbs
 
 ### 2026-06-21
 - В Госдуме предложили приравнять к рекламе надписи о «пользе» продуктов на упаковках [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/psevdozozh-pod-kontrol-84663.html
