@@ -19,6 +19,9 @@
 - Яндекс Директ: ИИ-управление рекламой в мессенджерах и новые инструменты для рекламодателей [17:00 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/22/346101.phtml
 - Директ: товарные объявления для продвижения приложений теперь работают на ретаргетинг [17:00 МСК, обычный прогон] — https://yandex.ru/adv/news/tovarnye-obyavleniya-dlya-prilozheniy-dostupny-dlya-retargetinga
 - RWB Медиа (Wildberries) открыла единую рекламную сеть на партнёрских сайтах [17:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/22/346096.phtml
+- Яндекс Директ: в объявлениях Товарной галереи теперь показываются характеристики товаров [19:00 МСК, обычный прогон] — https://ppc.world/news/v-obyavleniyah-tovarnoy-galerei-yandeksa-teper-pokazyvayutsya-harakteristiki-tovarov/
+- Лето 2026: тренды в рекламных креативах [19:00 МСК, обычный прогон] — https://sostav.ru/publication/leto-2026-trendy-v-kreative-84685.html
+- Правкомиссия одобрила законопроект о регулировании ИИ в России [19:00 МСК, обычный прогон] — https://sostav.ru/publication/pravkomissiya-odobrila-zakonoproekt-o-regulirovanii-ii-84704.html
 
 ### 2026-06-21
 - В Госдуме предложили приравнять к рекламе надписи о «пользе» продуктов на упаковках [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/psevdozozh-pod-kontrol-84663.html
