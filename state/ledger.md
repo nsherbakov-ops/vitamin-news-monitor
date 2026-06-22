@@ -5,6 +5,10 @@
 
 ## Опубликовано
 
+### 2026-06-22
+- Объём рекламного рынка превысил 220 млрд рублей в первом квартале 2026 года [11:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/22/346082.phtml
+- Динамика медиапотребления в России сократилась [11:01 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/22/346068.phtml
+
 ### 2026-06-21
 - В Госдуме предложили приравнять к рекламе надписи о «пользе» продуктов на упаковках [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/psevdozozh-pod-kontrol-84663.html
 - GlobalSign — вторая волна отзыва TLS-сертификатов у российских сайтов (310 доменов) [10:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/globalsign-provodit-vtoruyu-volnu-otzyva-tls-sertifikatov-u-rossiyskikh-saytov/
