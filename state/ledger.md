@@ -13,6 +13,9 @@
 - L'Oréal интегрирует бренд-сервисы в ChatGPT [13:00 МСК, обычный прогон] — https://sostav.ru/publication/l-or-al-integriruet-servisy-krasoty-v-chatgpt-84678.html
 - АБА: стабильные блогеры привлекают новую аудиторию в 1,7× эффективнее [14:17 МСК, обычный прогон] — https://ppc.world/news/aba-nuzhno-izuchat-pokazateli-stabilnosti-blogerov-chtoby-prognozirovat-effektivnost-kampaniy/
 - Яндекс KIT подключился к доставке Ozon по модели FBS [14:17 МСК, обычный прогон] — https://yandex.ru/adv/news/polzovateli-yandex-kit-mogut-podklyuchit-ozon-dostavku-fbs
+- Программатик в 2025 году: выручка превысила 56,3 млрд рублей (+11,7%) [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/vyruchka-programmatik-produktov-v-2025-godu-prevysila-56-3-mlrd-rublej-84698.html
+- ФАС штрафует за нарушения рекламного законодательства: ИИ и подрядчики не спасают [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/zvezdochka-ne-spaset-2-pochemu-rossijskie-brendy-teryayut-dengi-84684.html
+- WPP сохранила лидерство по биллингам: мировой рынок медиаразмещения — 478 млрд долл. [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/wpp-sokhranila-liderstvo-po-billingam-84694.html
 
 ### 2026-06-21
 - В Госдуме предложили приравнять к рекламе надписи о «пользе» продуктов на упаковках [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/psevdozozh-pod-kontrol-84663.html
