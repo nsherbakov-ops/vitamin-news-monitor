@@ -16,6 +16,9 @@
 - Программатик в 2025 году: выручка превысила 56,3 млрд рублей (+11,7%) [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/vyruchka-programmatik-produktov-v-2025-godu-prevysila-56-3-mlrd-rublej-84698.html
 - ФАС штрафует за нарушения рекламного законодательства: ИИ и подрядчики не спасают [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/zvezdochka-ne-spaset-2-pochemu-rossijskie-brendy-teryayut-dengi-84684.html
 - WPP сохранила лидерство по биллингам: мировой рынок медиаразмещения — 478 млрд долл. [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/wpp-sokhranila-liderstvo-po-billingam-84694.html
+- Яндекс Директ: ИИ-управление рекламой в мессенджерах и новые инструменты для рекламодателей [17:00 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/22/346101.phtml
+- Директ: товарные объявления для продвижения приложений теперь работают на ретаргетинг [17:00 МСК, обычный прогон] — https://yandex.ru/adv/news/tovarnye-obyavleniya-dlya-prilozheniy-dostupny-dlya-retargetinga
+- RWB Медиа (Wildberries) открыла единую рекламную сеть на партнёрских сайтах [17:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/22/346096.phtml
 
 ### 2026-06-21
 - В Госдуме предложили приравнять к рекламе надписи о «пользе» продуктов на упаковках [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/psevdozozh-pod-kontrol-84663.html
