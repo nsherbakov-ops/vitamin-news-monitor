@@ -8,6 +8,9 @@
 ### 2026-06-22
 - Объём рекламного рынка превысил 220 млрд рублей в первом квартале 2026 года [11:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/22/346082.phtml
 - Динамика медиапотребления в России сократилась [11:01 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/22/346068.phtml
+- Правительство поручило 11 министерствам разработать стратегию цифровых платформ [13:00 МСК, обычный прогон] — https://sostav.ru/publication/pravitelstvo-poruchilo-11-ministerstvam-podgotovit-strategiyu-razvitiya-tsifrovykh-platform-84681.html
+- VK Play заблокирован в браузерах — волна отзыва сертификатов GlobalSign продолжается [13:00 МСК, обычный прогон] — https://vc.ru/services/2989299-vk-play-zablokirovan-v-brauzerakh
+- L'Oréal интегрирует бренд-сервисы в ChatGPT [13:00 МСК, обычный прогон] — https://sostav.ru/publication/l-or-al-integriruet-servisy-krasoty-v-chatgpt-84678.html
 
 ### 2026-06-21
 - В Госдуме предложили приравнять к рекламе надписи о «пользе» продуктов на упаковках [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/psevdozozh-pod-kontrol-84663.html
