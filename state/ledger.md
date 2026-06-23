@@ -16,6 +16,9 @@
 - Яндекс Тег Менеджер: сабконтейнеры и новые настройки тегов/триггеров [16:00 МСК, обычный прогон] — https://yandex.ru/adv/news/sabkonteynery-i-novye-nastrojki-triggerov-v-yandeks-teg-menedzhere
 - Турецкие бренды вдвое нарастили инвестиции в рекламу на Яндексе (5 мес. 2026) [16:00 МСК, обычный прогон] — https://sostav.ru/publication/turetskie-brendy-vdvoe-narastili-investitsii-v-prodvizhenie-na-yandekse-84729.html
 - «Каннские львы 2026»: старт фестиваля и главные темы индустрии [16:00 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/23/346146.phtml
+- Верховный суд признал законной механику «подписка на рекламу за скидку» [18:00 МСК, обычный прогон] — https://sostav.ru/publication/verkhovnyj-sud-priznal-zakonnoj-mekhaniku-podpiska-na-reklamu-za-skidku-84734.html
+- В каналах ВКонтакте появились видеосообщения, закреплённые посты и репост в историю [18:00 МСК, обычный прогон] — https://ppc.world/news/v-kanalah-vkontakte-poyavilis-videosoobscheniya-zakreplennye-posty-i-repost-v-istoriyu/
+- Rutube возглавил рейтинг платформ для монетизации контента в России (ставка 50–150 руб./1000 просм.) [18:00 МСК, обычный прогон] — https://ppc.world/news/rutube-vozglavil-reyting-platform-dlya-monetizacii-kontenta-v-rossii-avtory-zarabatyvayut-do-150-rubley-za-1000-prosmotrov/
 
 ### 2026-06-22
 - Объём рекламного рынка превысил 220 млрд рублей в первом квартале 2026 года [11:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/22/346082.phtml
