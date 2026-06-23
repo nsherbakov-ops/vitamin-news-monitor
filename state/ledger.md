@@ -5,6 +5,11 @@
 
 ## Опубликовано
 
+### 2026-06-23
+- TikTok запустил Symphony Agent — ИИ для создания видеорекламы без съёмки [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/23/346129.phtml
+- Omnicom Media Group + Netflix: ИИ-таргетинг рекламы в стриминговом контенте [11:00 МСК, обычный прогон] — https://sostav.ru/publication/omnicom-media-i-netflix-obyavili-o-partnerstve-dlya-integratsii-reklamy-v-strimingovyj-kontent-84714.html
+- Amazon запускает Creator Hub — витрина блогеров на Fire TV [11:00 МСК, обычный прогон] — https://adindex.ru/news/media/2026/06/23/346119.phtml
+
 ### 2026-06-22
 - Объём рекламного рынка превысил 220 млрд рублей в первом квартале 2026 года [11:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/22/346082.phtml
 - Динамика медиапотребления в России сократилась [11:01 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/22/346068.phtml
@@ -77,20 +82,3 @@
 - РСЯ запустила конкурс для блогеров с призом 500 000 руб. [15:00 МСК, обязательный дайджест] — https://yandex.ru/adv/news/konkurs-dlya-blogerov-ot-rsya-vyigrayte-500000-rubley
 - 58% россиян готовы платить больше за локальные бренды [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/06/16/345929.phtml
 
-### 2026-06-16
-- Яндекс Директ меняет работу бюджетов — https://ppc.world/news/direkt-obnovlyaet-rabotu-byudzhetov-v-kampaniyah/
-- VK Реклама: единый объект для продвижения каналов (ВК/MAX/Дзен) — https://ppc.world/news/cherez-vk-reklamu-teper-mozhno-prodvigat-kanaly-v-makse-vkontakte-i-dzene/
-- Рынок рекламы в MAX вырос в 55 раз за полгода — https://ppc.world/news/rynok-reklamy-v-makse-vyros-v-55-raz-za-polgoda/
-- Google отключает блокировщики рекламы в Chrome — https://ppc.world/news/google-otklyuchit-blokirovschiki-reklamy-v-chrome/
-- WARC пересмотрел прогноз роста рекламного рынка — https://adindex.ru/news/tendencies/2026/06/15/345870.phtml
-- Telegram-боты: расширенное форматирование — https://ppc.world/news/boty-v-telegram-poluchili-rasshirennoe-formatirovanie-tablicy-formuly-i-dlinnye-soobscheniya/
-- «Платформа для партнёров» MAX доступна самозанятым — https://ppc.world/news/platforma-dlya-partnerov-messendzhera-maks-stala-dostupna-samozanyatym/
-- Яндекс KIT: услуги в карточке товара — https://ppc.world/news/internet-magaziny-na-yandeks-kit-smogut-predlagat-uslugi-v-kartochke-tovara/
-- Бизнес увеличил траты на рекламу в Telegram на 11% — https://adindex.ru/news/tendencies/2026/06/16/345911.phtml
-- WPP: реклама в AI-поиске — самый быстрорастущий сегмент — https://adindex.ru/news/digital/2026/06/16/345921.phtml
-- Медиарынок: рост в 2026 замедлится до 15% (Native Speech) — https://adindex.ru/news/tendencies/2026/06/16/345918.phtml
-- Письма с именем получателя и эмодзи открывают на 13% чаще — https://adindex.ru/news/researches/2026/06/16/345925.phtml
-- Директ обновит текстово-графические объявления до комбинаторных в ЕПК [23:33 МСК] — https://ppc.world/news/direkt-obnovit-tekstovo-graficheskie-obyavleniya-do-kombinatornyh-v-edinoy-perfomans-kampanii/
-- В Яндекс Метрике появились цели по параметрам событий, мультицели и единый раздел [23:33 МСК] — https://ppc.world/news/v-yandeks-metrike-poyavilis-celi-po-parametram-sobytiy-multiceli-i-edinyy-razdel-dlya-raboty-s-celyami-i-konversiyami/
-- Electronic Arts запустила платформу для рекламодателей [23:33 МСК] — https://adindex.ru/news/digital/2026/06/16/345910.phtml
-- Uber Advertising запустил новые рекламные форматы [23:33 МСК] — https://adindex.ru/news/marketing/2026/06/16/345906.phtml
