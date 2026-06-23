@@ -19,6 +19,9 @@
 - Верховный суд признал законной механику «подписка на рекламу за скидку» [18:00 МСК, обычный прогон] — https://sostav.ru/publication/verkhovnyj-sud-priznal-zakonnoj-mekhaniku-podpiska-na-reklamu-za-skidku-84734.html
 - В каналах ВКонтакте появились видеосообщения, закреплённые посты и репост в историю [18:00 МСК, обычный прогон] — https://ppc.world/news/v-kanalah-vkontakte-poyavilis-videosoobscheniya-zakreplennye-posty-i-repost-v-istoriyu/
 - Rutube возглавил рейтинг платформ для монетизации контента в России (ставка 50–150 руб./1000 просм.) [18:00 МСК, обычный прогон] — https://ppc.world/news/rutube-vozglavil-reyting-platform-dlya-monetizacii-kontenta-v-rossii-avtory-zarabatyvayut-do-150-rubley-za-1000-prosmotrov/
+- Цифровая усталость: почему реклама перестаёт работать и как бизнес перестраивает маркетинг [19:01 МСК, обычный прогон] — https://sostav.ru/publication/tsifrovaya-ustalost-pochemu-reklama-perestaet-rabotat-i-kak-biznes-perestraivaet-marketing-84731.html
+- Победители первого дня «Каннских льовов 2026»: от штрихкода до мобильной клиники [19:01 МСК, обычный прогон] — https://adindex.ru/news/creative/2026/06/23/346158.phtml
+- Диджитал Индекс 2.0: обновление рейтинга интернет-подрядчиков [19:01 МСК, обычный прогон] — https://adindex.ru/news/agencies/2026/06/23/346140.phtml
 
 ### 2026-06-22
 - Объём рекламного рынка превысил 220 млрд рублей в первом квартале 2026 года [11:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/22/346082.phtml
