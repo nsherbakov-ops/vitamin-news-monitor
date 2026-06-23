@@ -12,6 +12,10 @@
 - Рынок наружной рекламы в России вырос до 30,3 млрд руб. в Q1 2026 (+11% г/г) [14:00 МСК, обычный прогон] — https://adindex.ru/news/ad_budjet/2026/06/23/346145.phtml
 - Бренды массово выдают ИИ-инфлюенсеров за реальных людей — без маркировки [14:00 МСК, обычный прогон] — https://sostav.ru/publication/brendy-vse-chashche-vydayut-ii-inflyuenserov-za-realnykh-lyudej-84725.html
 - Disney запускает ESPN Fan House — рекламная платформа для брендов на спортивных событиях [14:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/23/346137.phtml
+- RWB Медиа (Wildberries) запустила CPC-оплату для медийных баннеров [16:00 МСК, обычный прогон] — https://sostav.ru/publication/rwb-media-zapustila-oplatu-za-kliki-dlya-medijnykh-bannerov-84732.html
+- Яндекс Тег Менеджер: сабконтейнеры и новые настройки тегов/триггеров [16:00 МСК, обычный прогон] — https://yandex.ru/adv/news/sabkonteynery-i-novye-nastrojki-triggerov-v-yandeks-teg-menedzhere
+- Турецкие бренды вдвое нарастили инвестиции в рекламу на Яндексе (5 мес. 2026) [16:00 МСК, обычный прогон] — https://sostav.ru/publication/turetskie-brendy-vdvoe-narastili-investitsii-v-prodvizhenie-na-yandekse-84729.html
+- «Каннские львы 2026»: старт фестиваля и главные темы индустрии [16:00 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/23/346146.phtml
 
 ### 2026-06-22
 - Объём рекламного рынка превысил 220 млрд рублей в первом квартале 2026 года [11:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/22/346082.phtml
