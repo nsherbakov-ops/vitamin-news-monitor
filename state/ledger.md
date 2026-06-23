@@ -9,6 +9,9 @@
 - TikTok запустил Symphony Agent — ИИ для создания видеорекламы без съёмки [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/23/346129.phtml
 - Omnicom Media Group + Netflix: ИИ-таргетинг рекламы в стриминговом контенте [11:00 МСК, обычный прогон] — https://sostav.ru/publication/omnicom-media-i-netflix-obyavili-o-partnerstve-dlya-integratsii-reklamy-v-strimingovyj-kontent-84714.html
 - Amazon запускает Creator Hub — витрина блогеров на Fire TV [11:00 МСК, обычный прогон] — https://adindex.ru/news/media/2026/06/23/346119.phtml
+- Рынок наружной рекламы в России вырос до 30,3 млрд руб. в Q1 2026 (+11% г/г) [14:00 МСК, обычный прогон] — https://adindex.ru/news/ad_budjet/2026/06/23/346145.phtml
+- Бренды массово выдают ИИ-инфлюенсеров за реальных людей — без маркировки [14:00 МСК, обычный прогон] — https://sostav.ru/publication/brendy-vse-chashche-vydayut-ii-inflyuenserov-za-realnykh-lyudej-84725.html
+- Disney запускает ESPN Fan House — рекламная платформа для брендов на спортивных событиях [14:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/23/346137.phtml
 
 ### 2026-06-22
 - Объём рекламного рынка превысил 220 млрд рублей в первом квартале 2026 года [11:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/22/346082.phtml
