@@ -15,6 +15,9 @@
 - Amazon Ads добавил функцию покупки товаров прямо из телевизионной рекламы [13:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/24/346183.phtml
 - Маркетинг-директор P&G: ИИ открывает новую эру в маркетинге [13:00 МСК, обычный прогон] — https://sostav.ru/publication/marketing-direktor-p-g-iskusstvennyj-intellekt-otkryvaet-novuyu-eru-84755.html
 - Второй день Cannes Lions 2026: Google, Adidas, Coinbase среди победителей [13:00 МСК, обычный прогон] — https://adindex.ru/news/creative/2026/06/23/346168.phtml
+- WPP представила пять принципов доверия в эпоху ИИ [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/wpp-predstavila-pyat-printsipov-doveriya-v-epokhu-iskusstvennogo-intellekta-84767.html
+- Omnicom Media и Paramount+ — динамические рекламные блоки в стриминге [15:01 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/24/346185.phtml
+- Meta разрабатывает Arena — приложение для прогнозов и ставок [15:01 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/24/346173.phtml
 
 ### 2026-06-23
 - TikTok запустил Symphony Agent — ИИ для создания видеорекламы без съёмки [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/23/346129.phtml
