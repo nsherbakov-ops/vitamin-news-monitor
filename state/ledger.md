@@ -18,6 +18,9 @@
 - WPP представила пять принципов доверия в эпоху ИИ [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/wpp-predstavila-pyat-printsipov-doveriya-v-epokhu-iskusstvennogo-intellekta-84767.html
 - Omnicom Media и Paramount+ — динамические рекламные блоки в стриминге [15:01 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/24/346185.phtml
 - Meta разрабатывает Arena — приложение для прогнозов и ставок [15:01 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/24/346173.phtml
+- MAX удалён из App Store — инструкция для iPhone и до 10 каналов на организацию [17:00 МСК, обычный прогон] — https://ppc.world/news/maks-predstavil-instrukciyu-kak-poluchat-uvedomleniya-na-iphone-aktualno-posle-udaleniya-messendzhera-iz-app-store/
+- Telegram тестирует расширенный редактор постов: таблицы, формулы, заголовки, коллажи [17:00 МСК, обычный прогон] — https://ppc.world/news/telegram-testiruet-rasshirennyy-tekstovyy-redaktor-s-tablicami-i-formulami/
+- Cannes Lions 2026: подробный разбор второго дня — Apple, Google, Adidas, Hyundai [17:00 МСК, обычный прогон] — https://sostav.ru/publication/cannes-lions-2026-ot-gejmerov-do-gumanitarnykh-missij-pobediteli-vtorogo-dnya-festivalya-84735.html
 
 ### 2026-06-23
 - TikTok запустил Symphony Agent — ИИ для создания видеорекламы без съёмки [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/23/346129.phtml
