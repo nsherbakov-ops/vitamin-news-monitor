@@ -21,6 +21,9 @@
 - MAX удалён из App Store — инструкция для iPhone и до 10 каналов на организацию [17:00 МСК, обычный прогон] — https://ppc.world/news/maks-predstavil-instrukciyu-kak-poluchat-uvedomleniya-na-iphone-aktualno-posle-udaleniya-messendzhera-iz-app-store/
 - Telegram тестирует расширенный редактор постов: таблицы, формулы, заголовки, коллажи [17:00 МСК, обычный прогон] — https://ppc.world/news/telegram-testiruet-rasshirennyy-tekstovyy-redaktor-s-tablicami-i-formulami/
 - Cannes Lions 2026: подробный разбор второго дня — Apple, Google, Adidas, Hyundai [17:00 МСК, обычный прогон] — https://sostav.ru/publication/cannes-lions-2026-ot-gejmerov-do-gumanitarnykh-missij-pobediteli-vtorogo-dnya-festivalya-84735.html
+- Рекламу криптовалют могут запретить в России [19:00 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/24/346213.phtml
+- Стратегия «выхода»: почему селлеры покидают маркетплейсы и как уйти, не потеряв бизнес [19:00 МСК, обычный прогон] — https://sostav.ru/publication/strategiya-vykhoda-pochemu-sellery-pokidayut-marketplejsy-i-kak-ujti-ne-poteryav-biznes-84768.html
+- ByteDance планирует взять кредит на 20 млрд долл. [19:00 МСК, обычный прогон] — https://sostav.ru/publication/bytedance-planiruet-vzyat-kredit-na-20-mlrd-84769.html
 
 ### 2026-06-23
 - TikTok запустил Symphony Agent — ИИ для создания видеорекламы без съёмки [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/23/346129.phtml
