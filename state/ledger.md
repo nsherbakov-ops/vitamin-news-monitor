@@ -5,6 +5,12 @@
 
 ## Опубликовано
 
+### 2026-06-24
+- Рекламный рынок превысил 1 трлн долл. и вырастет до 1,4 трлн долл. к 2030 году [10:16 МСК, обязательный дайджест] — https://sostav.ru/publication/reklamnyj-rynok-prevysil-1-trln-i-vyrastet-do-1-4-trln-k-2030-godu-84749.html
+- Т-Банк, «Дром» и Hassle стали лидерами по рекламным интеграциям на YouTube [10:16 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/24/346171.phtml
+- Walmart купил рекламную платформу Vibe.co для CTV-маркетинга [10:16 МСК, обязательный дайджест] — https://adindex.ru/news/marketing/2026/06/24/346177.phtml
+- Twitch не работает в России — Роскомнадзор опровергает блокировку [10:16 МСК, обязательный дайджест] — https://ppc.world/news/twitch-ne-rabotaet-v-rossii-no-roskomnadzor-oproverg-blokirovku-strimingovoy-platformy/
+
 ### 2026-06-23
 - TikTok запустил Symphony Agent — ИИ для создания видеорекламы без съёмки [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/23/346129.phtml
 - Omnicom Media Group + Netflix: ИИ-таргетинг рекламы в стриминговом контенте [11:00 МСК, обычный прогон] — https://sostav.ru/publication/omnicom-media-i-netflix-obyavili-o-partnerstve-dlya-integratsii-reklamy-v-strimingovyj-kontent-84714.html
