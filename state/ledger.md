@@ -10,6 +10,11 @@
 - Т-Банк, «Дром» и Hassle стали лидерами по рекламным интеграциям на YouTube [10:16 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/24/346171.phtml
 - Walmart купил рекламную платформу Vibe.co для CTV-маркетинга [10:16 МСК, обязательный дайджест] — https://adindex.ru/news/marketing/2026/06/24/346177.phtml
 - Twitch не работает в России — Роскомнадзор опровергает блокировку [10:16 МСК, обязательный дайджест] — https://ppc.world/news/twitch-ne-rabotaet-v-rossii-no-roskomnadzor-oproverg-blokirovku-strimingovoy-platformy/
+- Госдума одобрила заморозку порога НДС — платить будет только бизнес с доходом от 20 млн руб. [13:00 МСК, обычный прогон] — https://ppc.world/news/gosduma-v-pervom-chtenii-odobrila-zamorozku-poroga-nds-platit-nds-budet-tolko-biznes-s-dohodom-ot-20-mln-rubley/
+- Яндекс может запустить новый бренд для работы с блогерами [13:00 МСК, обычный прогон] — https://www.seonews.ru/events/yandeks-mozhet-zapustit-novyy-brend-dlya-raboty-s-blogerami/
+- Amazon Ads добавил функцию покупки товаров прямо из телевизионной рекламы [13:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/24/346183.phtml
+- Маркетинг-директор P&G: ИИ открывает новую эру в маркетинге [13:00 МСК, обычный прогон] — https://sostav.ru/publication/marketing-direktor-p-g-iskusstvennyj-intellekt-otkryvaet-novuyu-eru-84755.html
+- Второй день Cannes Lions 2026: Google, Adidas, Coinbase среди победителей [13:00 МСК, обычный прогон] — https://adindex.ru/news/creative/2026/06/23/346168.phtml
 
 ### 2026-06-23
 - TikTok запустил Symphony Agent — ИИ для создания видеорекламы без съёмки [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/23/346129.phtml
@@ -88,16 +93,4 @@
 - Лишь 30% маркетологов стремятся к совершенству при создании рекламных креативов [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/18/345998.phtml
 - Мишустин: реклама — драйвер креативной экономики России [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/mishustin-po-reklama-i-urbanistika-drajvery-kreativnoj-ekonomiki-rossii-84628.html
 
-### 2026-06-17
-- Amazon грозят штрафы из-за непрозрачных рекламных аукционов [17:01 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/17/345971.phtml
-- Совфед одобрил «Антифрод 2.0» и штрафы за иностранную авторизацию [17:01 МСК, обычный прогон] — https://sostav.ru/publication/sovfed-odobril-zakon-antifrod-2-0-i-shtrafy-za-narusheniya-pravil-avtorizatsii-polzovatelej-84606.html
-- Селлеры попросили маркетплейсы снизить комиссию за отказ от скидок [17:01 МСК, обычный прогон] — https://sostav.ru/publication/sellery-poprosili-marketplejsy-snizit-komissiyu-za-otkaz-ot-skidok-84608.html
-- VK Видео: вечерний просмотр видео — главный способ снять стресс у россиян [17:01 МСК, обычный прогон] — https://likeni.ru/events/vecherniy-prosmotr-video-stal-instrumentom-borby-so-stressom-dlya-rossiyan-issledovanie-vk-video/
-- Объём рекламы через СМС вырос на треть из-за ограничений интернета [13:24 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/17/345951.phtml
-- Кроссплатформенность — главный тренд 2026: VK для нативки (60%), Telegram для CPA (79%) [13:24 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/17/345955.phtml
-- Топ-5 категорий Telegram-каналов по вовлечению (март–май 2026) [13:24 МСК, обычный прогон] — https://sostav.ru/publication/top-5-kategorij-kanalov-v-telegram-po-vovlecheniu-za-poslednie-dva-mesyaca-84593.html
-- Совфед одобрил запрет на социальную рекламу с участием иноагентов [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/sovfed-odobril-zapret-na-sotsialnuyu-reklamu-s-uchastiem-inoagentov-84609.html
-- Больше половины россиян пользуются VPN — и не планируют отказываться [15:00 МСК, обязательный дайджест] — https://ppc.world/news/bolshe-poloviny-rossiyan-polzuyutsya-vpn-tolko-10-gotovy-ot-nego-otkazatsya-issledovanie/
-- РСЯ запустила конкурс для блогеров с призом 500 000 руб. [15:00 МСК, обязательный дайджест] — https://yandex.ru/adv/news/konkurs-dlya-blogerov-ot-rsya-vyigrayte-500000-rubley
-- 58% россиян готовы платить больше за локальные бренды [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/06/16/345929.phtml
 
