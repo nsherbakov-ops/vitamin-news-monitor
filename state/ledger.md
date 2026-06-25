@@ -34,6 +34,8 @@
 - Маркетологи и пиарщики умерили ожидания от ИИ [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/marketologi-i-piarshchiki-umerili-svoi-ozhidaniya-otnositelno-vozmozhnostej-ii-84804.html
 - Cannes Lions 2026: победители в Creative Data, Media, Direct, PR и Social & Creator [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/cannes-lions-2026-obyavili-pobeditelej-v-creative-data-media-direct-pr-i-social-creator-84800.html
 - Google разрешит сторонние способы оплаты в Google Play [15:00 МСК, обязательный дайджест] — https://vc.ru/services/2994728-google-play-razreshit-alternativnye-sposoby-oplaty
+- Акции VK рухнули до рекордного минимума после удаления приложений из App Store [18:01 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/25/346260.phtml
+- Покупки в диалоге: как мир привыкает приобретать товары через нейросети [18:01 МСК, обычный прогон] — https://sostav.ru/publication/pokupki-v-dialoge-kak-mir-privykaet-priobretat-tovary-cherez-nejroseti-84774.html
 
 ### 2026-06-24
 - Рекламный рынок превысил 1 трлн долл. и вырастет до 1,4 трлн долл. к 2030 году [10:16 МСК, обязательный дайджест] — https://sostav.ru/publication/reklamnyj-rynok-prevysil-1-trln-i-vyrastet-do-1-4-trln-k-2030-godu-84749.html
