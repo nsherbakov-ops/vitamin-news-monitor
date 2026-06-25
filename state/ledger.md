@@ -16,6 +16,10 @@
 ## Опубликовано
 
 ### 2026-06-25
+- Яндекс запустил «Прайм-баннер» — единый охватный формат на 20+ сервисах экосистемы [17:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346259.phtml
+- VK Реклама запустила продвижение каналов ВКонтакте, MAX и Дзен (бета) [17:01 МСК, обычный прогон] — https://vk.company/ru/press/releases/12333/
+- Яндекс B2B Tech открыл Vibecraft — сайты по текстовому описанию за 5–10 минут [17:01 МСК, обычный прогон] — https://ppc.world/news/yandex-b2b-tech-otkryl-dostup-k-vibecraft-s-kotorym-mozhno-sozdat-sayt-po-tekstovomu-opisaniyu/
+- Платформа для партнёров MAX открылась для самозанятых [17:01 МСК, обычный прогон] — https://vk.company/ru/press/releases/12335/
 - РСЯ прекращает сотрудничество с физлицами: до 1 июля — самозанятость или ИП [12:00 МСК, обычный прогон] — https://ppc.world/news/rsya-napomnila-o-prekraschenii-sotrudnichestva-s-fizlicami-do-1-iyulya-nuzhno-pereyti-na-samozanyatost-ili-ip/
 - Apple без предупреждения удалила из App Store Дзен, VK Видео, VK Знакомства, VK Мессенджер и VK Музыку [12:00 МСК, обычный прогон] — https://sostav.ru/publication/iz-app-store-udalili-prilozheniya-dzen-i-vk-messendzher-84796.html
 - Meta запустила Creator Studio — ИИ-инструмент для контентмейкеров на Facebook [12:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346223.phtml
