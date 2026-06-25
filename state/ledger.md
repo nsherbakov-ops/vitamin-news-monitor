@@ -17,6 +17,10 @@
 - Apple без предупреждения удалила из App Store Дзен, VK Видео, VK Знакомства, VK Мессенджер и VK Музыку [12:00 МСК, обычный прогон] — https://sostav.ru/publication/iz-app-store-udalili-prilozheniya-dzen-i-vk-messendzher-84796.html
 - Meta запустила Creator Studio — ИИ-инструмент для контентмейкеров на Facebook [12:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346223.phtml
 - Пользователи с блокировщиками рекламы тратят на покупки больше [12:00 МСК, обычный прогон] — https://sostav.ru/publication/polzovateli-s-blokirovshchikami-reklamy-tratyat-na-pokupki-bolshe-84786.html
+- Publicis Groupe раскритиковала ажиотаж вокруг ИИ в рекламной индустрии [14:00 МСК, обычный прогон] — https://sostav.ru/publication/publicis-groupe-raskritikovala-azhiotazh-vokrug-ii-v-reklamnoj-industrii-84803.html
+- Обновление «Алисы AI»: доводит задачу до результата и запоминает важное из диалога [14:00 МСК, обычный прогон] — https://sostav.ru/publication/obnovlenie-alisy-ai-ona-dovodit-zadachu-do-rezultata-i-zapominaet-vazhnoe-iz-dialoga-84791.html
+- Почти половина маркетологов в мире признают, что их реклама остаётся шаблонной [14:00 МСК, обычный прогон] — https://sostav.ru/publication/pochti-polovina-marketologov-v-mire-priznayut-chto-ikh-reklama-ostaetsya-shablonnoj-84797.html
+- Зумеры чаще других поколений готовы платить за мобильные приложения [14:00 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/25/346220.phtml
 
 ### 2026-06-24
 - Рекламный рынок превысил 1 трлн долл. и вырастет до 1,4 трлн долл. к 2030 году [10:16 МСК, обязательный дайджест] — https://sostav.ru/publication/reklamnyj-rynok-prevysil-1-trln-i-vyrastet-do-1-4-trln-k-2030-godu-84749.html
