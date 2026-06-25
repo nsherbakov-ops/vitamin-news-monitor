@@ -36,6 +36,8 @@
 - Google разрешит сторонние способы оплаты в Google Play [15:00 МСК, обязательный дайджест] — https://vc.ru/services/2994728-google-play-razreshit-alternativnye-sposoby-oplaty
 - Акции VK рухнули до рекордного минимума после удаления приложений из App Store [18:01 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/25/346260.phtml
 - Покупки в диалоге: как мир привыкает приобретать товары через нейросети [18:01 МСК, обычный прогон] — https://sostav.ru/publication/pokupki-v-dialoge-kak-mir-privykaet-priobretat-tovary-cherez-nejroseti-84774.html
+- Apple объяснила удаление VK из App Store «соблюдением санкций» (Sogaz, Газпромбанк, Ростех) [19:01 МСК, обычный прогон] — https://vc.ru/services/2995674-apple-udalenie-prilozheniy-vk
+- Кабмин внёс в Госдуму законопроект о поддержке развития ИИ [19:01 МСК, обычный прогон] — https://sostav.ru/publication/kabmin-vnes-v-gosdumu-zakonoproekt-o-podderzhke-razvitiya-ii-84811.html
 
 ### 2026-06-24
 - Рекламный рынок превысил 1 трлн долл. и вырастет до 1,4 трлн долл. к 2030 году [10:16 МСК, обязательный дайджест] — https://sostav.ru/publication/reklamnyj-rynok-prevysil-1-trln-i-vyrastet-do-1-4-trln-k-2030-godu-84749.html
