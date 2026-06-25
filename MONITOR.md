@@ -14,7 +14,7 @@ Vitamin.tools — рекламная экосистема и агрегатор 
 - **🟢 ОБЫЧНЫЙ ЧАСОВОЙ ПРОГОН** — все остальные часы. Публикуй ТОЛЬКО если есть реально новые релевантные новости (особенно 🔥 срочные). Если новых релевантных нет после дедупа — НИЧЕГО не постить, это нормально (не спамим), просто заверши прогон.
 
 
-## Источники (проверь свежие новости, можно параллельными Ф)WebFetch; приоритет рекламным)
+## Источники (проверь свежие новости, можно параллельными Ф)BWebFetch; приоритет рекламным)
 ppc.world/news/ · adindex.ru/news/ · sostav.ru/lenta · seonews.ru/events/ · likeni.ru/events/ · vc.ru/services · vk.company/ru/press/releases/ · yandex.ru/company/news · yandex.ru/adv/news · kod.ru/tag/news · hi-tech.mail.ru/news/ · rozetked.me/news
 
 
@@ -27,7 +27,9 @@ ppc.world/news/ · adindex.ru/news/ · sostav.ru/lenta · seonews.ru/events/ · 
    - 🟢 обычный прогон: если после дедупа новых релевантных новостей нет — заверши БЕЗ отправки.
 4. Если дайджест нужен — отправь ОДИН пост в Telegram-канал (chat_id `-1003969663541`, канал @monitoringnewsvitamintools) через Bot API. Токен бота лежит в переменной окружения `TELEGRAM_BOT_TOKEN` (НЕ печатай его в логи). Пример вызова:
    ```bash
-   curl -sS "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+   curl -sS \
+     --variable "%TELEGRAM_BOT_TOKEN" \
+     --expand-url "https://api.telegram.org/bot{{TELEGRAM_BOT_TOKEN}}/sendMessage" \
      --data-urlencode "chat_id=-1003969663541" \
      --data-urlencode "parse_mode=HTML" \
      --data-urlencode "disable_web_page_preview=true" \
@@ -38,4 +40,3 @@ ppc.world/news/ · adindex.ru/news/ · sostav.ru/lenta · seonews.ru/events/ · 
 
 
 НЕ пиши статьи и НЕ генерируй картинки — это делается отдельно по запросу пользователя в чате. Твоя задача в этом прогоне — только мониторинг и (при необходимости) дайджест.
-
