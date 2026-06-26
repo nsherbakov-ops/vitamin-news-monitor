@@ -33,6 +33,9 @@
 - «Авито Реклама» открыла ретаргетинг для бизнеса любого размера [12:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346268.phtml
 - Гран-при «Каннских льовов 2026» — Adidas взял главную награду с «Supernova Adaptive» [12:01 МСК, обычный прогон] — https://adindex.ru/news/creative/2026/06/25/346267.phtml
 - Каждый пятый россиянин готов платить за ИИ-помощника в приложениях на регулярной основе [12:01 МСК, обычный прогон] — https://sostav.ru/publication/kazhdyj-pyatyj-rossiyanin-gotov-platit-za-ii-pomoshchnika-v-prilozheniyakh-na-regulyarnoj-osnove-84826.html
+- Рынок short video commerce в России — до 1,5 трлн руб. к 2027 году (исследование РАЭК) [16:00 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/26/346285.phtml
+- Кейс: БЛОКПОСТ + MTC OmniChannel — ROMI вырос в 2 раза [16:00 МСК, обычный прогон] — https://sostav.ru/publication/renessans-mms-kak-blokpost-i-mtc-omnichannel-uvelichili-romi-v-2-raza-84812.html
+- Приложение Telega прекратит работу с 1 июля [16:00 МСК, обычный прогон] — https://likeni.ru/events/prilozhenie-telega-prekratit-rabotu-s-1-iyulya/
 
 ### 2026-06-25
 - Яндекс запустил «Прайм-баннер» — единый охватный формат на 20+ сервисах экосистемы [17:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346259.phtml
