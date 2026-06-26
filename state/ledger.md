@@ -26,6 +26,10 @@
 - МАХ начал тестировать комментарии в публичных каналах [13:00 МСК, обычный прогон] — https://vk.company/ru/press/releases/12344/
 - Unilever сделала ставку на культурную значимость вместо роста рекламных бюджетов [13:00 МСК, обычный прогон] — https://sostav.ru/publication/unilever-sdelala-stavku-na-kulturnuyu-znachimost-vmesto-rosta-reklamnykh-byudzhetov-84832.html
 - ФАС выдала предупреждение банку «Ак Барс» [13:00 МСК, обычный прогон] — https://sostav.ru/publication/fas-vydala-preduprezhdenie-banku-ak-bars-84830.html
+- В отчетах Яндекс Метрики появилась детальная диагностика по офлайн-данным [15:00 МСК, обязательный дайджест] — https://ppc.world/news/v-otchetah-yandeks-metriki-poyavilas-detalnaya-diagnostika-po-oflayn-dannym/
+- 42,8% пользователей начинают поиск информации в нейросетях — исследование SEOnews [15:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/42-8-polzovateley-nachinayut-poisk-informatsii-v-neyrosetyakh-issledovanie/
+- Okkam: эффективность indoor-рекламы зависит от среды, а не формата [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/26/346284.phtml
+- Cannes Lions 2026: победители в категориях Strategy и Experience [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/cannes-lions-2026-obyavili-pobeditelej-v-strategy-i-experience-84833.html
 - «Авито Реклама» открыла ретаргетинг для бизнеса любого размера [12:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346268.phtml
 - Гран-при «Каннских льовов 2026» — Adidas взял главную награду с «Supernova Adaptive» [12:01 МСК, обычный прогон] — https://adindex.ru/news/creative/2026/06/25/346267.phtml
 - Каждый пятый россиянин готов платить за ИИ-помощника в приложениях на регулярной основе [12:01 МСК, обычный прогон] — https://sostav.ru/publication/kazhdyj-pyatyj-rossiyanin-gotov-platit-za-ii-pomoshchnika-v-prilozheniyakh-na-regulyarnoj-osnove-84826.html
