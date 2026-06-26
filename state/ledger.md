@@ -39,6 +39,10 @@
 - Выручка брендинговых агентств в России сократилась более чем на 20% [17:00 МСК, обычный прогон] — https://sostav.ru/publication/vyruchka-brenlingovykh-agentstv-v-rossii-sokratilas-bolee-chem-na-20-84844.html
 - «Мобио» выиграло тендер на продвижение мобильного приложения «Магнит» [17:00 МСК, обычный прогон] — https://sostav.ru/publication/mobio-vyigralo-tender-na-prodvizhenie-mobilnogo-prilozheniya-magnit-84840.html
 - Как Only и BAIKAL430 погрузили премиальную воду в диджитал [17:00 МСК, обычный прогон] — https://sostav.ru/publication/kak-only-i-baikal430-pogruzili-premialnuyu-vodu-v-didzhital-84841.html
+- В Авито Рекламе появился ретаргетинг по кампаниям и группам объявлений [18:01 МСК, обычный прогон] — https://ppc.world/news/v-avito-reklame-poyavilsya-retargeting-po-kampaniyam-i-gruppam-obyavleniy/
+- 74% россиян доверяют личным рекомендациям больше, чем рекламе [18:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/26/346288.phtml
+- ИИ, предпринимательское мышление, многофункциональность: чего компании ждут от маркетологов в 2026 [18:01 МСК, обычный прогон] — https://sostav.ru/publication/ii-predprinimatelskoe-myshlenie-i-mnogofunktsionalnost-chego-kompanii-zhdut-ot-marketologov-v-2026-godu-84831.html
+- Акцент на удержание: как работа с привлечённой аудиторией развивает бизнес на перегретом рынке [18:01 МСК, обычный прогон] — https://sostav.ru/publication/aktsent-na-uderzhanie-kak-rabota-s-uzhe-privlechennoj-auditoriej-pomogaet-razvivat-i-prodvigat-biznes-na-peregretom-rynke-84837.html
 
 ### 2026-06-25
 - Яндекс запустил «Прайм-баннер» — единый охватный формат на 20+ сервисах экосистемы [17:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346259.phtml
