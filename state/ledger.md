@@ -23,6 +23,9 @@
 - YouTube меняет Shorts: ускорение просмотра до 2× и замена дизлайка на «Не интересно» [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/media/2026/06/26/346272.phtml
 - УФАС Дагестана проверит рекламу гипермаркета «Четыре жены — восемь рук» [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/ufas-dagestana-proverit-reklamu-gipermarketa-s-upominaniem-preimushchestv-mnogozhenstva-84820.html
 - RuStore вышел на глобальный рынок — разработчики выбирают страны распространения (Африка, Азия, Европа) [10:00 МСК, обязательный дайджест] — https://vk.company/ru/press/releases/12336/
+- «Авито Реклама» открыла ретаргетинг для бизнеса любого размера [12:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346268.phtml
+- Гран-при «Каннских льовов 2026» — Adidas взял главную награду с «Supernova Adaptive» [12:01 МСК, обычный прогон] — https://adindex.ru/news/creative/2026/06/25/346267.phtml
+- Каждый пятый россиянин готов платить за ИИ-помощника в приложениях на регулярной основе [12:01 МСК, обычный прогон] — https://sostav.ru/publication/kazhdyj-pyatyj-rossiyanin-gotov-platit-za-ii-pomoshchnika-v-prilozheniyakh-na-regulyarnoj-osnove-84826.html
 
 ### 2026-06-25
 - Яндекс запустил «Прайм-баннер» — единый охватный формат на 20+ сервисах экосистемы [17:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346259.phtml
