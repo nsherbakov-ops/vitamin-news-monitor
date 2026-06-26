@@ -16,6 +16,8 @@
 ## Опубликовано
 
 ### 2026-06-26
+- Алиса AI генерирует в ~5 раз больше переходов на российские сайты, чем ChatGPT — исследование Impulse.guru [11:00 МСК, обычный прогон] — https://ppc.world/news/alisa-ai-generiruet-v-pochti-5-raz-bolshe-perehodov-na-rossiyskie-sayty-chem-chatgpt-issledovanie/
+- Яндекс Вебмастер ускорил обновление данных в «Мониторинге запросов»: данные за сутки с детализацией по часам [11:00 МСК, обычный прогон] — https://ppc.world/news/yandeks-vebmaster-uskoril-obnovlenie-dannyh-v-monitoringe-zaprosov/
 - Объём расходов на рекламу в MAX вырос в 37 раз (число рекламодателей +18×, средний чек +4,7×) [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/06/26/346270.phtml
 - ФАС рекомендовала операторам до 3 июля переработать рекламу 5G — введение в заблуждение [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/right/2026/06/26/346271.phtml
 - YouTube меняет Shorts: ускорение просмотра до 2× и замена дизлайка на «Не интересно» [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/media/2026/06/26/346272.phtml
