@@ -15,6 +15,13 @@
 
 ## Опубликовано
 
+### 2026-06-26
+- Объём расходов на рекламу в MAX вырос в 37 раз (число рекламодателей +18×, средний чек +4,7×) [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/06/26/346270.phtml
+- ФАС рекомендовала операторам до 3 июля переработать рекламу 5G — введение в заблуждение [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/right/2026/06/26/346271.phtml
+- YouTube меняет Shorts: ускорение просмотра до 2× и замена дизлайка на «Не интересно» [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/media/2026/06/26/346272.phtml
+- УФАС Дагестана проверит рекламу гипермаркета «Четыре жены — восемь рук» [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/ufas-dagestana-proverit-reklamu-gipermarketa-s-upominaniem-preimushchestv-mnogozhenstva-84820.html
+- RuStore вышел на глобальный рынок — разработчики выбирают страны распространения (Африка, Азия, Европа) [10:00 МСК, обязательный дайджест] — https://vk.company/ru/press/releases/12336/
+
 ### 2026-06-25
 - Яндекс запустил «Прайм-баннер» — единый охватный формат на 20+ сервисах экосистемы [17:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346259.phtml
 - VK Реклама запустила продвижение каналов ВКонтакте, MAX и Дзен (бета) [17:01 МСК, обычный прогон] — https://vk.company/ru/press/releases/12333/
@@ -110,20 +117,5 @@
 - Le Monde готовится открыть платный контент для ИИ-агентов [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/media/2026/06/19/346064.phtml
 - 79% директоров по маркетингу сталкиваются с бюрократией при принятии решений — Lippincott [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/19/346063.phtml
 - В Алисе AI появились ИИ-персонажи с собственными характерами [15:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/v-chate-s-alisoy-ai-poyavilis-ii-personazhi-s-sobstvennymi-kharakterami/
-
-### 2026-06-19
-- Google запустил Ask Ad Manager — ИИ на базе Gemini для рекламных кампаний [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/19/346038.phtml
-- Meta обновила инструменты для маркетологов: реклама в live-эфирах, шопинг в трансляциях, партнёрские ссылки для блогеров [11:00 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/19/346024.phtml
-- 28% источников, цитируемых ChatGPT, не видны в Google — исследование о попадании в ИИ-поисковики [11:00 МСК, обычный прогон] — https://ppc.world/news/pochti-u-treti-citiruemyh-v-chatgpt-stranic-net-organicheskoy-vidimosti-v-google/
-- «Яндекс Ритм» отменил порог по подписчикам для монетизации блогеров [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/19/346052.phtml
-- Монетизация каналов в Дзен теперь доступна в РСЯ для блогеров [15:00 МСК, обязательный дайджест] — https://yandex.ru/adv/news/monetizatsiya-kanalov-v-dzene-teper-dostupna-v-rsya-dlya-blogerov
-- Как изменился рынок рекламы в Telegram — интервью Publish Media [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/publish-media-intervyu-83637.html
-- Почти половина зумеров узнаёт о новых товарах через рекламу в соцсетях [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/19/346049.phtml
-- Шопинг в ленте: как публикации в соцсетях влияют на решение о покупке [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/pokupki-rossiyan-cherez-publikatsii-v-internete-84650.html
-- Букмекеры и АРИР подписали стандарты честной рекламы ставок [16:00 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/19/346041.phtml
-- Adobe расширяет ИИ-помощника Firefly на Illustrator, InDesign и Premiere [16:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/19/346023.phtml
-- Комьюнити вместо рекламы: как сильные связи вытесняют платные размещения [16:00 МСК, обычный прогон] — https://sostav.ru/publication/silnye-svyazi-vazhnee-kak-komyuniti-zamenyaet-reklamu-84654.html
-- Стабильность блогеров оказалась важнее средних охватов [18:00 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/19/346060.phtml
-- Бренд-гайд умер как PDF. Теперь бренд — это память для ИИ-агентов [18:00 МСК, обычный прогон] — https://sostav.ru/publication/brend-gajd-umer-kak-pdf-teper-brend-eto-pamyat-dlya-ii-agentov-84634.html
 
 
