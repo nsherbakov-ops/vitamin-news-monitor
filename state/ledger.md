@@ -22,6 +22,8 @@
 - Уведомления VK и Mail на iPhone: почему пропали и как вернуть [15:00 МСК, обязательный дайджест] — https://hi-tech.mail.ru/news/150243-uvedomleniya-vk-mail-iphone-app-store/
 - США частично сняли запрет на использование ИИ-модели Anthropic [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/ssha-chastichno-snyali-zapret-na-ispolzovanie-ii-modeli-anthropic-84851.html
 - Suno даст начинающим артистам деньги на маркетинг и продвижение [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/marketing/2026/06/26/346273.phtml
+- Авито Реклама запустила ретаргетинг по кликам на баннер [17:00 МСК, обычный прогон] — https://www.seonews.ru/events/avito-reklama-zapustila-retargeting-po-klikam-na-banner/
+- Silver Mercury 2026 изменил расстановку сил в Национальном рейтинге рекламных агентств [17:00 МСК, обычный прогон] — https://ratings.sostav.ru/news/silver-mercury
 
 ### 2026-06-26
 - Алиса AI генерирует в ~5 раз больше переходов на российские сайты, чем ChatGPT — исследование Impulse.guru [11:00 МСК, обычный прогон] — https://ppc.world/news/alisa-ai-generiruet-v-pochti-5-raz-bolshe-perehodov-na-rossiyskie-sayty-chem-chatgpt-issledovanie/
