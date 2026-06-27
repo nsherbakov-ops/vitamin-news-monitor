@@ -19,6 +19,9 @@
 - XII «Технологический Индекс» 2026: рейтинг лучших платформ автоматизации рекламных кампаний [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/26/346281.phtml
 - Почти 10% вакансий в рекламе требуют ИИ-навыков — в 5 раз выше среднего по рынку (HeadHunter) [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/26/346283.phtml
 - Новое агентство Reacta для инфлюенс-маркетинга и назначения в Кион, МТС Live [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/hr/2026/06/26/346269.phtml
+- Уведомления VK и Mail на iPhone: почему пропали и как вернуть [15:00 МСК, обязательный дайджест] — https://hi-tech.mail.ru/news/150243-uvedomleniya-vk-mail-iphone-app-store/
+- США частично сняли запрет на использование ИИ-модели Anthropic [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/ssha-chastichno-snyali-zapret-na-ispolzovanie-ii-modeli-anthropic-84851.html
+- Suno даст начинающим артистам деньги на маркетинг и продвижение [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/marketing/2026/06/26/346273.phtml
 
 ### 2026-06-26
 - Алиса AI генерирует в ~5 раз больше переходов на российские сайты, чем ChatGPT — исследование Impulse.guru [11:00 МСК, обычный прогон] — https://ppc.world/news/alisa-ai-generiruet-v-pochti-5-raz-bolshe-perehodov-na-rossiyskie-sayty-chem-chatgpt-issledovanie/
@@ -137,12 +140,5 @@
 - Reddit и WPP выявили, как пользователи принимают решения о покупках [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/reddit-i-wpp-vyyavili-kak-polzovateli-prinimayut-resheniya-o-pokupkakh-84665.html
 - Франшизы обеспечили START две трети просмотров оригинального контента [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/franshizy-obespechili-start-dve-treti-prosmotrov-originalnykh-proektov-84664.html
 - PMC купил Vox Media Brands и стал крупнейшим цифровым издателем в мире [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/06/19/346037.phtml
-
-### 2026-06-20
-- Рост аудитории Ozon и Wildberries замедлился [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/marketplejsy-sbavili-temp-84662.html
-- Instagram добавил индивидуальные подписи к каждому фото в «карусели» [15:00 МСК, обязательный дайджест] — https://vc.ru/services/2986566-instagram-dobavil-podpisy-dlya-kazhdoi-fotografii-v-karuseli
-- Le Monde готовится открыть платный контент для ИИ-агентов [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/media/2026/06/19/346064.phtml
-- 79% директоров по маркетингу сталкиваются с бюрократией при принятии решений — Lippincott [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/19/346063.phtml
-- В Алисе AI появились ИИ-персонажи с собственными характерами [15:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/v-chate-s-alisoy-ai-poyavilis-ii-personazhi-s-sobstvennymi-kharakterami/
 
 
