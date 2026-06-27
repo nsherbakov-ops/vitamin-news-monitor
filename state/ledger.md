@@ -15,6 +15,11 @@
 
 ## Опубликовано
 
+### 2026-06-27
+- XII «Технологический Индекс» 2026: рейтинг лучших платформ автоматизации рекламных кампаний [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/26/346281.phtml
+- Почти 10% вакансий в рекламе требуют ИИ-навыков — в 5 раз выше среднего по рынку (HeadHunter) [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/26/346283.phtml
+- Новое агентство Reacta для инфлюенс-маркетинга и назначения в Кион, МТС Live [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/hr/2026/06/26/346269.phtml
+
 ### 2026-06-26
 - Алиса AI генерирует в ~5 раз больше переходов на российские сайты, чем ChatGPT — исследование Impulse.guru [11:00 МСК, обычный прогон] — https://ppc.world/news/alisa-ai-generiruet-v-pochti-5-raz-bolshe-perehodov-na-rossiyskie-sayty-chem-chatgpt-issledovanie/
 - Яндекс Вебмастер ускорил обновление данных в «Мониторинге запросов»: данные за сутки с детализацией по часам [11:00 МСК, обычный прогон] — https://ppc.world/news/yandeks-vebmaster-uskoril-obnovlenie-dannyh-v-monitoringe-zaprosov/
