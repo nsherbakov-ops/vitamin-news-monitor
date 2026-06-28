@@ -19,6 +19,9 @@
 - В бета-версии Telegram появились сообщества — объединения нескольких групп наподобие Discord [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-communities-beta
 - Markdown-редактор Telegram добрался до бета-версии для Android [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-markdown-editor-beta-android
 - SEOnews: итоги рейтинга «SEO глазами клиентов 2026» [10:02 МСК, обязательный дайджест] — https://www.seonews.ru/events/seonews-podvel-itogi-masshtabnogo-reytinga-seo-glazami-klientov-2026/
+- ВГТРК отчитался об убытках и увеличении времени просмотра контента [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/06/25/346222.phtml
+- МВД поддержало признание использования ИИ отягчающим обстоятельством при преступлениях [15:00 МСК, обязательный дайджест] — https://kod.ru/mvd-ai-otyagchayushe
+- IKEA превратила товары для дома в национальные флаги в честь ЧМ-2026 [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/ikea-prevratila-tovary-dlya-doma-v-natsionalnye-flagi-v-chest-chm-2026-84854.html
 
 ### 2026-06-27
 - XII «Технологический Индекс» 2026: рейтинг лучших платформ автоматизации рекламных кампаний [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/26/346281.phtml
