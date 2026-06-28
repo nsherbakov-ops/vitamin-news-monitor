@@ -15,6 +15,11 @@
 
 ## Опубликовано
 
+### 2026-06-28
+- В бета-версии Telegram появились сообщества — объединения нескольких групп наподобие Discord [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-communities-beta
+- Markdown-редактор Telegram добрался до бета-версии для Android [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-markdown-editor-beta-android
+- SEOnews: итоги рейтинга «SEO глазами клиентов 2026» [10:02 МСК, обязательный дайджест] — https://www.seonews.ru/events/seonews-podvel-itogi-masshtabnogo-reytinga-seo-glazami-klientov-2026/
+
 ### 2026-06-27
 - XII «Технологический Индекс» 2026: рейтинг лучших платформ автоматизации рекламных кампаний [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/26/346281.phtml
 - Почти 10% вакансий в рекламе требуют ИИ-навыков — в 5 раз выше среднего по рынку (HeadHunter) [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/26/346283.phtml
@@ -133,14 +138,5 @@
 - Яндекс Директ: в объявлениях Товарной галереи теперь показываются характеристики товаров [19:00 МСК, обычный прогон] — https://ppc.world/news/v-obyavleniyah-tovarnoy-galerei-yandeksa-teper-pokazyvayutsya-harakteristiki-tovarov/
 - Лето 2026: тренды в рекламных креативах [19:00 МСК, обычный прогон] — https://sostav.ru/publication/leto-2026-trendy-v-kreative-84685.html
 - Правкомиссия одобрила законопроект о регулировании ИИ в России [19:00 МСК, обычный прогон] — https://sostav.ru/publication/pravkomissiya-odobrila-zakonoproekt-o-regulirovanii-ii-84704.html
-
-### 2026-06-21
-- В Госдуме предложили приравнять к рекламе надписи о «пользе» продуктов на упаковках [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/psevdozozh-pod-kontrol-84663.html
-- GlobalSign — вторая волна отзыва TLS-сертификатов у российских сайтов (310 доменов) [10:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/globalsign-provodit-vtoruyu-volnu-otzyva-tls-sertifikatov-u-rossiyskikh-saytov/
-- VK AI Space получил поддержку мультиагентных систем [10:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/na-platforme-vk-ai-space-poyavilas-podderzhka-multiagentnykh-sistem/
-- Рынок ПО для ИИ в России вырастет в 4 раза к 2030 году — до 94,8 млрд руб. [10:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/rossiyskiy-rynok-po-dlya-ii-k-2030-godu-vyrastet-v-chetyre-raza-issledovanie/
-- Reddit и WPP выявили, как пользователи принимают решения о покупках [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/reddit-i-wpp-vyyavili-kak-polzovateli-prinimayut-resheniya-o-pokupkakh-84665.html
-- Франшизы обеспечили START две трети просмотров оригинального контента [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/franshizy-obespechili-start-dve-treti-prosmotrov-originalnykh-proektov-84664.html
-- PMC купил Vox Media Brands и стал крупнейшим цифровым издателем в мире [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/06/19/346037.phtml
 
 
