@@ -29,6 +29,9 @@
 - Яндекс запустил реферальную программу KITβ для агентств и веб-студий [15:00 МСК, обязательный дайджест] — https://yandex.ru/adv/news/referralnaya-programma-yandex-kit-nachnite-zarabatyvat
 - 98% маркетологов запускают рекламные кампании с задержкой [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/98-marketologov-zapuskayut-reklamnye-kampanii-s-zaderzhkoj-84883.html
 - Алексей Иванов уходит с поста гендиректора «Кион» (МТС) [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/aleksej-ivanov-ukhodit-s-posta-gendirektora-kontentnogo-klastera-kion-84877.html
+- Последний день Cannes Lions 2026: ролики года, титановые идеи и реклама, которая меняет мир [16:02 МСК, обычный прогон] — https://sostav.ru/publication/poslednij-den-kannskikh-lvov-2026-roliki-goda-titanovye-idei-i-reklama-kotoraya-menyaet-mir-84882.html
+- Подборка профессиональных событий на июль [16:02 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/29/346349.phtml
+- BBFC применил нейросеть для классификации всего каталога HBO Max [16:02 МСК, обычный прогон] — https://adindex.ru/news/media/2026/06/29/346299.phtml
 
 ### 2026-06-28
 - В бета-версии Telegram появились сообщества — объединения нескольких групп наподобие Discord [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-communities-beta
