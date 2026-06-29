@@ -20,6 +20,9 @@
 - Instagram улучшит подбор контента для пользователей [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/media/2026/06/29/346294.phtml
 - Nissan направляет до 60% маркетингового бюджета на digital, ИИ и инфлюенсеров [10:01 МСК, обязательный дайджест] — https://sostav.ru/publication/nissan-napravlyaet-do-60-marketingovogo-byudzheta-na-digital-ii-i-inflyuenserov-84866.html
 - В Калифорнии запретили громкую рекламу в стриминговых сервисах [10:01 МСК, обязательный дайджест] — https://sostav.ru/publication/v-kalifornii-zapretili-gromkuyu-reklamu-v-strimingovykh-servisakh-84865.html
+- Рейтинг «Технологический Индекс». Комплексные ИТ-платформы [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/29/346302.phtml
+- WPP лидирует на Cannes Lions 2026 [11:00 МСК, обычный прогон] — https://sostav.ru/publication/wpp-lidiruet-na-cannes-lions-2026-84869.html
+- OpenAI представила серию моделей GPT-5.6: Sol, Terra и Luna [11:00 МСК, обычный прогон] — https://ppc.world/news/openai-predstavila-gpt-56-sol-terra-i-luna/
 
 ### 2026-06-28
 - В бета-версии Telegram появились сообщества — объединения нескольких групп наподобие Discord [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-communities-beta
