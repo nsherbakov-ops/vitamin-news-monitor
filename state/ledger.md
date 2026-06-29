@@ -32,6 +32,8 @@
 - Последний день Cannes Lions 2026: ролики года, титановые идеи и реклама, которая меняет мир [16:02 МСК, обычный прогон] — https://sostav.ru/publication/poslednij-den-kannskikh-lvov-2026-roliki-goda-titanovye-idei-i-reklama-kotoraya-menyaet-mir-84882.html
 - Подборка профессиональных событий на июль [16:02 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/29/346349.phtml
 - BBFC применил нейросеть для классификации всего каталога HBO Max [16:02 МСК, обычный прогон] — https://adindex.ru/news/media/2026/06/29/346299.phtml
+- Rabbit Group запустила Bloggers Booking — платформу для агентств и менеджеров блогеров [17:01 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/29/346372.phtml
+- Яндекс Директ добавил ИИ-управление рекламой в мессенджерах [17:01 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/29/346372.phtml
 
 ### 2026-06-28
 - В бета-версии Telegram появились сообщества — объединения нескольких групп наподобие Discord [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-communities-beta
