@@ -15,6 +15,12 @@
 
 ## Опубликовано
 
+### 2026-06-29
+- Суд рассмотрит иск о продаже рекламной группы АДВ [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/right/2026/06/29/346292.phtml
+- Instagram улучшит подбор контента для пользователей [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/media/2026/06/29/346294.phtml
+- Nissan направляет до 60% маркетингового бюджета на digital, ИИ и инфлюенсеров [10:01 МСК, обязательный дайджест] — https://sostav.ru/publication/nissan-napravlyaet-do-60-marketingovogo-byudzheta-na-digital-ii-i-inflyuenserov-84866.html
+- В Калифорнии запретили громкую рекламу в стриминговых сервисах [10:01 МСК, обязательный дайджест] — https://sostav.ru/publication/v-kalifornii-zapretili-gromkuyu-reklamu-v-strimingovykh-servisakh-84865.html
+
 ### 2026-06-28
 - В бета-версии Telegram появились сообщества — объединения нескольких групп наподобие Discord [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-communities-beta
 - Markdown-редактор Telegram добрался до бета-версии для Android [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-markdown-editor-beta-android
@@ -123,23 +129,5 @@
 - Цифровая усталость: почему реклама перестаёт работать и как бизнес перестраивает маркетинг [19:01 МСК, обычный прогон] — https://sostav.ru/publication/tsifrovaya-ustalost-pochemu-reklama-perestaet-rabotat-i-kak-biznes-perestraivaet-marketing-84731.html
 - Победители первого дня «Каннских льовов 2026»: от штрихкода до мобильной клиники [19:01 МСК, обычный прогон] — https://adindex.ru/news/creative/2026/06/23/346158.phtml
 - Диджитал Индекс 2.0: обновление рейтинга интернет-подрядчиков [19:01 МСК, обычный прогон] — https://adindex.ru/news/agencies/2026/06/23/346140.phtml
-
-### 2026-06-22
-- Объём рекламного рынка превысил 220 млрд рублей в первом квартале 2026 года [11:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/22/346082.phtml
-- Динамика медиапотребления в России сократилась [11:01 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/22/346068.phtml
-- Правительство поручило 11 министерствам разработать стратегию цифровых платформ [13:00 МСК, обычный прогон] — https://sostav.ru/publication/pravitelstvo-poruchilo-11-ministerstvam-podgotovit-strategiyu-razvitiya-tsifrovykh-platform-84681.html
-- VK Play заблокирован в браузерах — волна отзыва сертификатов GlobalSign продолжается [13:00 МСК, обычный прогон] — https://vc.ru/services/2989299-vk-play-zablokirovan-v-brauzerakh
-- L'Oréal интегрирует бренд-сервисы в ChatGPT [13:00 МСК, обычный прогон] — https://sostav.ru/publication/l-or-al-integriruet-servisy-krasoty-v-chatgpt-84678.html
-- АБА: стабильные блогеры привлекают новую аудиторию в 1,7× эффективнее [14:17 МСК, обычный прогон] — https://ppc.world/news/aba-nuzhno-izuchat-pokazateli-stabilnosti-blogerov-chtoby-prognozirovat-effektivnost-kampaniy/
-- Яндекс KIT подключился к доставке Ozon по модели FBS [14:17 МСК, обычный прогон] — https://yandex.ru/adv/news/polzovateli-yandex-kit-mogut-podklyuchit-ozon-dostavku-fbs
-- Программатик в 2025 году: выручка превысила 56,3 млрд рублей (+11,7%) [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/vyruchka-programmatik-produktov-v-2025-godu-prevysila-56-3-mlrd-rublej-84698.html
-- ФАС штрафует за нарушения рекламного законодательства: ИИ и подрядчики не спасают [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/zvezdochka-ne-spaset-2-pochemu-rossijskie-brendy-teryayut-dengi-84684.html
-- WPP сохранила лидерство по биллингам: мировой рынок медиаразмещения — 478 млрд долл. [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/wpp-sokhranila-liderstvo-po-billingam-84694.html
-- Яндекс Директ: ИИ-управление рекламой в мессенджерах и новые инструменты для рекламодателей [17:00 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/22/346101.phtml
-- Директ: товарные объявления для продвижения приложений теперь работают на ретаргетинг [17:00 МСК, обычный прогон] — https://yandex.ru/adv/news/tovarnye-obyavleniya-dlya-prilozheniy-dostupny-dlya-retargetinga
-- RWB Медиа (Wildberries) открыла единую рекламную сеть на партнёрских сайтах [17:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/22/346096.phtml
-- Яндекс Директ: в объявлениях Товарной галереи теперь показываются характеристики товаров [19:00 МСК, обычный прогон] — https://ppc.world/news/v-obyavleniyah-tovarnoy-galerei-yandeksa-teper-pokazyvayutsya-harakteristiki-tovarov/
-- Лето 2026: тренды в рекламных креативах [19:00 МСК, обычный прогон] — https://sostav.ru/publication/leto-2026-trendy-v-kreative-84685.html
-- Правкомиссия одобрила законопроект о регулировании ИИ в России [19:00 МСК, обычный прогон] — https://sostav.ru/publication/pravkomissiya-odobrila-zakonoproekt-o-regulirovanii-ii-84704.html
 
 
