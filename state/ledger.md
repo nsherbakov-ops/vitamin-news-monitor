@@ -23,6 +23,9 @@
 - Рейтинг «Технологический Индекс». Комплексные ИТ-платформы [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/29/346302.phtml
 - WPP лидирует на Cannes Lions 2026 [11:00 МСК, обычный прогон] — https://sostav.ru/publication/wpp-lidiruet-na-cannes-lions-2026-84869.html
 - OpenAI представила серию моделей GPT-5.6: Sol, Terra и Luna [11:00 МСК, обычный прогон] — https://ppc.world/news/openai-predstavila-gpt-56-sol-terra-i-luna/
+- Яндекс представил платформу для создания ИИ-агентов на базе «Алисы AI» [13:01 МСК, обычный прогон] — https://sostav.ru/publication/yandeks-predstavil-platformu-dlya-sozdaniya-ii-agentov-na-baze-alisy-ai-84884.html
+- Google завершил June 2026 Spam Update [13:01 МСК, обычный прогон] — https://www.seonews.ru/events/google-vykatil-i-zavershil-june-2026-spam-update/
+- Почти половина россиян совершали покупки по рекомендациям ИИ [13:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/29/346321.phtml
 
 ### 2026-06-28
 - В бета-версии Telegram появились сообщества — объединения нескольких групп наподобие Discord [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-communities-beta
