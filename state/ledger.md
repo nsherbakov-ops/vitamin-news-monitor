@@ -34,6 +34,9 @@
 - BBFC применил нейросеть для классификации всего каталога HBO Max [16:02 МСК, обычный прогон] — https://adindex.ru/news/media/2026/06/29/346299.phtml
 - Rabbit Group запустила Bloggers Booking — платформу для агентств и менеджеров блогеров [17:01 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/29/346372.phtml
 - Яндекс Директ добавил ИИ-управление рекламой в мессенджерах [17:01 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/29/346372.phtml
+- Суд оштрафовал Pinterest, Telegram и Twitch на 3,5 млн рублей каждый [18:01 МСК, обычный прогон] — https://sostav.ru/publication/sud-oshtrafoval-pinterest-telegram-i-twitch-na-3-5-mln-rublej-kazhdyj-84899.html
+- Что такое «плохо»: шесть поводов для тревоги на рекламном рынке [18:01 МСК, обычный прогон] — https://sostav.ru/publication/chto-takoe-plokho-sem-povodov-dlya-trevogi-na-reklamnom-rynke-84886.html
+- Кейс «Дикси»: сегменты на телеком-данных T2 повысили предпочтение бренда на 50% [18:01 МСК, обычный прогон] — https://sostav.ru/publication/kejs-diksi-84810.html
 
 ### 2026-06-28
 - В бета-версии Telegram появились сообщества — объединения нескольких групп наподобие Discord [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-communities-beta
