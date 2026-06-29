@@ -26,6 +26,9 @@
 - Яндекс представил платформу для создания ИИ-агентов на базе «Алисы AI» [13:01 МСК, обычный прогон] — https://sostav.ru/publication/yandeks-predstavil-platformu-dlya-sozdaniya-ii-agentov-na-baze-alisy-ai-84884.html
 - Google завершил June 2026 Spam Update [13:01 МСК, обычный прогон] — https://www.seonews.ru/events/google-vykatil-i-zavershil-june-2026-spam-update/
 - Почти половина россиян совершали покупки по рекомендациям ИИ [13:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/29/346321.phtml
+- Яндекс запустил реферальную программу KITβ для агентств и веб-студий [15:00 МСК, обязательный дайджест] — https://yandex.ru/adv/news/referralnaya-programma-yandex-kit-nachnite-zarabatyvat
+- 98% маркетологов запускают рекламные кампании с задержкой [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/98-marketologov-zapuskayut-reklamnye-kampanii-s-zaderzhkoj-84883.html
+- Алексей Иванов уходит с поста гендиректора «Кион» (МТС) [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/aleksej-ivanov-ukhodit-s-posta-gendirektora-kontentnogo-klastera-kion-84877.html
 
 ### 2026-06-28
 - В бета-версии Telegram появились сообщества — объединения нескольких групп наподобие Discord [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-communities-beta
