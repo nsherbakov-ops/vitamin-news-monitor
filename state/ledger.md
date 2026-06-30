@@ -26,6 +26,10 @@
 - Ретейл переходит на вертикальное видео: бюджеты на продвижение выросли на 40–70% [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/30/346479.phtml
 - Франция запретит рекламу Shein и Temu через блогеров и в диджитал-каналах [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/frantsiya-zapretit-reklamu-shein-84905.html
 - Wildberries вводит 45-дневный срок уведомления продавцов об изменении комиссий и тарифов [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/wildberries-uvelichila-srok-uvedomleniya-prodavtsov-84908.html
+- VK Реклама запустила чат-бот ассистента рекламодателя в MAX [13:00 МСК, обычный прогон] — https://www.seonews.ru/events/vk-reklama-zapustila-chat-bot-assistenta-reklamodatelya-v-max/
+- Havas: 84% брендов остаются невидимыми для потребителей [13:00 МСК, обычный прогон] — https://sostav.ru/publication/havas-84-brendov-ostayutsya-nevidimymi-dlya-potrebitelej-84912.html
+- IBM назначила Omnicom Media глобальным медиапартнёром [13:00 МСК, обычный прогон] — https://sostav.ru/publication/ibm-vybrala-omnicom-media-globalnym-mediapartnerom-84919.html
+- Маркетплейсы и селлеры стали в разы чаще судиться: претензии выросли с 800 млн до 5,8 млрд руб. [13:00 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/30/346470.phtml
 
 ### 2026-06-29
 - Суд рассмотрит иск о продаже рекламной группы АДВ [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/right/2026/06/29/346292.phtml
