@@ -30,6 +30,10 @@
 - Havas: 84% брендов остаются невидимыми для потребителей [13:00 МСК, обычный прогон] — https://sostav.ru/publication/havas-84-brendov-ostayutsya-nevidimymi-dlya-potrebitelej-84912.html
 - IBM назначила Omnicom Media глобальным медиапартнёром [13:00 МСК, обычный прогон] — https://sostav.ru/publication/ibm-vybrala-omnicom-media-globalnym-mediapartnerom-84919.html
 - Маркетплейсы и селлеры стали в разы чаще судиться: претензии выросли с 800 млн до 5,8 млрд руб. [13:00 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/30/346470.phtml
+- Яндекс Директ: ТГО переходят в комбинаторный формат — автообновление с 14 июля [15:01 МСК, обязательный дайджест] — https://yandex.ru/adv/news/obnovlenie-tekstovo-graficheskih-obyavleniy-do-kombinatornyh-protsess-i-osobennosti
+- Wildberries запустил биржу карточек товаров для продавцов [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/wildberries-zapustil-birzhu-kartochek-tovarov-dlya-prodavtsov-84922.html
+- ВКонтакте внедрила ИИ-модели рекомендаций товаров: клики ×5, переходы на маркетплейсы ×15, заказы ×20 [15:01 МСК, обязательный дайджест] — https://likeni.ru/events/vkontakte-vnedrila-novye-ii-modeli-dlya-rekomendatsiy-tovarov/
+- Кирилл Тренин возглавит кластер Kion вместо Алексея Иванова [15:01 МСК, обязательный дайджест] — https://adindex.ru/news/hr/2026/06/30/346498.phtml
 
 ### 2026-06-29
 - Суд рассмотрит иск о продаже рекламной группы АДВ [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/right/2026/06/29/346292.phtml
