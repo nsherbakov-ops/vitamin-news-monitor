@@ -15,6 +15,13 @@
 
 ## Опубликовано
 
+### 2026-06-30
+- Яндекс Директ: товарные объявления для приложений теперь доступны для ретаргетинга [10:00 МСК, обязательный дайджест] — https://yandex.ru/adv/news/tovarnye-obyavleniya-dlya-prilozheniy-dostupny-dlya-retargetinga
+- Минздрав предложил запретить рекламу фастфуда и сладкого с 7:00 до 22:00 [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/minzdrav-predlozhil-uzhestochit-regulirovanie-reklamy-i-markirovki-vrednoj-edy-84911.html
+- Ретейл переходит на вертикальное видео: бюджеты на продвижение выросли на 40–70% [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/30/346479.phtml
+- Франция запретит рекламу Shein и Temu через блогеров и в диджитал-каналах [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/frantsiya-zapretit-reklamu-shein-84905.html
+- Wildberries вводит 45-дневный срок уведомления продавцов об изменении комиссий и тарифов [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/wildberries-uvelichila-srok-uvedomleniya-prodavtsov-84908.html
+
 ### 2026-06-29
 - Суд рассмотрит иск о продаже рекламной группы АДВ [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/right/2026/06/29/346292.phtml
 - Instagram улучшит подбор контента для пользователей [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/media/2026/06/29/346294.phtml
@@ -128,23 +135,4 @@
 - Рекламу криптовалют могут запретить в России [19:00 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/24/346213.phtml
 - Стратегия «выхода»: почему селлеры покидают маркетплейсы и как уйти, не потеряв бизнес [19:00 МСК, обычный прогон] — https://sostav.ru/publication/strategiya-vykhoda-pochemu-sellery-pokidayut-marketplejsy-i-kak-ujti-ne-poteryav-biznes-84768.html
 - ByteDance планирует взять кредит на 20 млрд долл. [19:00 МСК, обычный прогон] — https://sostav.ru/publication/bytedance-planiruet-vzyat-kredit-na-20-mlrd-84769.html
-
-### 2026-06-23
-- TikTok запустил Symphony Agent — ИИ для создания видеорекламы без съёмки [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/23/346129.phtml
-- Omnicom Media Group + Netflix: ИИ-таргетинг рекламы в стриминговом контенте [11:00 МСК, обычный прогон] — https://sostav.ru/publication/omnicom-media-i-netflix-obyavili-o-partnerstve-dlya-integratsii-reklamy-v-strimingovyj-kontent-84714.html
-- Amazon запускает Creator Hub — витрина блогеров на Fire TV [11:00 МСК, обычный прогон] — https://adindex.ru/news/media/2026/06/23/346119.phtml
-- Рынок наружной рекламы в России вырос до 30,3 млрд руб. в Q1 2026 (+11% г/г) [14:00 МСК, обычный прогон] — https://adindex.ru/news/ad_budjet/2026/06/23/346145.phtml
-- Бренды массово выдают ИИ-инфлюенсеров за реальных людей — без маркировки [14:00 МСК, обычный прогон] — https://sostav.ru/publication/brendy-vse-chashche-vydayut-ii-inflyuenserov-za-realnykh-lyudej-84725.html
-- Disney запускает ESPN Fan House — рекламная платформа для брендов на спортивных событиях [14:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/23/346137.phtml
-- RWB Медиа (Wildberries) запустила CPC-оплату для медийных баннеров [16:00 МСК, обычный прогон] — https://sostav.ru/publication/rwb-media-zapustila-oplatu-za-kliki-dlya-medijnykh-bannerov-84732.html
-- Яндекс Тег Менеджер: сабконтейнеры и новые настройки тегов/триггеров [16:00 МСК, обычный прогон] — https://yandex.ru/adv/news/sabkonteynery-i-novye-nastrojki-triggerov-v-yandeks-teg-menedzhere
-- Турецкие бренды вдвое нарастили инвестиции в рекламу на Яндексе (5 мес. 2026) [16:00 МСК, обычный прогон] — https://sostav.ru/publication/turetskie-brendy-vdvoe-narastili-investitsii-v-prodvizhenie-na-yandekse-84729.html
-- «Каннские львы 2026»: старт фестиваля и главные темы индустрии [16:00 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/23/346146.phtml
-- Верховный суд признал законной механику «подписка на рекламу за скидку» [18:00 МСК, обычный прогон] — https://sostav.ru/publication/verkhovnyj-sud-priznal-zakonnoj-mekhaniku-podpiska-na-reklamu-za-skidku-84734.html
-- В каналах ВКонтакте появились видеосообщения, закреплённые посты и репост в историю [18:00 МСК, обычный прогон] — https://ppc.world/news/v-kanalah-vkontakte-poyavilis-videosoobscheniya-zakreplennye-posty-i-repost-v-istoriyu/
-- Rutube возглавил рейтинг платформ для монетизации контента в России (ставка 50–150 руб./1000 просм.) [18:00 МСК, обычный прогон] — https://ppc.world/news/rutube-vozglavil-reyting-platform-dlya-monetizacii-kontenta-v-rossii-avtory-zarabatyvayut-do-150-rubley-za-1000-prosmotrov/
-- Цифровая усталость: почему реклама перестаёт работать и как бизнес перестраивает маркетинг [19:01 МСК, обычный прогон] — https://sostav.ru/publication/tsifrovaya-ustalost-pochemu-reklama-perestaet-rabotat-i-kak-biznes-perestraivaet-marketing-84731.html
-- Победители первого дня «Каннских льовов 2026»: от штрихкода до мобильной клиники [19:01 МСК, обычный прогон] — https://adindex.ru/news/creative/2026/06/23/346158.phtml
-- Диджитал Индекс 2.0: обновление рейтинга интернет-подрядчиков [19:01 МСК, обычный прогон] — https://adindex.ru/news/agencies/2026/06/23/346140.phtml
-
 
