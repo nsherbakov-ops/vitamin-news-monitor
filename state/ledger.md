@@ -41,6 +41,8 @@
 - Петр Середкин (экс-VK) перешёл в «Яндекс Плюс AdTech», спецпроекты Кинопоиска [17:01 МСК, обычный прогон] — https://adindex.ru/news/hr/2026/06/30/346625.phtml
 - Апелляционный суд подтвердил законность сделки по продаже рекламной группы АДВ [18:02 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/30/346627.phtml
 - Workspace опубликовал Рейтинг SEO-компаний и 14 топов по диджитал-услугам [18:02 МСК, обычный прогон] — https://www.seonews.ru/events/workspace-opublikoval-reyting-seo-kompaniy-i-eshche-14-topov-po-drugim-didzhital-uslugam/
+- Механика азарта: почему блогеры перестали реагировать на классические офферы [19:01 МСК, обычный прогон] — https://sostav.ru/publication/mekhanika-azarta-pochemy-blogery-perestali-reagirovat-na-klassicheskie-offery-84900.html
+- Зумеры чаще подписываются на бренды, если нравится основатель компании [19:01 МСК, обычный прогон] — https://sostav.ru/publication/zumery-chashche-podpisyvayutsya-na-brendy-esli-im-nravitsya-osnovatel-kompanii-84936.html
 
 ### 2026-06-29
 - Суд рассмотрит иск о продаже рекламной группы АДВ [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/right/2026/06/29/346292.phtml
