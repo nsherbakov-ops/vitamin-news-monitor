@@ -39,6 +39,8 @@
 - Аутентичность против глянца: «несовершенный» креатив продаёт лучше в 2026 [17:01 МСК, обычный прогон] — https://sostav.ru/publication/autentichnost-protiv-glyantsa-pochemu-nesovershennyj-84881.html
 - Бренду не нужно быть везде: как компании раздувают маркетинговые бюджеты [17:01 МСК, обычный прогон] — https://sostav.ru/publication/brendu-ne-nuzhno-byt-vezde-kak-kompanii-sami-razduvayut-marketingovye-byudzhety-84924.html
 - Петр Середкин (экс-VK) перешёл в «Яндекс Плюс AdTech», спецпроекты Кинопоиска [17:01 МСК, обычный прогон] — https://adindex.ru/news/hr/2026/06/30/346625.phtml
+- Апелляционный суд подтвердил законность сделки по продаже рекламной группы АДВ [18:02 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/30/346627.phtml
+- Workspace опубликовал Рейтинг SEO-компаний и 14 топов по диджитал-услугам [18:02 МСК, обычный прогон] — https://www.seonews.ru/events/workspace-opublikoval-reyting-seo-kompaniy-i-eshche-14-topov-po-drugim-didzhital-uslugam/
 
 ### 2026-06-29
 - Суд рассмотрит иск о продаже рекламной группы АДВ [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/right/2026/06/29/346292.phtml
