@@ -16,6 +16,8 @@
 ## Опубликовано
 
 ### 2026-06-30
+- Яндекс обновил нейросетевую модель прогнозирования конверсий в Директе [11:00 МСК, обычный прогон] — https://sostav.ru/publication/yandeks-vnedril-v-svoyu-reklamnuyu-sistemu-novuyu-model-prognozirovaniya-konversij-84913.html
+- WhatsApp запустил юзернеймы — бронирование уже открыто [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/30/346472.phtml
 - Яндекс Директ: товарные объявления для приложений теперь доступны для ретаргетинга [10:00 МСК, обязательный дайджест] — https://yandex.ru/adv/news/tovarnye-obyavleniya-dlya-prilozheniy-dostupny-dlya-retargetinga
 - Минздрав предложил запретить рекламу фастфуда и сладкого с 7:00 до 22:00 [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/minzdrav-predlozhil-uzhestochit-regulirovanie-reklamy-i-markirovki-vrednoj-edy-84911.html
 - Ретейл переходит на вертикальное видео: бюджеты на продвижение выросли на 40–70% [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/30/346479.phtml
