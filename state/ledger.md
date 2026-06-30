@@ -34,6 +34,11 @@
 - Wildberries запустил биржу карточек товаров для продавцов [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/wildberries-zapustil-birzhu-kartochek-tovarov-dlya-prodavtsov-84922.html
 - ВКонтакте внедрила ИИ-модели рекомендаций товаров: клики ×5, переходы на маркетплейсы ×15, заказы ×20 [15:01 МСК, обязательный дайджест] — https://likeni.ru/events/vkontakte-vnedrila-novye-ii-modeli-dlya-rekomendatsiy-tovarov/
 - Кирилл Тренин возглавит кластер Kion вместо Алексея Иванова [15:01 МСК, обязательный дайджест] — https://adindex.ru/news/hr/2026/06/30/346498.phtml
+- Исследование Sape: как ChatGPT, Алиса и Gemini ранжируют бизнес в ИИ-поиске [17:01 МСК, обычный прогон] — https://www.seonews.ru/events/kak-chatgpt-alisa-i-gemini-ranzhiruyut-servisy-bronirovaniya-oteley-i-chto-s-etim-delat-issledovanie-sape/
+- РОЦИТ: рынок российских соцплатформ достиг зрелости — ВК и ОК лидеры, Rutube/TenChat/Дзен — ниши [17:01 МСК, обычный прогон] — https://sostav.ru/publication/rotsit-rossijskij-rynok-sotsplatform-pereshel-ot-importozameshcheniya-k-sobstvennoj-ekosisteme-84929.html
+- Аутентичность против глянца: «несовершенный» креатив продаёт лучше в 2026 [17:01 МСК, обычный прогон] — https://sostav.ru/publication/autentichnost-protiv-glyantsa-pochemu-nesovershennyj-84881.html
+- Бренду не нужно быть везде: как компании раздувают маркетинговые бюджеты [17:01 МСК, обычный прогон] — https://sostav.ru/publication/brendu-ne-nuzhno-byt-vezde-kak-kompanii-sami-razduvayut-marketingovye-byudzhety-84924.html
+- Петр Середкин (экс-VK) перешёл в «Яндекс Плюс AdTech», спецпроекты Кинопоиска [17:01 МСК, обычный прогон] — https://adindex.ru/news/hr/2026/06/30/346625.phtml
 
 ### 2026-06-29
 - Суд рассмотрит иск о продаже рекламной группы АДВ [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/right/2026/06/29/346292.phtml
