@@ -15,6 +15,12 @@
 
 ## Опубликовано
 
+### 2026-07-01
+- Havas урегулировала спор с регулятором США по делу о рекламном сговоре [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/havas-uregulirovala-spor-s-regulyatorom-ssha-po-delu-o-reklamnom-sgovore-84947.html
+- Omnicom выиграла глобальный медиаконтракт Adidas [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/omnicom-vyigrala-globalnyj-mediakontrakt-adidas-84946.html
+- Wildberries купил контрольный пакет «Еаптеки» [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/wildberries-kupil-kontrolnyj-paket-eapteki-84943.html
+- «М.Видео» и «Эльдорадо» объединятся в рамках маркетплейса [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/07/1/346737.phtml
+
 ### 2026-06-30
 - Яндекс обновил нейросетевую модель прогнозирования конверсий в Директе [11:00 МСК, обычный прогон] — https://sostav.ru/publication/yandeks-vnedril-v-svoyu-reklamnuyu-sistemu-novuyu-model-prognozirovaniya-konversij-84913.html
 - WhatsApp запустил юзернеймы — бронирование уже открыто [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/30/346472.phtml
