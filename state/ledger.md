@@ -16,6 +16,9 @@
 ## Опубликовано
 
 ### 2026-07-01
+- «Авито» масштабирует ИИ-ассистента для продавцов [12:03 МСК, обычный прогон] — https://sostav.ru/publication/avito-masshtabiruet-ii-assistenta-dlya-prodavtsov-84952.html
+- Андрей Егоров назначен главным управляющим директором SkyAlliance [12:03 МСК, обычный прогон] — https://adindex.ru/news/hr/2026/07/1/346728.phtml
+- Как перезапустить диалог с молодой аудиторией: кейс INFLUENCE BEAUTY, «Яндекс Музыки» и PHD [12:03 МСК, обычный прогон] — https://sostav.ru/publication/kak-perezapustit-dialog-s-molodoj-auditoriej-kejs-influence-beauty-yandeks-muzyki-i-phd-84937.html
 - Яндекс Ритм запустил геотаргетинг для компаний из сферы услуг [11:00 МСК, обычный прогон] — https://ppc.world/news/yandeks-ritm-zapustil-geotargeting-dlya-kompaniy-iz-sfery-uslug/
 - В Авито Рекламе появился таргетинг на пользователей, ожидающих ребёнка [11:00 МСК, обычный прогон] — https://ppc.world/news/v-avito-reklame-poyavilsya-targeting-na-polzovateley-ozhidayuschih-rebenka/
 - Кейс МТС DSP и «Детский мир»: как увеличить продажи в высокий сезон на 30% [11:00 МСК, обычный прогон] — https://sostav.ru/publication/kejs-mts-dsp-i-detskij-mir-kak-uvelichit-prodazhi-v-shkolnyj-sezon-na-30-84896.html
