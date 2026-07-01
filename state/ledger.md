@@ -16,6 +16,10 @@
 ## Опубликовано
 
 ### 2026-07-01
+- Яндекс Ритм запустил геотаргетинг для компаний из сферы услуг [11:00 МСК, обычный прогон] — https://ppc.world/news/yandeks-ritm-zapustil-geotargeting-dlya-kompaniy-iz-sfery-uslug/
+- В Авито Рекламе появился таргетинг на пользователей, ожидающих ребёнка [11:00 МСК, обычный прогон] — https://ppc.world/news/v-avito-reklame-poyavilsya-targeting-na-polzovateley-ozhidayuschih-rebenka/
+- Кейс МТС DSP и «Детский мир»: как увеличить продажи в высокий сезон на 30% [11:00 МСК, обычный прогон] — https://sostav.ru/publication/kejs-mts-dsp-i-detskij-mir-kak-uvelichit-prodazhi-v-shkolnyj-sezon-na-30-84896.html
+- Рейтинг «Технологический Индекс»: Big Data [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/1/346738.phtml
 - Havas урегулировала спор с регулятором США по делу о рекламном сговоре [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/havas-uregulirovala-spor-s-regulyatorom-ssha-po-delu-o-reklamnom-sgovore-84947.html
 - Omnicom выиграла глобальный медиаконтракт Adidas [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/omnicom-vyigrala-globalnyj-mediakontrakt-adidas-84946.html
 - Wildberries купил контрольный пакет «Еаптеки» [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/wildberries-kupil-kontrolnyj-paket-eapteki-84943.html
@@ -143,24 +147,4 @@
 - Покупки в диалоге: как мир привыкает приобретать товары через нейросети [18:01 МСК, обычный прогон] — https://sostav.ru/publication/pokupki-v-dialoge-kak-mir-privykaet-priobretat-tovary-cherez-nejroseti-84774.html
 - Apple объяснила удаление VK из App Store «соблюдением санкций» (Sogaz, Газпромбанк, Ростех) [19:01 МСК, обычный прогон] — https://vc.ru/services/2995674-apple-udalenie-prilozheniy-vk
 - Кабмин внёс в Госдуму законопроект о поддержке развития ИИ [19:01 МСК, обычный прогон] — https://sostav.ru/publication/kabmin-vnes-v-gosdumu-zakonoproekt-o-podderzhke-razvitiya-ii-84811.html
-
-### 2026-06-24
-- Рекламный рынок превысил 1 трлн долл. и вырастет до 1,4 трлн долл. к 2030 году [10:16 МСК, обязательный дайджест] — https://sostav.ru/publication/reklamnyj-rynok-prevysil-1-trln-i-vyrastet-do-1-4-trln-k-2030-godu-84749.html
-- Т-Банк, «Дром» и Hassle стали лидерами по рекламным интеграциям на YouTube [10:16 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/24/346171.phtml
-- Walmart купил рекламную платформу Vibe.co для CTV-маркетинга [10:16 МСК, обязательный дайджест] — https://adindex.ru/news/marketing/2026/06/24/346177.phtml
-- Twitch не работает в России — Роскомнадзор опровергает блокировку [10:16 МСК, обязательный дайджест] — https://ppc.world/news/twitch-ne-rabotaet-v-rossii-no-roskomnadzor-oproverg-blokirovku-strimingovoy-platformy/
-- Госдума одобрила заморозку порога НДС — платить будет только бизнес с доходом от 20 млн руб. [13:00 МСК, обычный прогон] — https://ppc.world/news/gosduma-v-pervom-chtenii-odobrila-zamorozku-poroga-nds-platit-nds-budet-tolko-biznes-s-dohodom-ot-20-mln-rubley/
-- Яндекс может запустить новый бренд для работы с блогерами [13:00 МСК, обычный прогон] — https://www.seonews.ru/events/yandeks-mozhet-zapustit-novyy-brend-dlya-raboty-s-blogerami/
-- Amazon Ads добавил функцию покупки товаров прямо из телевизионной рекламы [13:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/24/346183.phtml
-- Маркетинг-директор P&G: ИИ открывает новую эру в маркетинге [13:00 МСК, обычный прогон] — https://sostav.ru/publication/marketing-direktor-p-g-iskusstvennyj-intellekt-otkryvaet-novuyu-eru-84755.html
-- Второй день Cannes Lions 2026: Google, Adidas, Coinbase среди победителей [13:00 МСК, обычный прогон] — https://adindex.ru/news/creative/2026/06/23/346168.phtml
-- WPP представила пять принципов доверия в эпоху ИИ [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/wpp-predstavila-pyat-printsipov-doveriya-v-epokhu-iskusstvennogo-intellekta-84767.html
-- Omnicom Media и Paramount+ — динамические рекламные блоки в стриминге [15:01 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/24/346185.phtml
-- Meta разрабатывает Arena — приложение для прогнозов и ставок [15:01 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/24/346173.phtml
-- MAX удалён из App Store — инструкция для iPhone и до 10 каналов на организацию [17:00 МСК, обычный прогон] — https://ppc.world/news/maks-predstavil-instrukciyu-kak-poluchat-uvedomleniya-na-iphone-aktualno-posle-udaleniya-messendzhera-iz-app-store/
-- Telegram тестирует расширенный редактор постов: таблицы, формулы, заголовки, коллажи [17:00 МСК, обычный прогон] — https://ppc.world/news/telegram-testiruet-rasshirennyy-tekstovyy-redaktor-s-tablicami-i-formulami/
-- Cannes Lions 2026: подробный разбор второго дня — Apple, Google, Adidas, Hyundai [17:00 МСК, обычный прогон] — https://sostav.ru/publication/cannes-lions-2026-ot-gejmerov-do-gumanitarnykh-missij-pobediteli-vtorogo-dnya-festivalya-84735.html
-- Рекламу криптовалют могут запретить в России [19:00 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/24/346213.phtml
-- Стратегия «выхода»: почему селлеры покидают маркетплейсы и как уйти, не потеряв бизнес [19:00 МСК, обычный прогон] — https://sostav.ru/publication/strategiya-vykhoda-pochemu-sellery-pokidayut-marketplejsy-i-kak-ujti-ne-poteryav-biznes-84768.html
-- ByteDance планирует взять кредит на 20 млрд долл. [19:00 МСК, обычный прогон] — https://sostav.ru/publication/bytedance-planiruet-vzyat-kredit-na-20-mlrd-84769.html
 
