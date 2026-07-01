@@ -16,6 +16,7 @@
 ## Опубликовано
 
 ### 2026-07-01
+- Бренды стали публиковать больше контента в «Максе» и «ВКонтакте» после замедления Telegram [14:00 МСК, обычный прогон] — https://sostav.ru/publication/brendy-stali-publikovat-bolshe-kontenta-v-makse-i-vkontakte-posle-zamedleniya-telegram-84957.html
 - «Авито» масштабирует ИИ-ассистента для продавцов [12:03 МСК, обычный прогон] — https://sostav.ru/publication/avito-masshtabiruet-ii-assistenta-dlya-prodavtsov-84952.html
 - Андрей Егоров назначен главным управляющим директором SkyAlliance [12:03 МСК, обычный прогон] — https://adindex.ru/news/hr/2026/07/1/346728.phtml
 - Как перезапустить диалог с молодой аудиторией: кейс INFLUENCE BEAUTY, «Яндекс Музыки» и PHD [12:03 МСК, обычный прогон] — https://sostav.ru/publication/kak-perezapustit-dialog-s-molodoj-auditoriej-kejs-influence-beauty-yandeks-muzyki-i-phd-84937.html
