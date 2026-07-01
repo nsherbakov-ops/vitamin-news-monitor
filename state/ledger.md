@@ -16,6 +16,11 @@
 ## Опубликовано
 
 ### 2026-07-01
+- VK внедрит ИИ-поиск в свои сервисы [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/07/1/346799.phtml
+- Авторы ВКонтакте заработали 1,4 млрд рублей с помощью VK AdBlogger [15:00 МСК, обязательный дайджест] — https://likeni.ru/events/avtory-vkontakte-zarabotali-1-4-mlrd-rubley-s-pomoshchyu-vk-adblogger-s-nachala-goda/
+- Скандалы вокруг WPP ослабляют репутацию холдинга [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/skandaly-vokrug-wpp-oslablyayut-reputatsiyu-kholdinga-84958.html
+- «Пятёрочка» отправила Галю спасать параллельные реальности [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/creative/2026/07/1/346803.phtml
+- Финансовые сервисы становятся одним из главных источников роста для маркетплейсов [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/finansovye-servisy-stanovyatsya-odnim-iz-glavnykh-istochnikov-rosta-dlya-marketplejsov-84955.html
 - Бренды стали публиковать больше контента в «Максе» и «ВКонтакте» после замедления Telegram [14:00 МСК, обычный прогон] — https://sostav.ru/publication/brendy-stali-publikovat-bolshe-kontenta-v-makse-i-vkontakte-posle-zamedleniya-telegram-84957.html
 - «Авито» масштабирует ИИ-ассистента для продавцов [12:03 МСК, обычный прогон] — https://sostav.ru/publication/avito-masshtabiruet-ii-assistenta-dlya-prodavtsov-84952.html
 - Андрей Егоров назначен главным управляющим директором SkyAlliance [12:03 МСК, обычный прогон] — https://adindex.ru/news/hr/2026/07/1/346728.phtml
