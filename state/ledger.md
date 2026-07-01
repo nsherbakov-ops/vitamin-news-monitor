@@ -16,6 +16,8 @@
 ## Опубликовано
 
 ### 2026-07-01
+- Кейс «Х5 Медиа» и «Хаме»: как ретейл-медиа вывело паштеты в топ категории [17:01 МСК, обычный прогон] — https://www.sostav.ru/publication/kejs-kh5-media-i-khame-po-prodvizheniyu-premialnykh-pashtetov-v-top-kategorii-84927.html
+- VK Tech и Yandex B2B Tech могут договориться о партнёрстве [17:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/1/346813.phtml
 - VK внедрит ИИ-поиск в свои сервисы [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/07/1/346799.phtml
 - Авторы ВКонтакте заработали 1,4 млрд рублей с помощью VK AdBlogger [15:00 МСК, обязательный дайджест] — https://likeni.ru/events/avtory-vkontakte-zarabotali-1-4-mlrd-rubley-s-pomoshchyu-vk-adblogger-s-nachala-goda/
 - Скандалы вокруг WPP ослабляют репутацию холдинга [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/skandaly-vokrug-wpp-oslablyayut-reputatsiyu-kholdinga-84958.html
