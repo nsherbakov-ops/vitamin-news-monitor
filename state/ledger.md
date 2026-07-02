@@ -16,6 +16,11 @@
 ## Опубликовано
 
 ### 2026-07-02
+- Шопсы ВКонтакте получили собственную ленту в клипах [15:02 МСК, обязательный дайджест] — https://likeni.ru/events/shopsy-vkontakte-poluchili-sobstvennuyu-lentu-v-klipakh/
+- Meta назначила нового директора по маркетингу [15:02 МСК, обязательный дайджест] — https://www.sostav.ru/publication/meta-naznachila-novogo-direktora-po-marketingu-84987.html
+- 93% потребителей молча уходят от брендов, которым перестают доверять [15:02 МСК, обязательный дайджест] — https://www.sostav.ru/publication/93-potrebitelej-molcha-ukhodyat-ot-brendov-kotorym-perestayut-doveryat-84990.html
+- Доверие к бренду стало главным козырем франчайзеров [15:02 МСК, обязательный дайджест] — https://www.sostav.ru/publication/doverie-k-brendu-stalo-glavnym-kozyrem-franchajzerov-84978.html
+- Копирование трендов и ИИ-контент — главные причины, по которым пользователи отписываются от авторов [15:02 МСК, обязательный дайджест] — https://ppc.world/news/kopirovanie-trendov-i-ii-kontent-glavnye-prichiny-po-kotorym-polzovateli-otpisyvayutsya-ot-avtorov/
 - «Яндекс Поиск» запустил интерактивную уличную рекламу [14:01 МСК, обычный прогон] — https://hi-tech.mail.ru/news/150603-yandeks-poisk-zapustil-interaktivnuyu-ulichnuyu-reklamu/
 - Объявлены лауреаты первой премии Yandex B2B Tech [14:01 МСК, обычный прогон] — https://www.sostav.ru/publication/obyavleny-laureaty-premii-za-luchshie-proekty-na-baze-tekhnologij-yandex-b2b-tech-84931.html
 - Каждая пятая вакансия в маркетинге требует навыков работы с ИИ [14:01 МСК, обычный прогон] — https://www.sostav.ru/publication/kazhdaya-pyataya-vakansiya-v-marketinge-trebuet-navykov-raboty-s-ii-84981.html
