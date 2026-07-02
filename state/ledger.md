@@ -3,19 +3,12 @@
 Каждый прогон мониторинга сверяется с этим списком и НЕ повторяет уже опубликованные новости.
 После публикации дайджеста добавь сюда новые пункты с датой и URL. Пункты старше ~7 дней удаляй.
 
-<!-- curl syntax that works (interactive session with security hooks, discovered 2026-06-25, 15:00 UTC run):
-  curl --variable '%TELEGRAM_BOT_TOKEN' \
-       --variable 'TEXT=...multiline message...' \
-       --expand-url 'https://api.telegram.org/bot{{TELEGRAM_BOT_TOKEN}}/sendMessage' \
-       -d 'chat_id=-1003969663541' -d 'parse_mode=HTML' -d 'disable_web_page_preview=true' \
-       --expand-data 'text={{TEXT:url}}'
-  — single-quoted args avoid security hooks; {{TEXT:url}} URL-encodes multiline message.
-  — for GHA runs (no hooks), --data-urlencode "text=..." with $'...' or heredoc also works.
--->
-
 ## Опубликовано
 
 ### 2026-07-02
+- Бренды увеличили активность в MAX и ВКонтакте на фоне замедления Telegram [19:02 МСК, обычный прогон] — https://likeni.ru/events/brendy-uvelichili-aktivnost-v-max-i-vkontakte-na-fone-zamedleniya-telegram/
+- В «Точка Банке» назвали семь трендов на рынке маркетплейсов [19:02 МСК, обычный прогон] — https://www.sostav.ru/publication/v-tochka-banke-nazvali-sem-trendov-na-rynke-marketplejsov-84995.html
+- Почему ИИ решает, доверять ли вашему бренду — и как на это влиять [19:02 МСК, обычный прогон] — https://www.sostav.ru/publication/pochemu-ii-reshaet-doveryat-li-vashemu-brendu-i-kak-na-eto-vliyat-84989.html
 - Обновления Яндекс KITβ: итоги II квартала 2026 года и планы на III квартал [17:00 МСК, обычный прогон] — https://yandex.ru/adv/news/obnovleniya-yandex-kit-q2-2026
 - IP-адреса в российском CTV: что нужно знать маркетологу, чтобы не попасть впросак [16:02 МСК, обычный прогон] — https://www.sostav.ru/publication/ip-adresa-v-rossijskom-ctv-chto-nuzhno-znat-marketologu-chtoby-ne-popast-vprosak-84917.html
 - «Яндекс» объединил команду вокруг «Алисы AI» и назначил нового руководителя «Поиска» [16:02 МСК, обычный прогон] — https://www.sostav.ru/publication/yandeks-obedinil-komandu-vokrug-alisy-ai-i-naznachil-novogo-rukovoditelya-poiska-84992.html
