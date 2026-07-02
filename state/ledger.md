@@ -16,6 +16,10 @@
 ## Опубликовано
 
 ### 2026-07-02
+- Авито открыл доступ к ИИ-ассистенту Ави Pro для 500 000 продавцов [11:02 МСК, обычный прогон] — https://ppc.world/news/avito-otkryl-dostup-k-ii-assistentu-avi-pro-dlya-500-000-prodavcov-on-analiziruet-voronku-prodazh-i-pokazyvaet-chto-tormozit-prodazhi/
+- Рейтинг «Технологический Индекс»: инструменты аналитики [11:02 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/2/346831.phtml
+- Большинство рекламы в MAX публикуется в каналах с числом подписчиков до 10 тыс. [11:02 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/07/2/346828.phtml
+- VK запустит собственный нейропоиск [11:02 МСК, обычный прогон] — https://ppc.world/news/vk-zapustit-sobstvennyy-neyropoisk-iskat-informaciyu-vnutri-servisov-mozhno-budet-s-pomoschyu-ii/
 - Telegram сохраняет интерес рекламодателей [10:03 МСК, обязательный дайджест] — https://www.sostav.ru/publication/telegram-sokhranyaet-interes-reklamodatelej-84968.html
 - Дневной охват мессенджера «Телеграм» снизился в полтора раза [10:03 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/07/2/346821.phtml
 - WPP делает ставку на ИИ-маркетинг [10:03 МСК, обязательный дайджест] — https://www.sostav.ru/publication/wpp-delaet-stavku-na-ii-marketing-84969.html
