@@ -16,6 +16,7 @@
 ## Опубликовано
 
 ### 2026-07-02
+- Обновления Яндекс KITβ: итоги II квартала 2026 года и планы на III квартал [17:00 МСК, обычный прогон] — https://yandex.ru/adv/news/obnovleniya-yandex-kit-q2-2026
 - IP-адреса в российском CTV: что нужно знать маркетологу, чтобы не попасть впросак [16:02 МСК, обычный прогон] — https://www.sostav.ru/publication/ip-adresa-v-rossijskom-ctv-chto-nuzhno-znat-marketologu-chtoby-ne-popast-vprosak-84917.html
 - «Яндекс» объединил команду вокруг «Алисы AI» и назначил нового руководителя «Поиска» [16:02 МСК, обычный прогон] — https://www.sostav.ru/publication/yandeks-obedinil-komandu-vokrug-alisy-ai-i-naznachil-novogo-rukovoditelya-poiska-84992.html
 - Шопсы ВКонтакте получили собственную ленту в клипах [15:02 МСК, обязательный дайджест] — https://likeni.ru/events/shopsy-vkontakte-poluchili-sobstvennuyu-lentu-v-klipakh/
