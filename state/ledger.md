@@ -15,6 +15,13 @@
 
 ## Опубликовано
 
+### 2026-07-02
+- Telegram сохраняет интерес рекламодателей [10:03 МСК, обязательный дайджест] — https://www.sostav.ru/publication/telegram-sokhranyaet-interes-reklamodatelej-84968.html
+- Дневной охват мессенджера «Телеграм» снизился в полтора раза [10:03 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/07/2/346821.phtml
+- WPP делает ставку на ИИ-маркетинг [10:03 МСК, обязательный дайджест] — https://www.sostav.ru/publication/wpp-delaet-stavku-na-ii-marketing-84969.html
+- Пользователи Яндекс KIT (бета) смогут импортировать отзывы и оценки с Яндекс Маркета [10:03 МСК, обязательный дайджест] — https://yandex.ru/adv/news/polzovateli-yandex-kit-beta-mogut-importirovat-otsenki-i-otzyvy-s-yandeks-marketa
+- ФАС потребовала от Apple предустановить российское ПО [10:03 МСК, обязательный дайджест] — https://sostav.ru/publication/fas-potrebovala-ot-apple-preustanovit-rossijskoe-po-84964.html
+
 ### 2026-07-01
 - Кейс «Х5 Медиа» и «Хаме»: как ретейл-медиа вывело паштеты в топ категории [17:01 МСК, обычный прогон] — https://www.sostav.ru/publication/kejs-kh5-media-i-khame-po-prodvizheniyu-premialnykh-pashtetov-v-top-kategorii-84927.html
 - VK Tech и Yandex B2B Tech могут договориться о партнёрстве [17:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/1/346813.phtml
@@ -134,28 +141,4 @@
 - 74% россиян доверяют личным рекомендациям больше, чем рекламе [18:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/26/346288.phtml
 - ИИ, предпринимательское мышление, многофункциональность: чего компании ждут от маркетологов в 2026 [18:01 МСК, обычный прогон] — https://sostav.ru/publication/ii-predprinimatelskoe-myshlenie-i-mnogofunktsionalnost-chego-kompanii-zhdut-ot-marketologov-v-2026-godu-84831.html
 - Акцент на удержание: как работа с привлечённой аудиторией развивает бизнес на перегретом рынке [18:01 МСК, обычный прогон] — https://sostav.ru/publication/aktsent-na-uderzhanie-kak-rabota-s-uzhe-privlechennoj-auditoriej-pomogaet-razvivat-i-prodvigat-biznes-na-peregretom-rynke-84837.html
-
-### 2026-06-25
-- Яндекс запустил «Прайм-баннер» — единый охватный формат на 20+ сервисах экосистемы [17:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346259.phtml
-- VK Реклама запустила продвижение каналов ВКонтакте, MAX и Дзен (бета) [17:01 МСК, обычный прогон] — https://vk.company/ru/press/releases/12333/
-- Яндекс B2B Tech открыл Vibecraft — сайты по текстовому описанию за 5–10 минут [17:01 МСК, обычный прогон] — https://ppc.world/news/yandex-b2b-tech-otkryl-dostup-k-vibecraft-s-kotorym-mozhno-sozdat-sayt-po-tekstovomu-opisaniyu/
-- Платформа для партнёров MAX открылась для самозанятых [17:01 МСК, обычный прогон] — https://vk.company/ru/press/releases/12335/
-- РСЯ прекращает сотрудничество с физлицами: до 1 июля — самозанятость или ИП [12:00 МСК, обычный прогон] — https://ppc.world/news/rsya-napomnila-o-prekraschenii-sotrudnichestva-s-fizlicami-do-1-iyulya-nuzhno-pereyti-na-samozanyatost-ili-ip/
-- Apple без предупреждения удалила из App Store Дзен, VK Видео, VK Знакомства, VK Мессенджер и VK Музыку [12:00 МСК, обычный прогон] — https://sostav.ru/publication/iz-app-store-udalili-prilozheniya-dzen-i-vk-messendzher-84796.html
-- Meta запустила Creator Studio — ИИ-инструмент для контентмейкеров на Facebook [12:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346223.phtml
-- Пользователи с блокировщиками рекламы тратят на покупки больше [12:00 МСК, обычный прогон] — https://sostav.ru/publication/polzovateli-s-blokirovshchikami-reklamy-tratyat-na-pokupki-bolshe-84786.html
-- Publicis Groupe раскритиковала ажиотаж вокруг ИИ в рекламной индустрии [14:00 МСК, обычный прогон] — https://sostav.ru/publication/publicis-groupe-raskritikovala-azhiotazh-vokrug-ii-v-reklamnoj-industrii-84803.html
-- Обновление «Алисы AI»: доводит задачу до результата и запоминает важное из диалога [14:00 МСК, обычный прогон] — https://sostav.ru/publication/obnovlenie-alisy-ai-ona-dovodit-zadachu-do-rezultata-i-zapominaet-vazhnoe-iz-dialoga-84791.html
-- Почти половина маркетологов в мире признают, что их реклама остаётся шаблонной [14:00 МСК, обычный прогон] — https://sostav.ru/publication/pochti-polovina-marketologov-v-mire-priznayut-chto-ikh-reklama-ostaetsya-shablonnoj-84797.html
-- Зумеры чаще других поколений готовы платить за мобильные приложения [14:00 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/25/346220.phtml
-- Минцифры обратилось в ФАС из-за удаления VK-приложений и закона о предустановке RuStore [15:00 МСК, обязательный дайджест] — https://vc.ru/services/2995176-mintsifry-trebuyut-proverit-apple-iz-za-udaleniyaprilozheniy-vk-i-rustore
-- Реклама в MAX для фешен-брендов: что показал тест O'STIN и i.соm [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/reklama-v-max-dlya-feshen-brendov-84801.html
-- Стриминги ищут способ победить усталость от рекламы [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/strimingi-ishchut-sposob-pobedit-ustalost-ot-reklamy-84805.html
-- Маркетологи и пиарщики умерили ожидания от ИИ [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/marketologi-i-piarshchiki-umerili-svoi-ozhidaniya-otnositelno-vozmozhnostej-ii-84804.html
-- Cannes Lions 2026: победители в Creative Data, Media, Direct, PR и Social & Creator [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/cannes-lions-2026-obyavili-pobeditelej-v-creative-data-media-direct-pr-i-social-creator-84800.html
-- Google разрешит сторонние способы оплаты в Google Play [15:00 МСК, обязательный дайджест] — https://vc.ru/services/2994728-google-play-razreshit-alternativnye-sposoby-oplaty
-- Акции VK рухнули до рекордного минимума после удаления приложений из App Store [18:01 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/25/346260.phtml
-- Покупки в диалоге: как мир привыкает приобретать товары через нейросети [18:01 МСК, обычный прогон] — https://sostav.ru/publication/pokupki-v-dialoge-kak-mir-privykaet-priobretat-tovary-cherez-nejroseti-84774.html
-- Apple объяснила удаление VK из App Store «соблюдением санкций» (Sogaz, Газпромбанк, Ростех) [19:01 МСК, обычный прогон] — https://vc.ru/services/2995674-apple-udalenie-prilozheniy-vk
-- Кабмин внёс в Госдуму законопроект о поддержке развития ИИ [19:01 МСК, обычный прогон] — https://sostav.ru/publication/kabmin-vnes-v-gosdumu-zakonoproekt-o-podderzhke-razvitiya-ii-84811.html
 
