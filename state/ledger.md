@@ -16,6 +16,8 @@
 ## Опубликовано
 
 ### 2026-07-02
+- Привлечение пользователей в «Бидиз» (Bidease): как алгоритмы находят тех, кто платит [13:03 МСК, обычный прогон] — https://www.sostav.ru/publication/privlechenie-polzovatelej-v-bidiz-bidease-kak-algoritmy-nakhodyat-tekh-kto-platit-84770.html
+- Три цифровые среды вместо одной воронки: «Родная Речь» представит новую модель CJM [13:03 МСК, обычный прогон] — https://www.sostav.ru/publication/tri-tsifrovye-sredy-vmesto-odnoj-voronki-84930.html
 - Wildberries повышает комиссии для продавцов с 7 июля [12:01 МСК, обычный прогон] — https://sostav.ru/publication/wildberries-uvelichivaet-komissii-iz-za-podorozhaniya-benzina-84970.html
 - Аудитория заблокированных сервисов в России выросла в I полугодии 2026 (Instagram/Threads вверх, Telegram/WhatsApp вниз) [12:01 МСК, обычный прогон] — https://rozetked.me/news/46977-smi-v-pervoy-polovine-2026-goda-v-rossii-vyrosla-auditoriya-zablokirovannyh-servisov
 - Авито открыл доступ к ИИ-ассистенту Ави Pro для 500 000 продавцов [11:02 МСК, обычный прогон] — https://ppc.world/news/avito-otkryl-dostup-k-ii-assistentu-avi-pro-dlya-500-000-prodavcov-on-analiziruet-voronku-prodazh-i-pokazyvaet-chto-tormozit-prodazhi/
