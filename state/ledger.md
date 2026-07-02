@@ -16,6 +16,9 @@
 ## Опубликовано
 
 ### 2026-07-02
+- «Яндекс Поиск» запустил интерактивную уличную рекламу [14:01 МСК, обычный прогон] — https://hi-tech.mail.ru/news/150603-yandeks-poisk-zapustil-interaktivnuyu-ulichnuyu-reklamu/
+- Объявлены лауреаты первой премии Yandex B2B Tech [14:01 МСК, обычный прогон] — https://www.sostav.ru/publication/obyavleny-laureaty-premii-za-luchshie-proekty-na-baze-tekhnologij-yandex-b2b-tech-84931.html
+- Каждая пятая вакансия в маркетинге требует навыков работы с ИИ [14:01 МСК, обычный прогон] — https://www.sostav.ru/publication/kazhdaya-pyataya-vakansiya-v-marketinge-trebuet-navykov-raboty-s-ii-84981.html
 - Привлечение пользователей в «Бидиз» (Bidease): как алгоритмы находят тех, кто платит [13:03 МСК, обычный прогон] — https://www.sostav.ru/publication/privlechenie-polzovatelej-v-bidiz-bidease-kak-algoritmy-nakhodyat-tekh-kto-platit-84770.html
 - Три цифровые среды вместо одной воронки: «Родная Речь» представит новую модель CJM [13:03 МСК, обычный прогон] — https://www.sostav.ru/publication/tri-tsifrovye-sredy-vmesto-odnoj-voronki-84930.html
 - Wildberries повышает комиссии для продавцов с 7 июля [12:01 МСК, обычный прогон] — https://sostav.ru/publication/wildberries-uvelichivaet-komissii-iz-za-podorozhaniya-benzina-84970.html
