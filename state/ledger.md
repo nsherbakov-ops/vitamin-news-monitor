@@ -16,6 +16,8 @@
 ## Опубликовано
 
 ### 2026-07-02
+- Wildberries повышает комиссии для продавцов с 7 июля [12:01 МСК, обычный прогон] — https://sostav.ru/publication/wildberries-uvelichivaet-komissii-iz-za-podorozhaniya-benzina-84970.html
+- Аудитория заблокированных сервисов в России выросла в I полугодии 2026 (Instagram/Threads вверх, Telegram/WhatsApp вниз) [12:01 МСК, обычный прогон] — https://rozetked.me/news/46977-smi-v-pervoy-polovine-2026-goda-v-rossii-vyrosla-auditoriya-zablokirovannyh-servisov
 - Авито открыл доступ к ИИ-ассистенту Ави Pro для 500 000 продавцов [11:02 МСК, обычный прогон] — https://ppc.world/news/avito-otkryl-dostup-k-ii-assistentu-avi-pro-dlya-500-000-prodavcov-on-analiziruet-voronku-prodazh-i-pokazyvaet-chto-tormozit-prodazhi/
 - Рейтинг «Технологический Индекс»: инструменты аналитики [11:02 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/2/346831.phtml
 - Большинство рекламы в MAX публикуется в каналах с числом подписчиков до 10 тыс. [11:02 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/07/2/346828.phtml
