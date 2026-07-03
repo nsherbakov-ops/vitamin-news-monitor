@@ -6,6 +6,7 @@
 ## Опубликовано
 
 ### 2026-07-03
+- Аудитория зарубежных платформ в России перераспределяется на фоне ограничений (Telegram -49,4%, WhatsApp -43%, доля MAX в медиамиксе брендов ×3 до 24%) [12:02 МСК, обычный прогон] — https://likeni.ru/events/auditoriya-zarubezhnykh-platform-v-rossii-pereraspredelyaetsya-na-fone-ogranicheniy/
 - Рейтинг «Технологический Индекс»: Валидация/Верификация (лидеры Weborama, TargetAds, AdRiver) [11:02 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/3/346875.phtml
 - Effie Index 2025: названы самые эффективные маркетологи и агентства мира [11:02 МСК, обычный прогон] — https://www.sostav.ru/publication/effie-index-2025-nazvany-samye-effektivnye-marketologi-i-agentstva-mira-85007.html
 - В России появились вакансии специалистов по продвижению в нейросетях [10:02 МСК, обязательный дайджест] — https://www.sostav.ru/publication/v-rossii-poyavilis-vakansii-spetsialistov-po-prodvizheniyu-v-nejrosetyakh-85006.html
