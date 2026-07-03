@@ -5,6 +5,11 @@
 
 ## Опубликовано
 
+### 2026-07-03
+- В России появились вакансии специалистов по продвижению в нейросетях [10:02 МСК, обязательный дайджест] — https://www.sostav.ru/publication/v-rossii-poyavilis-vakansii-spetsialistov-po-prodvizheniyu-v-nejrosetyakh-85006.html
+- Еврокомиссия может предложить единый запрет на соцсети для детей [10:02 МСК, обязательный дайджест] — https://sostav.ru/publication/evrokomissiya-mozhet-predlozhit-edinyj-zapret-na-sotsseti-dlya-detej-85002.html
+- Доходы директоров по коммуникациям в Москве достигли 1,2 млн рублей в месяц [10:02 МСК, обязательный дайджест] — https://likeni.ru/events/dokhody-direktorov-po-kommunikatsiyam-v-moskve-dostigli-1-2-mln-rubley-v-mesyats/
+
 ### 2026-07-02
 - Бренды увеличили активность в MAX и ВКонтакте на фоне замедления Telegram [19:02 МСК, обычный прогон] — https://likeni.ru/events/brendy-uvelichili-aktivnost-v-max-i-vkontakte-na-fone-zamedleniya-telegram/
 - В «Точка Банке» назвали семь трендов на рынке маркетплейсов [19:02 МСК, обычный прогон] — https://www.sostav.ru/publication/v-tochka-banke-nazvali-sem-trendov-na-rynke-marketplejsov-84995.html
