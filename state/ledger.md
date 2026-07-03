@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-07-03
+- Объём рекламы ЧМ-2026 на ТВ сократился на 14% [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/obem-reklamy-chm-2026-na-tv-sokratilsya-na-14-85020.html
+- Яндекс Поиск вывел Алису AI на улицы Москвы [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/prikosnites-k-novomu-yandeks-poisk-vyvodit-alisu-ai-na-ulitsy-moskvy-85018.html
+- Маркетинг для зумеров: узнаваемость больше не ведёт напрямую к покупке [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/marketing-dlya-zumerov-uznavaemost-bolshe-ne-vedet-napryamuyu-k-pokupke-85021.html
+- Город невед, рынок по расчёту: куда движется стриминг и ТВ [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/pilot-85019.html
 - ОРД МедиаСкаут обновляет тарифы с 1 августа [15:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/ord-mediaskaut-obnovlyaet-tarify-s-1-avgusta/
 - В России утвердили правила проверки карточек товаров на маркетплейсах [15:00 МСК, обязательный дайджест] — https://hi-tech.mail.ru/news/150663-v-rossii-utverdili-pravila-proverki-kartochek-tovarov-na-marketplejsah/
 - Wildberries запустил виртуальную примерку украшений с помощью ИИ [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/07/3/346874.phtml
@@ -137,33 +141,4 @@
 - Suno даст начинающим артистам деньги на маркетинг и продвижение [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/marketing/2026/06/26/346273.phtml
 - Авито Реклама запустила ретаргетинг по кликам на баннер [17:00 МСК, обычный прогон] — https://www.seonews.ru/events/avito-reklama-zapustila-retargeting-po-klikam-na-banner/
 - Silver Mercury 2026 изменил расстановку сил в Национальном рейтинге рекламных агентств [17:00 МСК, обычный прогон] — https://ratings.sostav.ru/news/silver-mercury
-
-### 2026-06-26
-- Алиса AI генерирует в ~5 раз больше переходов на российские сайты, чем ChatGPT — исследование Impulse.guru [11:00 МСК, обычный прогон] — https://ppc.world/news/alisa-ai-generiruet-v-pochti-5-raz-bolshe-perehodov-na-rossiyskie-sayty-chem-chatgpt-issledovanie/
-- Яндекс Вебмастер ускорил обновление данных в «Мониторинге запросов»: данные за сутки с детализацией по часам [11:00 МСК, обычный прогон] — https://ppc.world/news/yandeks-vebmaster-uskoril-obnovlenie-dannyh-v-monitoringe-zaprosov/
-- Объём расходов на рекламу в MAX вырос в 37 раз (число рекламодателей +18×, средний чек +4,7×) [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/06/26/346270.phtml
-- ФАС рекомендовала операторам до 3 июля переработать рекламу 5G — введение в заблуждение [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/right/2026/06/26/346271.phtml
-- YouTube меняет Shorts: ускорение просмотра до 2× и замена дизлайка на «Не интересно» [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/media/2026/06/26/346272.phtml
-- УФАС Дагестана проверит рекламу гипермаркета «Четыре жены — восемь рук» [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/ufas-dagestana-proverit-reklamu-gipermarketa-s-upominaniem-preimushchestv-mnogozhenstva-84820.html
-- RuStore вышел на глобальный рынок — разработчики выбирают страны распространения (Африка, Азия, Европа) [10:00 МСК, обязательный дайджест] — https://vk.company/ru/press/releases/12336/
-- МАХ начал тестировать комментарии в публичных каналах [13:00 МСК, обычный прогон] — https://vk.company/ru/press/releases/12344/
-- Unilever сделала ставку на культурную значимость вместо роста рекламных бюджетов [13:00 МСК, обычный прогон] — https://sostav.ru/publication/unilever-sdelala-stavku-na-kulturnuyu-znachimost-vmesto-rosta-reklamnykh-byudzhetov-84832.html
-- ФАС выдала предупреждение банку «Ак Барс» [13:00 МСК, обычный прогон] — https://sostav.ru/publication/fas-vydala-preduprezhdenie-banku-ak-bars-84830.html
-- В отчетах Яндекс Метрики появилась детальная диагностика по офлайн-данным [15:00 МСК, обязательный дайджест] — https://ppc.world/news/v-otchetah-yandeks-metriki-poyavilas-detalnaya-diagnostika-po-oflayn-dannym/
-- 42,8% пользователей начинают поиск информации в нейросетях — исследование SEOnews [15:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/42-8-polzovateley-nachinayut-poisk-informatsii-v-neyrosetyakh-issledovanie/
-- Okkam: эффективность indoor-рекламы зависит от среды, а не формата [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/26/346284.phtml
-- Cannes Lions 2026: победители в категориях Strategy и Experience [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/cannes-lions-2026-obyavili-pobeditelej-v-strategy-i-experience-84833.html
-- «Авито Реклама» открыла ретаргетинг для бизнеса любого размера [12:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/25/346268.phtml
-- Гран-при «Каннских льовов 2026» — Adidas взял главную награду с «Supernova Adaptive» [12:01 МСК, обычный прогон] — https://adindex.ru/news/creative/2026/06/25/346267.phtml
-- Каждый пятый россиянин готов платить за ИИ-помощника в приложениях на регулярной основе [12:01 МСК, обычный прогон] — https://sostav.ru/publication/kazhdyj-pyatyj-rossiyanin-gotov-platit-za-ii-pomoshchnika-v-prilozheniyakh-na-regulyarnoj-osnove-84826.html
-- Рынок short video commerce в России — до 1,5 трлн руб. к 2027 году (исследование РАЭК) [16:00 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/26/346285.phtml
-- Кейс: БЛОКПОСТ + MTC OmniChannel — ROMI вырос в 2 раза [16:00 МСК, обычный прогон] — https://sostav.ru/publication/renessans-mms-kak-blokpost-i-mtc-omnichannel-uvelichili-romi-v-2-raza-84812.html
-- Приложение Telega прекратит работу с 1 июля [16:00 МСК, обычный прогон] — https://likeni.ru/events/prilozhenie-telega-prekratit-rabotu-s-1-iyulya/
-- Выручка брендинговых агентств в России сократилась более чем на 20% [17:00 МСК, обычный прогон] — https://sostav.ru/publication/vyruchka-brenlingovykh-agentstv-v-rossii-sokratilas-bolee-chem-na-20-84844.html
-- «Мобио» выиграло тендер на продвижение мобильного приложения «Магнит» [17:00 МСК, обычный прогон] — https://sostav.ru/publication/mobio-vyigralo-tender-na-prodvizhenie-mobilnogo-prilozheniya-magnit-84840.html
-- Как Only и BAIKAL430 погрузили премиальную воду в диджитал [17:00 МСК, обычный прогон] — https://sostav.ru/publication/kak-only-i-baikal430-pogruzili-premialnuyu-vodu-v-didzhital-84841.html
-- В Авито Рекламе появился ретаргетинг по кампаниям и группам объявлений [18:01 МСК, обычный прогон] — https://ppc.world/news/v-avito-reklame-poyavilsya-retargeting-po-kampaniyam-i-gruppam-obyavleniy/
-- 74% россиян доверяют личным рекомендациям больше, чем рекламе [18:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/26/346288.phtml
-- ИИ, предпринимательское мышление, многофункциональность: чего компании ждут от маркетологов в 2026 [18:01 МСК, обычный прогон] — https://sostav.ru/publication/ii-predprinimatelskoe-myshlenie-i-mnogofunktsionalnost-chego-kompanii-zhdut-ot-marketologov-v-2026-godu-84831.html
-- Акцент на удержание: как работа с привлечённой аудиторией развивает бизнес на перегретом рынке [18:01 МСК, обычный прогон] — https://sostav.ru/publication/aktsent-na-uderzhanie-kak-rabota-s-uzhe-privlechennoj-auditoriej-pomogaet-razvivat-i-prodvigat-biznes-na-peregretom-rynke-84837.html
 
