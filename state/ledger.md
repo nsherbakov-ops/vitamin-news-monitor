@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-03
+- ОРД МедиаСкаут обновляет тарифы с 1 августа [15:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/ord-mediaskaut-obnovlyaet-tarify-s-1-avgusta/
+- В России утвердили правила проверки карточек товаров на маркетплейсах [15:00 МСК, обязательный дайджест] — https://hi-tech.mail.ru/news/150663-v-rossii-utverdili-pravila-proverki-kartochek-tovarov-na-marketplejsah/
+- Wildberries запустил виртуальную примерку украшений с помощью ИИ [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/07/3/346874.phtml
 - Индекс доверия рекламе AdIndex и «Тет-о-твет»: в мае показатель остался стабильным [13:00 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/07/2/346841.phtml
 - Michael Kors выбрал новое медиаагентство (PMG, EMEA) [13:00 МСК, обычный прогон] — https://www.sostav.ru/publication/michael-kors-vybral-novoe-mediaagentstvo-85015.html
 - Аудитория зарубежных платформ в России перераспределяется на фоне ограничений (Telegram -49,4%, WhatsApp -43%, доля MAX в медиамиксе брендов ×3 до 24%) [12:02 МСК, обычный прогон] — https://likeni.ru/events/auditoriya-zarubezhnykh-platform-v-rossii-pereraspredelyaetsya-na-fone-ogranicheniy/
