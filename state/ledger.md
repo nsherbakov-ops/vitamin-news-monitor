@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-07-03
+- Индекс доверия рекламе AdIndex и «Тет-о-твет»: в мае показатель остался стабильным [13:00 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/07/2/346841.phtml
+- Michael Kors выбрал новое медиаагентство (PMG, EMEA) [13:00 МСК, обычный прогон] — https://www.sostav.ru/publication/michael-kors-vybral-novoe-mediaagentstvo-85015.html
 - Аудитория зарубежных платформ в России перераспределяется на фоне ограничений (Telegram -49,4%, WhatsApp -43%, доля MAX в медиамиксе брендов ×3 до 24%) [12:02 МСК, обычный прогон] — https://likeni.ru/events/auditoriya-zarubezhnykh-platform-v-rossii-pereraspredelyaetsya-na-fone-ogranicheniy/
 - Рейтинг «Технологический Индекс»: Валидация/Верификация (лидеры Weborama, TargetAds, AdRiver) [11:02 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/3/346875.phtml
 - Effie Index 2025: названы самые эффективные маркетологи и агентства мира [11:02 МСК, обычный прогон] — https://www.sostav.ru/publication/effie-index-2025-nazvany-samye-effektivnye-marketologi-i-agentstva-mira-85007.html
