@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-07-03
+- Рейтинг «Технологический Индекс»: Валидация/Верификация (лидеры Weborama, TargetAds, AdRiver) [11:02 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/3/346875.phtml
+- Effie Index 2025: названы самые эффективные маркетологи и агентства мира [11:02 МСК, обычный прогон] — https://www.sostav.ru/publication/effie-index-2025-nazvany-samye-effektivnye-marketologi-i-agentstva-mira-85007.html
 - В России появились вакансии специалистов по продвижению в нейросетях [10:02 МСК, обязательный дайджест] — https://www.sostav.ru/publication/v-rossii-poyavilis-vakansii-spetsialistov-po-prodvizheniyu-v-nejrosetyakh-85006.html
 - Еврокомиссия может предложить единый запрет на соцсети для детей [10:02 МСК, обязательный дайджест] — https://sostav.ru/publication/evrokomissiya-mozhet-predlozhit-edinyj-zapret-na-sotsseti-dlya-detej-85002.html
 - Доходы директоров по коммуникациям в Москве достигли 1,2 млн рублей в месяц [10:02 МСК, обязательный дайджест] — https://likeni.ru/events/dokhody-direktorov-po-kommunikatsiyam-v-moskve-dostigli-1-2-mln-rubley-v-mesyats/
