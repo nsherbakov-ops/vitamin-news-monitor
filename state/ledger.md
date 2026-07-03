@@ -6,6 +6,7 @@
 ## Опубликовано
 
 ### 2026-07-03
+- ФАС предупредила Apple из-за удаления приложений VK из App Store — грозит штраф 4 млрд рублей [17:00 МСК, обычный прогон] — https://hi-tech.mail.ru/news/150691-kak-apple-otreagiruet-na-preduprezhdenie-fas-iz-za-udaleniya-prilozhenij-vk-mnenie-eksperta/
 - Объём рекламы ЧМ-2026 на ТВ сократился на 14% [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/obem-reklamy-chm-2026-na-tv-sokratilsya-na-14-85020.html
 - Яндекс Поиск вывел Алису AI на улицы Москвы [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/prikosnites-k-novomu-yandeks-poisk-vyvodit-alisu-ai-na-ulitsy-moskvy-85018.html
 - Маркетинг для зумеров: узнаваемость больше не ведёт напрямую к покупке [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/marketing-dlya-zumerov-uznavaemost-bolshe-ne-vedet-napryamuyu-k-pokupke-85021.html
