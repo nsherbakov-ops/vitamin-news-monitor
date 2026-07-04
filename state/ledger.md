@@ -10,6 +10,9 @@
 - Google окончательно проиграла в ЕС апелляцию по делу о штрафе €4,1 млрд за Android [10:00 МСК, обязательный дайджест] — https://vc.ru/services/3007719-google-proigrala-apelyatsiyu-po-delu-o-shtrafe-v-es-za-android
 - Nestlé Milo спрятал истории отцов в штрихкод продуктов [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/design/2026/07/3/346894.phtml
 - Как негатив закрепляется в медиаполе и перестаёт быть одиночной новостью [10:00 МСК, обязательный дайджест] — https://www.sostav.ru/publication/kak-negativ-zakreplyaetsya-v-mediapole-85010.html
+- Avito запустил ИИ-сервис «ХвостРадар» для поиска пропавших питомцев [15:02 МСК, обязательный дайджест, 🟡] — https://likeni.ru/events/avito-vnedril-ii-dlya-poiska-propavshikh-domashnikh-zhivotnykh/
+- Bank of America сделал коллекционные браслеты главным сувениром ЧМ-2026 [15:02 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/besplatnye-braslety-bank-of-america-stali-glavnym-suvenirom-chm-2026-85026.html
+- Ford выпустил кампанию FordBNB: внедорожники сдают на Airbnb как дома для путешествий [15:02 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/creative/2026/07/3/346883.phtml
 
 ### 2026-07-03
 - ФАС предупредила Apple из-за удаления приложений VK из App Store — грозит штраф 4 млрд рублей [17:00 МСК, обычный прогон] — https://hi-tech.mail.ru/news/150691-kak-apple-otreagiruet-na-preduprezhdenie-fas-iz-za-udaleniya-prilozhenij-vk-mnenie-eksperta/
