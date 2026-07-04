@@ -5,6 +5,12 @@
 
 ## Опубликовано
 
+### 2026-07-04
+- В III квартале Яндекс KITβ добавит новые инструменты для товаров, заказов и доставки [10:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/v-tretem-kvartale-yandeks-kit-dobavit-novye-instrumenty-dlya-raboty-s-tovarami-zakazami-i-dostavkoy/
+- Google окончательно проиграла в ЕС апелляцию по делу о штрафе €4,1 млрд за Android [10:00 МСК, обязательный дайджест] — https://vc.ru/services/3007719-google-proigrala-apelyatsiyu-po-delu-o-shtrafe-v-es-za-android
+- Nestlé Milo спрятал истории отцов в штрихкод продуктов [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/design/2026/07/3/346894.phtml
+- Как негатив закрепляется в медиаполе и перестаёт быть одиночной новостью [10:00 МСК, обязательный дайджест] — https://www.sostav.ru/publication/kak-negativ-zakreplyaetsya-v-mediapole-85010.html
+
 ### 2026-07-03
 - ФАС предупредила Apple из-за удаления приложений VK из App Store — грозит штраф 4 млрд рублей [17:00 МСК, обычный прогон] — https://hi-tech.mail.ru/news/150691-kak-apple-otreagiruet-na-preduprezhdenie-fas-iz-za-udaleniya-prilozhenij-vk-mnenie-eksperta/
 - Объём рекламы ЧМ-2026 на ТВ сократился на 14% [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/obem-reklamy-chm-2026-na-tv-sokratilsya-na-14-85020.html
