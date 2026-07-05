@@ -9,6 +9,10 @@
 - Минцифры станет главным регулятором ИИ в России [10:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/mincifry-glavnyj-regulyator-ii
 - Кадровые перестановки: Яндекс, Meta и SkyAlliance [10:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/hr/2026/07/3/346890.phtml
 - «Честный знак» стал стратегическим партнёром ЦСКА [10:00 МСК, обязательный дайджест, 🟡] — https://sostav.ru/publication/chestnyj-znak-stal-strategicheskim-partnerom-tsska-85028.html
+- MAX начал тестировать комментарии в публичных каналах [15:00 МСК, обязательный дайджест, 🟡] — https://vk.company/ru/press/releases/12344/
+- Яндекс.Метрика добавила детальные отчёты по офлайн-данным [15:00 МСК, обязательный дайджест, 🟡] — https://yandex.ru/adv/news/detalnye-otchety-po-oflayn-dannym-v-metrike
+- Матвей Сафонов стал лицом бренда Red Finch 0.0 [15:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/sport/2026/07/3/346878.phtml
+- Завершился курс «Яндекс Реклама со звёздочкой 5.0» [15:00 МСК, обязательный дайджест, 🟡] — https://yandex.ru/adv/news/fabrika-zvezd-itogi-kursa-yandex-reklama-so-zvezdochkoj-5-0
 
 ### 2026-07-04
 - В III квартале Яндекс KITβ добавит новые инструменты для товаров, заказов и доставки [10:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/v-tretem-kvartale-yandeks-kit-dobavit-novye-instrumenty-dlya-raboty-s-tovarami-zakazami-i-dostavkoy/
