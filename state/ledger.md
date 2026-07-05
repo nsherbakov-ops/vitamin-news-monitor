@@ -5,6 +5,11 @@
 
 ## Опубликовано
 
+### 2026-07-05
+- Минцифры станет главным регулятором ИИ в России [10:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/mincifry-glavnyj-regulyator-ii
+- Кадровые перестановки: Яндекс, Meta и SkyAlliance [10:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/hr/2026/07/3/346890.phtml
+- «Честный знак» стал стратегическим партнёром ЦСКА [10:00 МСК, обязательный дайджест, 🟡] — https://sostav.ru/publication/chestnyj-znak-stal-strategicheskim-partnerom-tsska-85028.html
+
 ### 2026-07-04
 - В III квартале Яндекс KITβ добавит новые инструменты для товаров, заказов и доставки [10:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/v-tretem-kvartale-yandeks-kit-dobavit-novye-instrumenty-dlya-raboty-s-tovarami-zakazami-i-dostavkoy/
 - Google окончательно проиграла в ЕС апелляцию по делу о штрафе €4,1 млрд за Android [10:00 МСК, обязательный дайджест] — https://vc.ru/services/3007719-google-proigrala-apelyatsiyu-po-delu-o-shtrafe-v-es-za-android
@@ -142,13 +147,4 @@
 - МВД поддержало признание использования ИИ отягчающим обстоятельством при преступлениях [15:00 МСК, обязательный дайджест] — https://kod.ru/mvd-ai-otyagchayushe
 - IKEA превратила товары для дома в национальные флаги в честь ЧМ-2026 [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/ikea-prevratila-tovary-dlya-doma-v-natsionalnye-flagi-v-chest-chm-2026-84854.html
 
-### 2026-06-27
-- XII «Технологический Индекс» 2026: рейтинг лучших платформ автоматизации рекламных кампаний [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/06/26/346281.phtml
-- Почти 10% вакансий в рекламе требуют ИИ-навыков — в 5 раз выше среднего по рынку (HeadHunter) [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/26/346283.phtml
-- Новое агентство Reacta для инфлюенс-маркетинга и назначения в Кион, МТС Live [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/hr/2026/06/26/346269.phtml
-- Уведомления VK и Mail на iPhone: почему пропали и как вернуть [15:00 МСК, обязательный дайджест] — https://hi-tech.mail.ru/news/150243-uvedomleniya-vk-mail-iphone-app-store/
-- США частично сняли запрет на использование ИИ-модели Anthropic [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/ssha-chastichno-snyali-zapret-na-ispolzovanie-ii-modeli-anthropic-84851.html
-- Suno даст начинающим артистам деньги на маркетинг и продвижение [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/marketing/2026/06/26/346273.phtml
-- Авито Реклама запустила ретаргетинг по кликам на баннер [17:00 МСК, обычный прогон] — https://www.seonews.ru/events/avito-reklama-zapustila-retargeting-po-klikam-na-banner/
-- Silver Mercury 2026 изменил расстановку сил в Национальном рейтинге рекламных агентств [17:00 МСК, обычный прогон] — https://ratings.sostav.ru/news/silver-mercury
 
