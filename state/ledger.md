@@ -17,6 +17,12 @@
 - LBL взыскала с «Медиа Партнера» более 30 млн рублей [13:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/lbl-vzyskala-s-media-partnera-bolee-30-mln-rublej-85051.html
 - Кейс «Рокетбанка», «Артикс» и First Data: как лайфстайл-таргетинг снизил CPA на 58% [14:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kejs-roketbanka-artiks-i-first-data-kak-lajfstajl-targeting-snizil-cpa-na-58-85012.html
 - Почти 70% россиян стали чаще использовать ИИ-сервисы для поиска товаров [14:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/07/6/346918.phtml
+- «Купер» окрасил природу в фирменный зелёный цвет к своему дню рождения (креативная кампания) [15:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/creative/2026/07/6/346916.phtml
+- Директор по маркетингу Petshop Серж Иванов уходит из компании [15:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/hr/2026/07/6/346920.phtml
+- Евгения Рыкалова назначена директором по бренду «Союзмультфильма» [15:00 МСК, обязательный дайджест, 🟡] — https://sostav.ru/publication/evgeniya-rykalova-naznachena-direktorom-po-brendu-soyuzmultfilma-85053.html
+- «Янтарь» проиграл спор за товарный знак [15:00 МСК, обязательный дайджест, 🟡] — https://sostav.ru/publication/yantar-proigral-spor-za-tovarnyj-znak-85047.html
+- Telegram ограничил расширенное форматирование сообщений для пользователей без Premium [15:00 МСК, обязательный дайджест, 🟡] — https://www.seonews.ru/events/telegram-ogranichil-rasshirennoe-formatirovanie-soobshcheniy-dlya-polzovateley-bez-premium/
+- Россиян могут обязать подтверждать значимые действия в интернете через MAX или SMS [15:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/sms-max-kody-podverzgdenia
 
 ### 2026-07-05
 - Минцифры станет главным регулятором ИИ в России [10:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/mincifry-glavnyj-regulyator-ii
