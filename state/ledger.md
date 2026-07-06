@@ -5,6 +5,13 @@
 
 ## Опубликовано
 
+### 2026-07-06
+- Telegram оштрафовали в России более чем на 100 млн рублей с начала года [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/telegram-oshtrafovali-v-rossii-bolee-chem-na-100-mln-rublej-za-polgoda-85041.html
+- «Магнит ADS» и Solta объединились для рекламы в приложении ретейлера [10:00 МСК, обязательный дайджест, 🔥] — https://adindex.ru/news/marketing/2026/07/6/346904.phtml
+- Wildberries начал помечать ИИ-контент в отзывах [10:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/wildberries-ai-labels-reviews-photos
+- Треть брендов одежды столкнулись с убытками по итогам 2025 года [10:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/tendencies/2026/07/6/346897.phtml
+- Google заставил отцов-основателей США сняться в рекламе с ИИ [10:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/marketing/2026/07/6/346899.phtml
+
 ### 2026-07-05
 - Минцифры станет главным регулятором ИИ в России [10:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/mincifry-glavnyj-regulyator-ii
 - Кадровые перестановки: Яндекс, Meta и SkyAlliance [10:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/hr/2026/07/3/346890.phtml
@@ -142,13 +149,4 @@
 - Суд оштрафовал Pinterest, Telegram и Twitch на 3,5 млн рублей каждый [18:01 МСК, обычный прогон] — https://sostav.ru/publication/sud-oshtrafoval-pinterest-telegram-i-twitch-na-3-5-mln-rublej-kazhdyj-84899.html
 - Что такое «плохо»: шесть поводов для тревоги на рекламном рынке [18:01 МСК, обычный прогон] — https://sostav.ru/publication/chto-takoe-plokho-sem-povodov-dlya-trevogi-na-reklamnom-rynke-84886.html
 - Кейс «Дикси»: сегменты на телеком-данных T2 повысили предпочтение бренда на 50% [18:01 МСК, обычный прогон] — https://sostav.ru/publication/kejs-diksi-84810.html
-
-### 2026-06-28
-- В бета-версии Telegram появились сообщества — объединения нескольких групп наподобие Discord [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-communities-beta
-- Markdown-редактор Telegram добрался до бета-версии для Android [10:02 МСК, обязательный дайджест] — https://kod.ru/telegram-markdown-editor-beta-android
-- SEOnews: итоги рейтинга «SEO глазами клиентов 2026» [10:02 МСК, обязательный дайджест] — https://www.seonews.ru/events/seonews-podvel-itogi-masshtabnogo-reytinga-seo-glazami-klientov-2026/
-- ВГТРК отчитался об убытках и увеличении времени просмотра контента [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/06/25/346222.phtml
-- МВД поддержало признание использования ИИ отягчающим обстоятельством при преступлениях [15:00 МСК, обязательный дайджест] — https://kod.ru/mvd-ai-otyagchayushe
-- IKEA превратила товары для дома в национальные флаги в честь ЧМ-2026 [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/ikea-prevratila-tovary-dlya-doma-v-natsionalnye-flagi-v-chest-chm-2026-84854.html
-
 
