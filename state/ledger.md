@@ -11,6 +11,8 @@
 - Wildberries начал помечать ИИ-контент в отзывах [10:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/wildberries-ai-labels-reviews-photos
 - Треть брендов одежды столкнулись с убытками по итогам 2025 года [10:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/tendencies/2026/07/6/346897.phtml
 - Google заставил отцов-основателей США сняться в рекламе с ИИ [10:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/marketing/2026/07/6/346899.phtml
+- Рейтинг «Технологический Индекс»: ОРД (Яндекс.ОРД, VK ОРД, Медиаскаут, Ozon ОРД, Первый ОРД) [11:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/6/346908.phtml
+- SEOnews подвёл итоги рейтинга «SEO глазами клиентов 2026» [11:02 МСК, обычный прогон, 🟡] — https://www.seonews.ru/events/seonews-podvel-itogi-masshtabnogo-reytinga-seo-glazami-klientov-2026/
 
 ### 2026-07-05
 - Минцифры станет главным регулятором ИИ в России [10:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/mincifry-glavnyj-regulyator-ii
@@ -126,27 +128,3 @@
 - Workspace опубликовал Рейтинг SEO-компаний и 14 топов по диджитал-услугам [18:02 МСК, обычный прогон] — https://www.seonews.ru/events/workspace-opublikoval-reyting-seo-kompaniy-i-eshche-14-topov-po-drugim-didzhital-uslugam/
 - Механика азарта: почему блогеры перестали реагировать на классические офферы [19:01 МСК, обычный прогон] — https://sostav.ru/publication/mekhanika-azarta-pochemy-blogery-perestali-reagirovat-na-klassicheskie-offery-84900.html
 - Зумеры чаще подписываются на бренды, если нравится основатель компании [19:01 МСК, обычный прогон] — https://sostav.ru/publication/zumery-chashche-podpisyvayutsya-na-brendy-esli-im-nravitsya-osnovatel-kompanii-84936.html
-
-### 2026-06-29
-- Суд рассмотрит иск о продаже рекламной группы АДВ [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/right/2026/06/29/346292.phtml
-- Instagram улучшит подбор контента для пользователей [10:01 МСК, обязательный дайджест] — https://adindex.ru/news/media/2026/06/29/346294.phtml
-- Nissan направляет до 60% маркетингового бюджета на digital, ИИ и инфлюенсеров [10:01 МСК, обязательный дайджест] — https://sostav.ru/publication/nissan-napravlyaet-do-60-marketingovogo-byudzheta-na-digital-ii-i-inflyuenserov-84866.html
-- В Калифорнии запретили громкую рекламу в стриминговых сервисах [10:01 МСК, обязательный дайджест] — https://sostav.ru/publication/v-kalifornii-zapretili-gromkuyu-reklamu-v-strimingovykh-servisakh-84865.html
-- Рейтинг «Технологический Индекс». Комплексные ИТ-платформы [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/29/346302.phtml
-- WPP лидирует на Cannes Lions 2026 [11:00 МСК, обычный прогон] — https://sostav.ru/publication/wpp-lidiruet-na-cannes-lions-2026-84869.html
-- OpenAI представила серию моделей GPT-5.6: Sol, Terra и Luna [11:00 МСК, обычный прогон] — https://ppc.world/news/openai-predstavila-gpt-56-sol-terra-i-luna/
-- Яндекс представил платформу для создания ИИ-агентов на базе «Алисы AI» [13:01 МСК, обычный прогон] — https://sostav.ru/publication/yandeks-predstavil-platformu-dlya-sozdaniya-ii-agentov-na-baze-alisy-ai-84884.html
-- Google завершил June 2026 Spam Update [13:01 МСК, обычный прогон] — https://www.seonews.ru/events/google-vykatil-i-zavershil-june-2026-spam-update/
-- Почти половина россиян совершали покупки по рекомендациям ИИ [13:01 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/06/29/346321.phtml
-- Яндекс запустил реферальную программу KITβ для агентств и веб-студий [15:00 МСК, обязательный дайджест] — https://yandex.ru/adv/news/referralnaya-programma-yandex-kit-nachnite-zarabatyvat
-- 98% маркетологов запускают рекламные кампании с задержкой [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/98-marketologov-zapuskayut-reklamnye-kampanii-s-zaderzhkoj-84883.html
-- Алексей Иванов уходит с поста гендиректора «Кион» (МТС) [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/aleksej-ivanov-ukhodit-s-posta-gendirektora-kontentnogo-klastera-kion-84877.html
-- Последний день Cannes Lions 2026: ролики года, титановые идеи и реклама, которая меняет мир [16:02 МСК, обычный прогон] — https://sostav.ru/publication/poslednij-den-kannskikh-lvov-2026-roliki-goda-titanovye-idei-i-reklama-kotoraya-menyaet-mir-84882.html
-- Подборка профессиональных событий на июль [16:02 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/29/346349.phtml
-- BBFC применил нейросеть для классификации всего каталога HBO Max [16:02 МСК, обычный прогон] — https://adindex.ru/news/media/2026/06/29/346299.phtml
-- Rabbit Group запустила Bloggers Booking — платформу для агентств и менеджеров блогеров [17:01 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/29/346372.phtml
-- Яндекс Директ добавил ИИ-управление рекламой в мессенджерах [17:01 МСК, обычный прогон] — https://adindex.ru/news/marketing/2026/06/29/346372.phtml
-- Суд оштрафовал Pinterest, Telegram и Twitch на 3,5 млн рублей каждый [18:01 МСК, обычный прогон] — https://sostav.ru/publication/sud-oshtrafoval-pinterest-telegram-i-twitch-na-3-5-mln-rublej-kazhdyj-84899.html
-- Что такое «плохо»: шесть поводов для тревоги на рекламном рынке [18:01 МСК, обычный прогон] — https://sostav.ru/publication/chto-takoe-plokho-sem-povodov-dlya-trevogi-na-reklamnom-rynke-84886.html
-- Кейс «Дикси»: сегменты на телеком-данных T2 повысили предпочтение бренда на 50% [18:01 МСК, обычный прогон] — https://sostav.ru/publication/kejs-diksi-84810.html
-
