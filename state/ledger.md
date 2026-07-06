@@ -23,6 +23,7 @@
 - «Янтарь» проиграл спор за товарный знак [15:00 МСК, обязательный дайджест, 🟡] — https://sostav.ru/publication/yantar-proigral-spor-za-tovarnyj-znak-85047.html
 - Telegram ограничил расширенное форматирование сообщений для пользователей без Premium [15:00 МСК, обязательный дайджест, 🟡] — https://www.seonews.ru/events/telegram-ogranichil-rasshirennoe-formatirovanie-soobshcheniy-dlya-polzovateley-bez-premium/
 - Россиян могут обязать подтверждать значимые действия в интернете через MAX или SMS [15:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/sms-max-kody-podverzgdenia
+- «VK Реклама» запустила ассистента в Max, Buzzoola — новый нативный формат [18:00 МСК, обычный прогон, 🔥] — https://adindex.ru/news/marketing/2026/07/6/346934.phtml
 
 ### 2026-07-05
 - Минцифры станет главным регулятором ИИ в России [10:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/mincifry-glavnyj-regulyator-ii
