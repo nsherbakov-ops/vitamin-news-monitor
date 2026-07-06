@@ -13,6 +13,8 @@
 - Google заставил отцов-основателей США сняться в рекламе с ИИ [10:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/marketing/2026/07/6/346899.phtml
 - Рейтинг «Технологический Индекс»: ОРД (Яндекс.ОРД, VK ОРД, Медиаскаут, Ozon ОРД, Первый ОРД) [11:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/6/346908.phtml
 - SEOnews подвёл итоги рейтинга «SEO глазами клиентов 2026» [11:02 МСК, обычный прогон, 🟡] — https://www.seonews.ru/events/seonews-podvel-itogi-masshtabnogo-reytinga-seo-glazami-klientov-2026/
+- Rutube увеличил доступный объём баннерного инвентаря до 3 млрд показов [13:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/rutube-uvelichil-dostupnyj-obem-bannernogo-inventarya-do-3-mlrd-pokazov-85049.html
+- LBL взыскала с «Медиа Партнера» более 30 млн рублей [13:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/lbl-vzyskala-s-media-partnera-bolee-30-mln-rublej-85051.html
 
 ### 2026-07-05
 - Минцифры станет главным регулятором ИИ в России [10:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/mincifry-glavnyj-regulyator-ii
