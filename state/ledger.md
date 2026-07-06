@@ -15,6 +15,8 @@
 - SEOnews подвёл итоги рейтинга «SEO глазами клиентов 2026» [11:02 МСК, обычный прогон, 🟡] — https://www.seonews.ru/events/seonews-podvel-itogi-masshtabnogo-reytinga-seo-glazami-klientov-2026/
 - Rutube увеличил доступный объём баннерного инвентаря до 3 млрд показов [13:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/rutube-uvelichil-dostupnyj-obem-bannernogo-inventarya-do-3-mlrd-pokazov-85049.html
 - LBL взыскала с «Медиа Партнера» более 30 млн рублей [13:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/lbl-vzyskala-s-media-partnera-bolee-30-mln-rublej-85051.html
+- Кейс «Рокетбанка», «Артикс» и First Data: как лайфстайл-таргетинг снизил CPA на 58% [14:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kejs-roketbanka-artiks-i-first-data-kak-lajfstajl-targeting-snizil-cpa-na-58-85012.html
+- Почти 70% россиян стали чаще использовать ИИ-сервисы для поиска товаров [14:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/07/6/346918.phtml
 
 ### 2026-07-05
 - Минцифры станет главным регулятором ИИ в России [10:00 МСК, обязательный дайджест, 🟡] — https://kod.ru/mincifry-glavnyj-regulyator-ii
