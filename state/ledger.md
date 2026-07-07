@@ -12,6 +12,8 @@
 - 78% россиян теряют доверие к бренду, который сокращает вес товара [10:00 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/78-rossiyan-teryayut-doverie-k-brendu-kotoryj-sokrashchaet-ves-tovara-85065.html
 - Маркетплейсы просят добавить слово «селлер» в словари [10:00 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/marketplejsy-prosyat-dobavit-slovo-seller-v-slovari-85074.html
 - В России вступили в силу штрафы за авторизацию через иностранные сервисы [10:00 МСК, обязательный дайджест, 🟡] — https://hi-tech.mail.ru/news/150818-v-rossii-vstupili-v-silu-shtrafy-za-avtorizaciyu-cherez-inostrannye-servisy/
+- «Технологический Индекс»: рейтинг DSP-платформ (лидеры Hybrid, Soloway, МТС DSP; по качеству — Programmatica.com, AdSpend) [11:01 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/7/346956.phtml
+- Fistashki и «Сангфей» начали стратегическое сотрудничество (продвижение бренда Xenium) [11:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/fistashki-i-sangfej-obyavili-o-nachale-strategicheskogo-sotrudnichestva-85062.html
 
 ### 2026-07-06
 - Telegram оштрафовали в России более чем на 100 млн рублей с начала года [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/telegram-oshtrafovali-v-rossii-bolee-chem-na-100-mln-rublej-za-polgoda-85041.html
@@ -119,31 +121,3 @@
 - Wildberries купил контрольный пакет «Еаптеки» [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/wildberries-kupil-kontrolnyj-paket-eapteki-84943.html
 - «М.Видео» и «Эльдорадо» объединятся в рамках маркетплейса [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/07/1/346737.phtml
 
-### 2026-06-30
-- Яндекс обновил нейросетевую модель прогнозирования конверсий в Директе [11:00 МСК, обычный прогон] — https://sostav.ru/publication/yandeks-vnedril-v-svoyu-reklamnuyu-sistemu-novuyu-model-prognozirovaniya-konversij-84913.html
-- WhatsApp запустил юзернеймы — бронирование уже открыто [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/30/346472.phtml
-- Vitamin.tools — 3-е место в рейтинге агрегаторов рекламных сервисов «Технологический Индекс» [12:02 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/06/30/346478.phtml
-- Перспективные категории Telegram-каналов для размещения рекламы в 2026 [12:02 МСК, обычный прогон] — https://sostav.ru/publication/perspektivnye-kategorii-telegram-kanalov-84898.html
-- Вертикальные микродрамы впервые выйдут на российском ТВ [12:02 МСК, обычный прогон] — https://adindex.ru/news/media/2026/06/30/346502.phtml
-- Яндекс Директ: товарные объявления для приложений теперь доступны для ретаргетинга [10:00 МСК, обязательный дайджест] — https://yandex.ru/adv/news/tovarnye-obyavleniya-dlya-prilozheniy-dostupny-dlya-retargetinga
-- Минздрав предложил запретить рекламу фастфуда и сладкого с 7:00 до 22:00 [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/minzdrav-predlozhil-uzhestochit-regulirovanie-reklamy-i-markirovki-vrednoj-edy-84911.html
-- Ретейл переходит на вертикальное видео: бюджеты на продвижение выросли на 40–70% [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/researches/2026/06/30/346479.phtml
-- Франция запретит рекламу Shein и Temu через блогеров и в диджитал-каналах [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/frantsiya-zapretit-reklamu-shein-84905.html
-- Wildberries вводит 45-дневный срок уведомления продавцов об изменении комиссий и тарифов [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/wildberries-uvelichila-srok-uvedomleniya-prodavtsov-84908.html
-- VK Реклама запустила чат-бот ассистента рекламодателя в MAX [13:00 МСК, обычный прогон] — https://www.seonews.ru/events/vk-reklama-zapustila-chat-bot-assistenta-reklamodatelya-v-max/
-- Havas: 84% брендов остаются невидимыми для потребителей [13:00 МСК, обычный прогон] — https://sostav.ru/publication/havas-84-brendov-ostayutsya-nevidimymi-dlya-potrebitelej-84912.html
-- IBM назначила Omnicom Media глобальным медиапартнёром [13:00 МСК, обычный прогон] — https://sostav.ru/publication/ibm-vybrala-omnicom-media-globalnym-mediapartnerom-84919.html
-- Маркетплейсы и селлеры стали в разы чаще судиться: претензии выросли с 800 млн до 5,8 млрд руб. [13:00 МСК, обычный прогон] — https://adindex.ru/news/tendencies/2026/06/30/346470.phtml
-- Яндекс Директ: ТГО переходят в комбинаторный формат — автообновление с 14 июля [15:01 МСК, обязательный дайджест] — https://yandex.ru/adv/news/obnovlenie-tekstovo-graficheskih-obyavleniy-do-kombinatornyh-protsess-i-osobennosti
-- Wildberries запустил биржу карточек товаров для продавцов [15:01 МСК, обязательный дайджест] — https://sostav.ru/publication/wildberries-zapustil-birzhu-kartochek-tovarov-dlya-prodavtsov-84922.html
-- ВКонтакте внедрила ИИ-модели рекомендаций товаров: клики ×5, переходы на маркетплейсы ×15, заказы ×20 [15:01 МСК, обязательный дайджест] — https://likeni.ru/events/vkontakte-vnedrila-novye-ii-modeli-dlya-rekomendatsiy-tovarov/
-- Кирилл Тренин возглавит кластер Kion вместо Алексея Иванова [15:01 МСК, обязательный дайджест] — https://adindex.ru/news/hr/2026/06/30/346498.phtml
-- Исследование Sape: как ChatGPT, Алиса и Gemini ранжируют бизнес в ИИ-поиске [17:01 МСК, обычный прогон] — https://www.seonews.ru/events/kak-chatgpt-alisa-i-gemini-ranzhiruyut-servisy-bronirovaniya-oteley-i-chto-s-etim-delat-issledovanie-sape/
-- РОЦИТ: рынок российских соцплатформ достиг зрелости — ВК и ОК лидеры, Rutube/TenChat/Дзен — ниши [17:01 МСК, обычный прогон] — https://sostav.ru/publication/rotsit-rossijskij-rynok-sotsplatform-pereshel-ot-importozameshcheniya-k-sobstvennoj-ekosisteme-84929.html
-- Аутентичность против глянца: «несовершенный» креатив продаёт лучше в 2026 [17:01 МСК, обычный прогон] — https://sostav.ru/publication/autentichnost-protiv-glyantsa-pochemu-nesovershennyj-84881.html
-- Бренду не нужно быть везде: как компании раздувают маркетинговые бюджеты [17:01 МСК, обычный прогон] — https://sostav.ru/publication/brendu-ne-nuzhno-byt-vezde-kak-kompanii-sami-razduvayut-marketingovye-byudzhety-84924.html
-- Петр Середкин (экс-VK) перешёл в «Яндекс Плюс AdTech», спецпроекты Кинопоиска [17:01 МСК, обычный прогон] — https://adindex.ru/news/hr/2026/06/30/346625.phtml
-- Апелляционный суд подтвердил законность сделки по продаже рекламной группы АДВ [18:02 МСК, обычный прогон] — https://adindex.ru/news/right/2026/06/30/346627.phtml
-- Workspace опубликовал Рейтинг SEO-компаний и 14 топов по диджитал-услугам [18:02 МСК, обычный прогон] — https://www.seonews.ru/events/workspace-opublikoval-reyting-seo-kompaniy-i-eshche-14-topov-po-drugim-didzhital-uslugam/
-- Механика азарта: почему блогеры перестали реагировать на классические офферы [19:01 МСК, обычный прогон] — https://sostav.ru/publication/mekhanika-azarta-pochemy-blogery-perestali-reagirovat-na-klassicheskie-offery-84900.html
-- Зумеры чаще подписываются на бренды, если нравится основатель компании [19:01 МСК, обычный прогон] — https://sostav.ru/publication/zumery-chashche-podpisyvayutsya-na-brendy-esli-im-nravitsya-osnovatel-kompanii-84936.html
