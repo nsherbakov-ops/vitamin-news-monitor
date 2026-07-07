@@ -14,6 +14,10 @@
 - В России вступили в силу штрафы за авторизацию через иностранные сервисы [10:00 МСК, обязательный дайджест, 🟡] — https://hi-tech.mail.ru/news/150818-v-rossii-vstupili-v-silu-shtrafy-za-avtorizaciyu-cherez-inostrannye-servisy/
 - «Технологический Индекс»: рейтинг DSP-платформ (лидеры Hybrid, Soloway, МТС DSP; по качеству — Programmatica.com, AdSpend) [11:01 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/7/346956.phtml
 - Fistashki и «Сангфей» начали стратегическое сотрудничество (продвижение бренда Xenium) [11:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/fistashki-i-sangfej-obyavili-o-nachale-strategicheskogo-sotrudnichestva-85062.html
+- Авторасстановка рекламыβ доступна всем партнёрам РСЯ [12:00 МСК, обычный прогон, 🔥] — https://yandex.ru/adv/news/avtorasstanovka-reklamy-open-beta
+- Исследование Visible: интерес к CTV растёт быстрее экспертизы рынка [12:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/issledovanie-visible-84977.html
+- Антон Белов назначен коммерческим директором Bidease [12:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/anton-belov-naznachen-na-dolzhnost-kommercheskogo-direktora-bidiz-85022.html
+- TikTok сократит модераторов контента [12:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/tiktok-sokratit-moderatorov-kontenta-85075.html
 
 ### 2026-07-06
 - Telegram оштрафовали в России более чем на 100 млн рублей с начала года [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/telegram-oshtrafovali-v-rossii-bolee-chem-na-100-mln-rublej-za-polgoda-85041.html
