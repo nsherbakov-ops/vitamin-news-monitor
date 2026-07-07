@@ -21,6 +21,10 @@
 - Rutube увеличил рекламную выручку в 3,5 раза за полгода [13:00 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/rutube-uvelichil-reklamnuyu-vyruchku-v-3-5-raza-za-polgoda-85085.html
 - Автодилер «МБ Рус» ищет медиаподрядчика для Foton — тендер на 300 млн ₽ [13:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/ek/2026/07/7/346962.phtml
 - В России резко увеличилось количество онлайн-магазинов [13:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/v-rossii-rezko-uvelichilos-kolichestvo-onlajn-magazinov-85080.html
+- Поиск с «Алисой» — самый востребованный ИИ-сервис при выборе товаров в сети [15:00 МСК, обязательный дайджест, 🔥] — https://www.seonews.ru/events/poisk-s-alisoy-samyy-vostrebovannyy-ii-servis-pri-vybore-tovarov-v-seti-issledovanie-ashmanov-i-partnery/
+- 87% респондентов посчитали минималистичную рекламу самой интересной [15:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/researches/2026/07/6/346937.phtml
+- Sky и ITV объединятся и создадут лидера рынка ТВ-рекламы Великобритании [15:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/media/2026/07/7/346954.phtml
+- Во «ВКонтакте» появился инструмент онлайн-записи к частным мастерам [15:00 МСК, обязательный дайджест, 🟡] — https://ppc.world/news/vo-vkontakte-poyavilsya-instrument-onlayn-zapisi-k-chastnym-masteram/
 
 ### 2026-07-06
 - Telegram оштрафовали в России более чем на 100 млн рублей с начала года [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/telegram-oshtrafovali-v-rossii-bolee-chem-na-100-mln-rublej-za-polgoda-85041.html
