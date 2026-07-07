@@ -29,6 +29,10 @@
 - Яндекс обновил конструктор лендингов в Директе — 11 новых функций [16:02 МСК, обычный прогон, 🔥] — https://ppc.world/news/yandeks-obnovil-sozdanie-lendingov-v-direkte-poyavilos-11-novyh-vozmozhnostey-dlya-biznesa/
 - Дмитрий Бенькович присоединился к команде Platforma [16:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/dmitrij-benkovich-prisoedinilsya-k-komande-platforma-85083.html
 - WPP Media запустила игровое рекламное подразделение [16:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/wpp-media-rasschityvaet-uvelichit-interes-brendov-k-gejmingu-85092.html
+- Рекламный рынок — 2026: почему официальные цифры больше не отражают реальность [18:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/reklamnyj-rynok-2026-pochemu-ofitsialnye-tsifry-bolshe-ne-otrazhayut-realnost-85081.html
+- HeadHunter консолидирует рекламные продукты под брендом «hh реклама» [18:03 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/7/346980.phtml
+- Rutube запустил новые рекламные форматы с брендингом главной страницы и игровыми механиками [18:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/rutube-zapustil-novye-reklamnye-formaty-s-brendingom-glavnoj-stranitsy-i-igrovymi-mekhanikami-85096.html
+- Кейс Segmento, ГК ФСК и Proximity Media: как интерактивные баннеры снизили ДРР в 3 раза [18:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kejs-segmento-gk-fsk-i-proximity-media-kak-interaktivnye-bannery-snizili-drr-v-3-raza-85093.html
 
 ### 2026-07-06
 - Telegram оштрафовали в России более чем на 100 млн рублей с начала года [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/telegram-oshtrafovali-v-rossii-bolee-chem-na-100-mln-rublej-za-polgoda-85041.html
