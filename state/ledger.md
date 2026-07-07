@@ -5,6 +5,14 @@
 
 ## Опубликовано
 
+### 2026-07-07
+- Половина агентств получает заказы на создание рекламы с помощью ИИ [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/polovina-agentstv-poluchaet-zakazy-na-sozdanie-reklamy-s-pomoshchyu-ii-85071.html
+- Минцифры хочет запретить рекламные SMS-рассылки для несовершеннолетних [10:00 МСК, обязательный дайджест, 🔥] — https://adindex.ru/news/right/2026/07/7/346944.phtml
+- Яндекс Директ: лендинги с персонализацией на нейротехнологиях вышли из беты [10:00 МСК, обязательный дайджест, 🔥] — https://yandex.ru/adv/news/lendingi-v-direct-vyhod-iz-bety
+- 78% россиян теряют доверие к бренду, который сокращает вес товара [10:00 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/78-rossiyan-teryayut-doverie-k-brendu-kotoryj-sokrashchaet-ves-tovara-85065.html
+- Маркетплейсы просят добавить слово «селлер» в словари [10:00 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/marketplejsy-prosyat-dobavit-slovo-seller-v-slovari-85074.html
+- В России вступили в силу штрафы за авторизацию через иностранные сервисы [10:00 МСК, обязательный дайджест, 🟡] — https://hi-tech.mail.ru/news/150818-v-rossii-vstupili-v-silu-shtrafy-za-avtorizaciyu-cherez-inostrannye-servisy/
+
 ### 2026-07-06
 - Telegram оштрафовали в России более чем на 100 млн рублей с начала года [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/telegram-oshtrafovali-v-rossii-bolee-chem-na-100-mln-rublej-za-polgoda-85041.html
 - «Магнит ADS» и Solta объединились для рекламы в приложении ретейлера [10:00 МСК, обязательный дайджест, 🔥] — https://adindex.ru/news/marketing/2026/07/6/346904.phtml
