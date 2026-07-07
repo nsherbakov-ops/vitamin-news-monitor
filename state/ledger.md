@@ -25,6 +25,10 @@
 - 87% респондентов посчитали минималистичную рекламу самой интересной [15:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/researches/2026/07/6/346937.phtml
 - Sky и ITV объединятся и создадут лидера рынка ТВ-рекламы Великобритании [15:00 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/media/2026/07/7/346954.phtml
 - Во «ВКонтакте» появился инструмент онлайн-записи к частным мастерам [15:00 МСК, обязательный дайджест, 🟡] — https://ppc.world/news/vo-vkontakte-poyavilsya-instrument-onlayn-zapisi-k-chastnym-masteram/
+- «Спортмастер» и i.com протестировали рекламу в MAX [16:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/zashli-ranshe-rynka-85089.html
+- Яндекс обновил конструктор лендингов в Директе — 11 новых функций [16:02 МСК, обычный прогон, 🔥] — https://ppc.world/news/yandeks-obnovil-sozdanie-lendingov-v-direkte-poyavilos-11-novyh-vozmozhnostey-dlya-biznesa/
+- Дмитрий Бенькович присоединился к команде Platforma [16:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/dmitrij-benkovich-prisoedinilsya-k-komande-platforma-85083.html
+- WPP Media запустила игровое рекламное подразделение [16:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/wpp-media-rasschityvaet-uvelichit-interes-brendov-k-gejmingu-85092.html
 
 ### 2026-07-06
 - Telegram оштрафовали в России более чем на 100 млн рублей с начала года [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/telegram-oshtrafovali-v-rossii-bolee-chem-na-100-mln-rublej-za-polgoda-85041.html
