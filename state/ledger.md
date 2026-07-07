@@ -18,6 +18,9 @@
 - Исследование Visible: интерес к CTV растёт быстрее экспертизы рынка [12:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/issledovanie-visible-84977.html
 - Антон Белов назначен коммерческим директором Bidease [12:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/anton-belov-naznachen-na-dolzhnost-kommercheskogo-direktora-bidiz-85022.html
 - TikTok сократит модераторов контента [12:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/tiktok-sokratit-moderatorov-kontenta-85075.html
+- Rutube увеличил рекламную выручку в 3,5 раза за полгода [13:00 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/rutube-uvelichil-reklamnuyu-vyruchku-v-3-5-raza-za-polgoda-85085.html
+- Автодилер «МБ Рус» ищет медиаподрядчика для Foton — тендер на 300 млн ₽ [13:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/ek/2026/07/7/346962.phtml
+- В России резко увеличилось количество онлайн-магазинов [13:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/v-rossii-rezko-uvelichilos-kolichestvo-onlajn-magazinov-85080.html
 
 ### 2026-07-06
 - Telegram оштрафовали в России более чем на 100 млн рублей с начала года [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/telegram-oshtrafovali-v-rossii-bolee-chem-na-100-mln-rublej-za-polgoda-85041.html
