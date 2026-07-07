@@ -33,6 +33,8 @@
 - HeadHunter консолидирует рекламные продукты под брендом «hh реклама» [18:03 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/7/346980.phtml
 - Rutube запустил новые рекламные форматы с брендингом главной страницы и игровыми механиками [18:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/rutube-zapustil-novye-reklamnye-formaty-s-brendingom-glavnoj-stranitsy-i-igrovymi-mekhanikami-85096.html
 - Кейс Segmento, ГК ФСК и Proximity Media: как интерактивные баннеры снизили ДРР в 3 раза [18:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kejs-segmento-gk-fsk-i-proximity-media-kak-interaktivnye-bannery-snizili-drr-v-3-raza-85093.html
+- Rutube начнёт продавать рекламу у своих блогеров [19:00 МСК, обычный прогон, 🔥] — https://adindex.ru/news/media/2026/07/7/346986.phtml
+- Почему бренды больше не могут покупать рекламу у блогеров по старым правилам [19:00 МСК, обычный прогон, 🟡] — https://sostav.ru/publication/kak-rabotat-s-inflyuenserami-85095.html
 
 ### 2026-07-06
 - Telegram оштрафовали в России более чем на 100 млн рублей с начала года [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/telegram-oshtrafovali-v-rossii-bolee-chem-na-100-mln-rublej-za-polgoda-85041.html
