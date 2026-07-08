@@ -15,6 +15,9 @@
 - «Технологический Индекс»: рейтинг Action Based Networks (лидер — Admitad) [11:01 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/8/346999.phtml
 - «Радио Sostav»: «Возьмут ли DSP/SSP в будущее?» [11:01 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/radio-sostav-vozmut-li-dsp-ssp-v-budushchee-84897.html
 - «Спортмастер» попал в зону риска Ассоциации блогеров и агентств [11:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/sportmaster-popal-v-zonu-riska-assotsiatsii-blogerov-i-agentstv-85109.html
+- Dentsu и Meta запускают «конвейер» для инфлюенсеров [12:00 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/dentsu-i-meta-zapuskayut-konvejer-dlya-inflyuenserov-85112.html
+- Отечественные видеосервисы не смогли обогнать YouTube [12:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/media/2026/07/8/346995.phtml
+- Rostic's запустил кампанию «МиньонБум» [12:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/creative/2026/07/8/347002.phtml
 
 ### 2026-07-07
 - Половина агентств получает заказы на создание рекламы с помощью ИИ [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/polovina-agentstv-poluchaet-zakazy-na-sozdanie-reklamy-s-pomoshchyu-ii-85071.html
