@@ -12,6 +12,9 @@
 - «Яндекс Маркет» откажется от ряда проектов и «ротирует» 15% персонала [10:02 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/tendencies/2026/07/8/346987.phtml
 - YouTube сохраняет позицию среди лидеров на видеорынке России [10:02 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/youtube-sokhranyaet-pozitsiyu-sredi-liderov-na-videorynke-rossii-85107.html
 - Регина Туровец стала совладельцем компаний группы Sky Alliance [10:02 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/regina-turovets-stala-sovladeltsem-kompanij-gruppy-sky-alliance-85108.html
+- «Технологический Индекс»: рейтинг Action Based Networks (лидер — Admitad) [11:01 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/8/346999.phtml
+- «Радио Sostav»: «Возьмут ли DSP/SSP в будущее?» [11:01 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/radio-sostav-vozmut-li-dsp-ssp-v-budushchee-84897.html
+- «Спортмастер» попал в зону риска Ассоциации блогеров и агентств [11:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/sportmaster-popal-v-zonu-riska-assotsiatsii-blogerov-i-agentstv-85109.html
 
 ### 2026-07-07
 - Половина агентств получает заказы на создание рекламы с помощью ИИ [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/polovina-agentstv-poluchaet-zakazy-na-sozdanie-reklamy-s-pomoshchyu-ii-85071.html
