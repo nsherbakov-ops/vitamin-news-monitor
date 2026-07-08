@@ -5,6 +5,14 @@
 
 ## Опубликовано
 
+### 2026-07-08
+- Госдума разрешила рекламу виноделен на билбордах и зданиях [10:02 МСК, обязательный дайджест, 🔥] — https://adindex.ru/news/right/2026/07/8/346988.phtml
+- Блогер @petrovchanka_lera возглавила рейтинг доходов от рекламы в «Максе» [10:02 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/bloger-petrovchanka-lera-vozglavila-rejting-dokhodov-ot-reklamy-v-makse-85106.html
+- Платформа для партнёров MAX стала доступна в формате мини-приложения [10:02 МСК, обязательный дайджест, 🔥] — https://vk.company/ru/press/releases/12349/
+- «Яндекс Маркет» откажется от ряда проектов и «ротирует» 15% персонала [10:02 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/tendencies/2026/07/8/346987.phtml
+- YouTube сохраняет позицию среди лидеров на видеорынке России [10:02 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/youtube-sokhranyaet-pozitsiyu-sredi-liderov-na-videorynke-rossii-85107.html
+- Регина Туровец стала совладельцем компаний группы Sky Alliance [10:02 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/regina-turovets-stala-sovladeltsem-kompanij-gruppy-sky-alliance-85108.html
+
 ### 2026-07-07
 - Половина агентств получает заказы на создание рекламы с помощью ИИ [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/polovina-agentstv-poluchaet-zakazy-na-sozdanie-reklamy-s-pomoshchyu-ii-85071.html
 - Минцифры хочет запретить рекламные SMS-рассылки для несовершеннолетних [10:00 МСК, обязательный дайджест, 🔥] — https://adindex.ru/news/right/2026/07/7/346944.phtml
@@ -121,24 +129,4 @@
 - Пользователи Яндекс KIT (бета) смогут импортировать отзывы и оценки с Яндекс Маркета [10:03 МСК, обязательный дайджест] — https://yandex.ru/adv/news/polzovateli-yandex-kit-beta-mogut-importirovat-otsenki-i-otzyvy-s-yandeks-marketa
 - ФАС потребовала от Apple предустановить российское ПО [10:03 МСК, обязательный дайджест] — https://sostav.ru/publication/fas-potrebovala-ot-apple-preustanovit-rossijskoe-po-84964.html
 
-### 2026-07-01
-- Кейс «Х5 Медиа» и «Хаме»: как ретейл-медиа вывело паштеты в топ категории [17:01 МСК, обычный прогон] — https://www.sostav.ru/publication/kejs-kh5-media-i-khame-po-prodvizheniyu-premialnykh-pashtetov-v-top-kategorii-84927.html
-- VK Tech и Yandex B2B Tech могут договориться о партнёрстве [17:01 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/1/346813.phtml
-- VK внедрит ИИ-поиск в свои сервисы [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/07/1/346799.phtml
-- Авторы ВКонтакте заработали 1,4 млрд рублей с помощью VK AdBlogger [15:00 МСК, обязательный дайджест] — https://likeni.ru/events/avtory-vkontakte-zarabotali-1-4-mlrd-rubley-s-pomoshchyu-vk-adblogger-s-nachala-goda/
-- Скандалы вокруг WPP ослабляют репутацию холдинга [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/skandaly-vokrug-wpp-oslablyayut-reputatsiyu-kholdinga-84958.html
-- «Пятёрочка» отправила Галю спасать параллельные реальности [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/creative/2026/07/1/346803.phtml
-- Финансовые сервисы становятся одним из главных источников роста для маркетплейсов [15:00 МСК, обязательный дайджест] — https://sostav.ru/publication/finansovye-servisy-stanovyatsya-odnim-iz-glavnykh-istochnikov-rosta-dlya-marketplejsov-84955.html
-- Бренды стали публиковать больше контента в «Максе» и «ВКонтакте» после замедления Telegram [14:00 МСК, обычный прогон] — https://sostav.ru/publication/brendy-stali-publikovat-bolshe-kontenta-v-makse-i-vkontakte-posle-zamedleniya-telegram-84957.html
-- «Авито» масштабирует ИИ-ассистента для продавцов [12:03 МСК, обычный прогон] — https://sostav.ru/publication/avito-masshtabiruet-ii-assistenta-dlya-prodavtsov-84952.html
-- Андрей Егоров назначен главным управляющим директором SkyAlliance [12:03 МСК, обычный прогон] — https://adindex.ru/news/hr/2026/07/1/346728.phtml
-- Как перезапустить диалог с молодой аудиторией: кейс INFLUENCE BEAUTY, «Яндекс Музыки» и PHD [12:03 МСК, обычный прогон] — https://sostav.ru/publication/kak-perezapustit-dialog-s-molodoj-auditoriej-kejs-influence-beauty-yandeks-muzyki-i-phd-84937.html
-- Яндекс Ритм запустил геотаргетинг для компаний из сферы услуг [11:00 МСК, обычный прогон] — https://ppc.world/news/yandeks-ritm-zapustil-geotargeting-dlya-kompaniy-iz-sfery-uslug/
-- В Авито Рекламе появился таргетинг на пользователей, ожидающих ребёнка [11:00 МСК, обычный прогон] — https://ppc.world/news/v-avito-reklame-poyavilsya-targeting-na-polzovateley-ozhidayuschih-rebenka/
-- Кейс МТС DSP и «Детский мир»: как увеличить продажи в высокий сезон на 30% [11:00 МСК, обычный прогон] — https://sostav.ru/publication/kejs-mts-dsp-i-detskij-mir-kak-uvelichit-prodazhi-v-shkolnyj-sezon-na-30-84896.html
-- Рейтинг «Технологический Индекс»: Big Data [11:00 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/1/346738.phtml
-- Havas урегулировала спор с регулятором США по делу о рекламном сговоре [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/havas-uregulirovala-spor-s-regulyatorom-ssha-po-delu-o-reklamnom-sgovore-84947.html
-- Omnicom выиграла глобальный медиаконтракт Adidas [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/omnicom-vyigrala-globalnyj-mediakontrakt-adidas-84946.html
-- Wildberries купил контрольный пакет «Еаптеки» [10:00 МСК, обязательный дайджест] — https://sostav.ru/publication/wildberries-kupil-kontrolnyj-paket-eapteki-84943.html
-- «М.Видео» и «Эльдорадо» объединятся в рамках маркетплейса [10:00 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/07/1/346737.phtml
 
