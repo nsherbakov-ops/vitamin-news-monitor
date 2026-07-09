@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-07-09
+- Юрий Панов, ГК «Родная Речь»: технологии и трансформация рекламного рынка [18:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/yurij-panov-gk-rodnaya-rech-tekhnologii-lokalnye-frejmvorki-i-transformatsiya-reklamnogo-rynka-85151.html
+- В MAX появились комментарии в публичных каналах [18:02 МСК, обычный прогон, 🟡] — https://likeni.ru/events/v-max-poyavilis-kommentarii-v-publichnykh-kanalakh/
 - В ОРД Ozon поле с адресом стало обязательным для заполнения [15:01 МСК, обязательный дайджест, 🔥] — https://www.seonews.ru/events/v-ord-ozon-pole-s-adresom-stalo-obyazatelnym-dlya-zapolneniya/
 - Запускать продвижение на Динамических местах на поиске теперь удобнее [15:01 МСК, обязательный дайджест, 🔥] — https://yandex.ru/adv/news/prodvizhenie-na-dinamicheskikh-mestakh-po-ssylke-na-glavnuyu
 - МАХ начал тестировать публичные каналы для всех пользователей [15:01 МСК, обязательный дайджест, 🟡] — https://ppc.world/news/maks-nachal-testirovat-publichnye-kanaly-dlya-vseh-polzovateley/
@@ -122,34 +124,3 @@
 - В России появились вакансии специалистов по продвижению в нейросетях [10:02 МСК, обязательный дайджест] — https://www.sostav.ru/publication/v-rossii-poyavilis-vakansii-spetsialistov-po-prodvizheniyu-v-nejrosetyakh-85006.html
 - Еврокомиссия может предложить единый запрет на соцсети для детей [10:02 МСК, обязательный дайджест] — https://sostav.ru/publication/evrokomissiya-mozhet-predlozhit-edinyj-zapret-na-sotsseti-dlya-detej-85002.html
 - Доходы директоров по коммуникациям в Москве достигли 1,2 млн рублей в месяц [10:02 МСК, обязательный дайджест] — https://likeni.ru/events/dokhody-direktorov-po-kommunikatsiyam-v-moskve-dostigli-1-2-mln-rubley-v-mesyats/
-
-### 2026-07-02
-- Бренды увеличили активность в MAX и ВКонтакте на фоне замедления Telegram [19:02 МСК, обычный прогон] — https://likeni.ru/events/brendy-uvelichili-aktivnost-v-max-i-vkontakte-na-fone-zamedleniya-telegram/
-- В «Точка Банке» назвали семь трендов на рынке маркетплейсов [19:02 МСК, обычный прогон] — https://www.sostav.ru/publication/v-tochka-banke-nazvali-sem-trendov-na-rynke-marketplejsov-84995.html
-- Почему ИИ решает, доверять ли вашему бренду — и как на это влиять [19:02 МСК, обычный прогон] — https://www.sostav.ru/publication/pochemu-ii-reshaet-doveryat-li-vashemu-brendu-i-kak-na-eto-vliyat-84989.html
-- Обновления Яндекс KITβ: итоги II квартала 2026 года и планы на III квартал [17:00 МСК, обычный прогон] — https://yandex.ru/adv/news/obnovleniya-yandex-kit-q2-2026
-- IP-адреса в российском CTV: что нужно знать маркетологу, чтобы не попасть впросак [16:02 МСК, обычный прогон] — https://www.sostav.ru/publication/ip-adresa-v-rossijskom-ctv-chto-nuzhno-znat-marketologu-chtoby-ne-popast-vprosak-84917.html
-- «Яндекс» объединил команду вокруг «Алисы AI» и назначил нового руководителя «Поиска» [16:02 МСК, обычный прогон] — https://www.sostav.ru/publication/yandeks-obedinil-komandu-vokrug-alisy-ai-i-naznachil-novogo-rukovoditelya-poiska-84992.html
-- Шопсы ВКонтакте получили собственную ленту в клипах [15:02 МСК, обязательный дайджест] — https://likeni.ru/events/shopsy-vkontakte-poluchili-sobstvennuyu-lentu-v-klipakh/
-- Meta назначила нового директора по маркетингу [15:02 МСК, обязательный дайджест] — https://www.sostav.ru/publication/meta-naznachila-novogo-direktora-po-marketingu-84987.html
-- 93% потребителей молча уходят от брендов, которым перестают доверять [15:02 МСК, обязательный дайджест] — https://www.sostav.ru/publication/93-potrebitelej-molcha-ukhodyat-ot-brendov-kotorym-perestayut-doveryat-84990.html
-- Доверие к бренду стало главным козырем франчайзеров [15:02 МСК, обязательный дайджест] — https://www.sostav.ru/publication/doverie-k-brendu-stalo-glavnym-kozyrem-franchajzerov-84978.html
-- Копирование трендов и ИИ-контент — главные причины, по которым пользователи отписываются от авторов [15:02 МСК, обязательный дайджест] — https://ppc.world/news/kopirovanie-trendov-i-ii-kontent-glavnye-prichiny-po-kotorym-polzovateli-otpisyvayutsya-ot-avtorov/
-- «Яндекс Поиск» запустил интерактивную уличную рекламу [14:01 МСК, обычный прогон] — https://hi-tech.mail.ru/news/150603-yandeks-poisk-zapustil-interaktivnuyu-ulichnuyu-reklamu/
-- Объявлены лауреаты первой премии Yandex B2B Tech [14:01 МСК, обычный прогон] — https://www.sostav.ru/publication/obyavleny-laureaty-premii-za-luchshie-proekty-na-baze-tekhnologij-yandex-b2b-tech-84931.html
-- Каждая пятая вакансия в маркетинге требует навыков работы с ИИ [14:01 МСК, обычный прогон] — https://www.sostav.ru/publication/kazhdaya-pyataya-vakansiya-v-marketinge-trebuet-navykov-raboty-s-ii-84981.html
-- Привлечение пользователей в «Бидиз» (Bidease): как алгоритмы находят тех, кто платит [13:03 МСК, обычный прогон] — https://www.sostav.ru/publication/privlechenie-polzovatelej-v-bidiz-bidease-kak-algoritmy-nakhodyat-tekh-kto-platit-84770.html
-- Три цифровые среды вместо одной воронки: «Родная Речь» представит новую модель CJM [13:03 МСК, обычный прогон] — https://www.sostav.ru/publication/tri-tsifrovye-sredy-vmesto-odnoj-voronki-84930.html
-- Wildberries повышает комиссии для продавцов с 7 июля [12:01 МСК, обычный прогон] — https://sostav.ru/publication/wildberries-uvelichivaet-komissii-iz-za-podorozhaniya-benzina-84970.html
-- Аудитория заблокированных сервисов в России выросла в I полугодии 2026 (Instagram/Threads вверх, Telegram/WhatsApp вниз) [12:01 МСК, обычный прогон] — https://rozetked.me/news/46977-smi-v-pervoy-polovine-2026-goda-v-rossii-vyrosla-auditoriya-zablokirovannyh-servisov
-- Авито открыл доступ к ИИ-ассистенту Ави Pro для 500 000 продавцов [11:02 МСК, обычный прогон] — https://ppc.world/news/avito-otkryl-dostup-k-ii-assistentu-avi-pro-dlya-500-000-prodavcov-on-analiziruet-voronku-prodazh-i-pokazyvaet-chto-tormozit-prodazhi/
-- Рейтинг «Технологический Индекс»: инструменты аналитики [11:02 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/2/346831.phtml
-- Большинство рекламы в MAX публикуется в каналах с числом подписчиков до 10 тыс. [11:02 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/07/2/346828.phtml
-- VK запустит собственный нейропоиск [11:02 МСК, обычный прогон] — https://ppc.world/news/vk-zapustit-sobstvennyy-neyropoisk-iskat-informaciyu-vnutri-servisov-mozhno-budet-s-pomoschyu-ii/
-- Telegram сохраняет интерес рекламодателей [10:03 МСК, обязательный дайджест] — https://www.sostav.ru/publication/telegram-sokhranyaet-interes-reklamodatelej-84968.html
-- Дневной охват мессенджера «Телеграм» снизился в полтора раза [10:03 МСК, обязательный дайджест] — https://adindex.ru/news/tendencies/2026/07/2/346821.phtml
-- WPP делает ставку на ИИ-маркетинг [10:03 МСК, обязательный дайджест] — https://www.sostav.ru/publication/wpp-delaet-stavku-na-ii-marketing-84969.html
-- Пользователи Яндекс KIT (бета) смогут импортировать отзывы и оценки с Яндекс Маркета [10:03 МСК, обязательный дайджест] — https://yandex.ru/adv/news/polzovateli-yandex-kit-beta-mogut-importirovat-otsenki-i-otzyvy-s-yandeks-marketa
-- ФАС потребовала от Apple предустановить российское ПО [10:03 МСК, обязательный дайджест] — https://sostav.ru/publication/fas-potrebovala-ot-apple-preustanovit-rossijskoe-po-84964.html
-
-
