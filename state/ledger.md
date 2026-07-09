@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-09
+- Госдума приняла закон о маркировке контента, созданного с использованием ИИ [19:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/gosduma-prinyala-zakon-o-markirovke-kontenta-sozdannogo-s-ispolzovaniem-ii/
+- Яндекс обновил учёт конверсий и отчёт по целям в ПромоСтраницах [19:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/yandeks-obnovil-uchet-konversiy-i-otchet-po-tselyam-v-promostranitsakh/
+- Meta разрешила использовать фото из открытых аккаунтов Instagram для ИИ-генерации [19:02 МСК, обычный прогон, 🟡] — https://likeni.ru/events/meta-razreshila-ispolzovat-fotografii-iz-otkrytykh-akkauntov-instagram-dlya-generatsii-ii-izobrazhen/
 - Юрий Панов, ГК «Родная Речь»: технологии и трансформация рекламного рынка [18:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/yurij-panov-gk-rodnaya-rech-tekhnologii-lokalnye-frejmvorki-i-transformatsiya-reklamnogo-rynka-85151.html
 - В MAX появились комментарии в публичных каналах [18:02 МСК, обычный прогон, 🟡] — https://likeni.ru/events/v-max-poyavilis-kommentarii-v-publichnykh-kanalakh/
 - В ОРД Ozon поле с адресом стало обязательным для заполнения [15:01 МСК, обязательный дайджест, 🔥] — https://www.seonews.ru/events/v-ord-ozon-pole-s-adresom-stalo-obyazatelnym-dlya-zapolneniya/
