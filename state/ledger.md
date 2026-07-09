@@ -5,6 +5,15 @@
 
 ## Опубликовано
 
+### 2026-07-09
+- Criteo получила предложение о поглощении [13:06 МСК, обычный прогон, 🔥] — https://adindex.ru/news/tendencies/2026/07/8/347016.phtml
+- Инвестиции в рекламу БАДов выросли на 15% в 2025 году [13:06 МСК, обычный прогон, 🔥] — https://adindex.ru/news/researches/2026/07/8/347014.phtml
+- Мировые расходы на наружную рекламу в 2025 году выросли на 15% [13:06 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/mirovye-raskhody-na-naruzhnuyu-reklamu-v-2025-godu-vyrosli-na-15-85141.html
+- Рынок диджитал-рекламы Европы вырос до €131 млрд [13:06 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/rynok-didzhital-reklamy-evropy-vyros-do-131-mlrd-85139.html
+- В Яндекс Товарах добавилось сравнение показателей магазина со средними данными по рынку [13:06 МСК, обычный прогон, 🔥] — https://yandex.ru/adv/news/v-yandeks-tovarakh-dobavilos-sravnenie-pokazatelej-magazina-so-srednimi-dannymi-po-rynku
+- Более 80% людей не запоминают просмотренную за последние сутки рекламу [13:06 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/07/9/347032.phtml
+- Экс топ-менеджер «Яндекс Рекламы» Денис Марфутин возглавил Marshall Automotive Group [13:06 МСК, обычный прогон, 🟡] — https://adindex.ru/news/hr/2026/07/8/347010.phtml
+
 ### 2026-07-08
 - Госдума разрешила рекламу виноделен на билбордах и зданиях [10:02 МСК, обязательный дайджест, 🔥] — https://adindex.ru/news/right/2026/07/8/346988.phtml
 - Блогер @petrovchanka_lera возглавила рейтинг доходов от рекламы в «Максе» [10:02 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/bloger-petrovchanka-lera-vozglavila-rejting-dokhodov-ot-reklamy-v-makse-85106.html
