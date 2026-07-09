@@ -6,6 +6,12 @@
 ## Опубликовано
 
 ### 2026-07-09
+- В ОРД Ozon поле с адресом стало обязательным для заполнения [15:01 МСК, обязательный дайджест, 🔥] — https://www.seonews.ru/events/v-ord-ozon-pole-s-adresom-stalo-obyazatelnym-dlya-zapolneniya/
+- Запускать продвижение на Динамических местах на поиске теперь удобнее [15:01 МСК, обязательный дайджест, 🔥] — https://yandex.ru/adv/news/prodvizhenie-na-dinamicheskikh-mestakh-po-ssylke-na-glavnuyu
+- МАХ начал тестировать публичные каналы для всех пользователей [15:01 МСК, обязательный дайджест, 🟡] — https://ppc.world/news/maks-nachal-testirovat-publichnye-kanaly-dlya-vseh-polzovateley/
+- Жёлтый M&M's признан нарушителем рекламных правил в Великобритании [15:01 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/zheltyj-m-m-s-priznan-narushitelem-reklamnykh-pravil-v-velikobritanii-85152.html
+- Браузер DuckDuckGo научился блокировать рекламу на YouTube [15:01 МСК, обязательный дайджест, 🟡] — https://vc.ru/services/3019334-duckduckgo-blokirovshchik-reklamy-na-youtube
+- IPA: бренды хотят, чтобы агентства с ними спорили [15:01 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/ii-vazhnee-kreativa-chego-reklamodateli-zhdut-ot-agentstv-v-2026-godu-85147.html
 - Рейтинг «Технологический Индекс»: CPI-сети [14:07 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/9/347033.phtml
 - Значимость ИИ-советов при покупке товаров оценивают втрое выше, чем рекламу [14:07 МСК, обычный прогон, 🟡] — https://ppc.world/news/znachimost-ii-sovetov-pri-pokupke-tovarov-ocenivayut-vtroe-vyshe-chem-reklamu-issledovanie/
 - Criteo получила предложение о поглощении [13:06 МСК, обычный прогон, 🔥] — https://adindex.ru/news/tendencies/2026/07/8/347016.phtml
