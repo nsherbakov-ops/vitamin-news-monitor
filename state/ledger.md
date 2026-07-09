@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-07-09
+- Рейтинг «Технологический Индекс»: CPI-сети [14:07 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/9/347033.phtml
+- Значимость ИИ-советов при покупке товаров оценивают втрое выше, чем рекламу [14:07 МСК, обычный прогон, 🟡] — https://ppc.world/news/znachimost-ii-sovetov-pri-pokupke-tovarov-ocenivayut-vtroe-vyshe-chem-reklamu-issledovanie/
 - Criteo получила предложение о поглощении [13:06 МСК, обычный прогон, 🔥] — https://adindex.ru/news/tendencies/2026/07/8/347016.phtml
 - Инвестиции в рекламу БАДов выросли на 15% в 2025 году [13:06 МСК, обычный прогон, 🔥] — https://adindex.ru/news/researches/2026/07/8/347014.phtml
 - Мировые расходы на наружную рекламу в 2025 году выросли на 15% [13:06 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/mirovye-raskhody-na-naruzhnuyu-reklamu-v-2025-godu-vyrosli-na-15-85141.html
