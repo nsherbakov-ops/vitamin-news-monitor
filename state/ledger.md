@@ -5,6 +5,11 @@
 
 ## Опубликовано
 
+### 2026-07-10
+- Google начнёт маркировать рекламу, созданную с помощью ИИ [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/google-nachnet-markirovat-reklamu-sozdannuyu-s-pomoshchyu-iskusstvennogo-intellekta-85163.html
+- Роскомнадзор впервые оценил объём рекламы в MAX — около 1 млрд ₽ за полугодие [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/roskomnadzor-vpervye-otsenil-obem-reklamy-v-max-85161.html
+- VK закрывает «Рейтинг Mail.ru» после почти 30 лет работы [10:00 МСК, обязательный дайджест, 🔥] — https://adindex.ru/news/digital/2026/07/9/347056.phtml
+
 ### 2026-07-09
 - Госдума приняла закон о маркировке контента, созданного с использованием ИИ [19:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/gosduma-prinyala-zakon-o-markirovke-kontenta-sozdannogo-s-ispolzovaniem-ii/
 - Яндекс обновил учёт конверсий и отчёт по целям в ПромоСтраницах [19:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/yandeks-obnovil-uchet-konversiy-i-otchet-po-tselyam-v-promostranitsakh/
@@ -109,21 +114,3 @@
 - Avito запустил ИИ-сервис «ХвостРадар» для поиска пропавших питомцев [15:02 МСК, обязательный дайджест, 🟡] — https://likeni.ru/events/avito-vnedril-ii-dlya-poiska-propavshikh-domashnikh-zhivotnykh/
 - Bank of America сделал коллекционные браслеты главным сувениром ЧМ-2026 [15:02 МСК, обязательный дайджест, 🟡] — https://www.sostav.ru/publication/besplatnye-braslety-bank-of-america-stali-glavnym-suvenirom-chm-2026-85026.html
 - Ford выпустил кампанию FordBNB: внедорожники сдают на Airbnb как дома для путешествий [15:02 МСК, обязательный дайджест, 🟡] — https://adindex.ru/news/creative/2026/07/3/346883.phtml
-
-### 2026-07-03
-- ФАС предупредила Apple из-за удаления приложений VK из App Store — грозит штраф 4 млрд рублей [17:00 МСК, обычный прогон] — https://hi-tech.mail.ru/news/150691-kak-apple-otreagiruet-na-preduprezhdenie-fas-iz-za-udaleniya-prilozhenij-vk-mnenie-eksperta/
-- Объём рекламы ЧМ-2026 на ТВ сократился на 14% [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/obem-reklamy-chm-2026-na-tv-sokratilsya-na-14-85020.html
-- Яндекс Поиск вывел Алису AI на улицы Москвы [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/prikosnites-k-novomu-yandeks-poisk-vyvodit-alisu-ai-na-ulitsy-moskvy-85018.html
-- Маркетинг для зумеров: узнаваемость больше не ведёт напрямую к покупке [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/marketing-dlya-zumerov-uznavaemost-bolshe-ne-vedet-napryamuyu-k-pokupke-85021.html
-- Город невед, рынок по расчёту: куда движется стриминг и ТВ [16:01 МСК, обычный прогон] — https://www.sostav.ru/publication/pilot-85019.html
-- ОРД МедиаСкаут обновляет тарифы с 1 августа [15:00 МСК, обязательный дайджест] — https://www.seonews.ru/events/ord-mediaskaut-obnovlyaet-tarify-s-1-avgusta/
-- В России утвердили правила проверки карточек товаров на маркетплейсах [15:00 МСК, обязательный дайджест] — https://hi-tech.mail.ru/news/150663-v-rossii-utverdili-pravila-proverki-kartochek-tovarov-na-marketplejsah/
-- Wildberries запустил виртуальную примерку украшений с помощью ИИ [15:00 МСК, обязательный дайджест] — https://adindex.ru/news/digital/2026/07/3/346874.phtml
-- Индекс доверия рекламе AdIndex и «Тет-о-твет»: в мае показатель остался стабильным [13:00 МСК, обычный прогон] — https://adindex.ru/news/researches/2026/07/2/346841.phtml
-- Michael Kors выбрал новое медиаагентство (PMG, EMEA) [13:00 МСК, обычный прогон] — https://www.sostav.ru/publication/michael-kors-vybral-novoe-mediaagentstvo-85015.html
-- Аудитория зарубежных платформ в России перераспределяется на фоне ограничений (Telegram -49,4%, WhatsApp -43%, доля MAX в медиамиксе брендов ×3 до 24%) [12:02 МСК, обычный прогон] — https://likeni.ru/events/auditoriya-zarubezhnykh-platform-v-rossii-pereraspredelyaetsya-na-fone-ogranicheniy/
-- Рейтинг «Технологический Индекс»: Валидация/Верификация (лидеры Weborama, TargetAds, AdRiver) [11:02 МСК, обычный прогон] — https://adindex.ru/news/digital/2026/07/3/346875.phtml
-- Effie Index 2025: названы самые эффективные маркетологи и агентства мира [11:02 МСК, обычный прогон] — https://www.sostav.ru/publication/effie-index-2025-nazvany-samye-effektivnye-marketologi-i-agentstva-mira-85007.html
-- В России появились вакансии специалистов по продвижению в нейросетях [10:02 МСК, обязательный дайджест] — https://www.sostav.ru/publication/v-rossii-poyavilis-vakansii-spetsialistov-po-prodvizheniyu-v-nejrosetyakh-85006.html
-- Еврокомиссия может предложить единый запрет на соцсети для детей [10:02 МСК, обязательный дайджест] — https://sostav.ru/publication/evrokomissiya-mozhet-predlozhit-edinyj-zapret-na-sotsseti-dlya-detej-85002.html
-- Доходы директоров по коммуникациям в Москве достигли 1,2 млн рублей в месяц [10:02 МСК, обязательный дайджест] — https://likeni.ru/events/dokhody-direktorov-po-kommunikatsiyam-v-moskve-dostigli-1-2-mln-rubley-v-mesyats/
