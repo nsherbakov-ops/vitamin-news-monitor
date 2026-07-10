@@ -9,6 +9,10 @@
 - Google начнёт маркировать рекламу, созданную с помощью ИИ [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/google-nachnet-markirovat-reklamu-sozdannuyu-s-pomoshchyu-iskusstvennogo-intellekta-85163.html
 - Роскомнадзор впервые оценил объём рекламы в MAX — около 1 млрд ₽ за полугодие [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/roskomnadzor-vpervye-otsenil-obem-reklamy-v-max-85161.html
 - VK закрывает «Рейтинг Mail.ru» после почти 30 лет работы [10:00 МСК, обязательный дайджест, 🔥] — https://adindex.ru/news/digital/2026/07/9/347056.phtml
+- Google судится из-за правил контекстной рекламы (Индия, ключевые слова конкурентов в Google Ads) [11:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/google-suditsya-iz-za-pravil-kontekstnoj-reklamy-85168.html
+- Рейтинг «Технологический Индекс»: управление размещением рекламы (AdRiver, VK, myTarget, Adfox; лидер Platforma/MediaSniper) [11:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/10/347077.phtml
+- Рынок жилья отметил дороговизну продвижения в сервисах объявлений (Авито, Циан, Домклик) [11:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/07/10/347074.phtml
+- Кейс Buzzoola и «Увелка»: ИИ-креатив в FMCG дал VTR 93% [11:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kejs-buzzoola-i-uvelka-resurs-kak-ii-kreativ-v-fmcg-pomog-dostich-vtr-93-85125.html
 
 ### 2026-07-09
 - Госдума приняла закон о маркировке контента, созданного с использованием ИИ [19:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/gosduma-prinyala-zakon-o-markirovke-kontenta-sozdannogo-s-ispolzovaniem-ii/
