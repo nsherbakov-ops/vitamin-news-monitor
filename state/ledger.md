@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-10
+- «Яндекс Поиск» вывел «Алису AI» на улицы Москвы (DOOH-кампания) [13:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/prikosnites-k-novomu-yandeks-poisk-vyvodit-alisu-ai-na-ulitsy-moskvy-85018.html
+- SEOnews подвёл итоги рейтинга «SEO глазами клиентов 2026» [13:02 МСК, обычный прогон, 🟡] — https://www.seonews.ru/events/seonews-podvel-itogi-masshtabnogo-reytinga-seo-glazami-klientov-2026/
+- «Высота» выиграла суд у «ЭКШН» на 16,3 млн рублей (мерчандайзинг L'Oréal) [13:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/vysota-vyigrala-sud-u-ekshn-na-16-3-mln-rublej-85172.html
 - Google начнёт маркировать рекламу, созданную с помощью ИИ [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/google-nachnet-markirovat-reklamu-sozdannuyu-s-pomoshchyu-iskusstvennogo-intellekta-85163.html
 - Роскомнадзор впервые оценил объём рекламы в MAX — около 1 млрд ₽ за полугодие [10:00 МСК, обязательный дайджест, 🔥] — https://www.sostav.ru/publication/roskomnadzor-vpervye-otsenil-obem-reklamy-v-max-85161.html
 - VK закрывает «Рейтинг Mail.ru» после почти 30 лет работы [10:00 МСК, обязательный дайджест, 🔥] — https://adindex.ru/news/digital/2026/07/9/347056.phtml
