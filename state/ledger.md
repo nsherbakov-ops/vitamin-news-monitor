@@ -22,3 +22,6 @@
 - Рекламная активность в MAX за первый год выросла более чем в 1300 раз [18:01 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/reklamnaya-aktivnost-v-max-za-pervyy-god-vyrosla-bolee-chem-v-1300-raz-dostignuv-327-3-tysyach-publikatsiy-/
 - Число новых рекламных компаний в России выросло на 68% [18:01 МСК, обычный прогон, 🔥] — https://likeni.ru/events/chislo-novykh-reklamnykh-kompaniy-v-rossii-vyroslo-na-68/
 - WARC: агентный ИИ сильнее всего изменит медиа, ретейл и финансы [18:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/warc-agentnyj-ii-silnee-vsego-izmenit-media-ritejl-i-finansy-85491.html
+- В ФАС разъяснили, считаются ли рекламой карточки и отзывы на маркетплейсах [19:02 МСК, обычный прогон, 🔥] — https://ppc.world/news/v-fas-razyasnili-schitayutsya-li-reklamoy-kartochki-i-otzyvy-na-marketpleysah/
+- Рейтинг «Технологический Индекс»: коллтрекинг [19:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/22/347416.phtml
+- 45% маркетологов считают, что ИИ улучшил качество контента [19:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/07/22/347430.phtml
