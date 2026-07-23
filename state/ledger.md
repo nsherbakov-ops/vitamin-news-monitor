@@ -21,6 +21,9 @@
 - В Яндекс Директе появилась «Адаптация бюджета» [14:02 МСК, обычный прогон, 🔥] — https://yandex.ru/adv/news/adaptatsiya-byudzheta-novaya-nastrojka
 - Авторы и блогеры запустили 80 тысяч новых каналов в MAX [14:02 МСК, обычный прогон, 🟡] — https://vk.company/ru/press/releases/12367/
 - Исследование: 0,01% компаний заняли треть рынка интернет-рекламы [14:02 МСК, обычный прогон, 🟡] — https://adindex.ru/publication/analitics/search/2026/07/20/347350.phtml
+- E-Retail Media превысит 1,25 трлн рублей к 2027 году [15:01 МСК, обязательный слот, 🔥] — https://www.seonews.ru/events/e-retail-media-prevysit-1-25-trln-rubley-k-2027-godu/
+- SEOnews подвёл итоги рейтинга «SEO глазами клиентов 2026» [15:01 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/seonews-podvel-itogi-masshtabnogo-reytinga-seo-glazami-klientov-2026/
+- Рекламная индустрия США выступила против запрета рекламы вредной еды для детей [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/reklamnaya-industriya-ssha-vystupila-protiv-zapreta-reklamy-vrednoj-edy-dlya-detej-85521.html
 
 ### 2026-07-22
 - eLama возглавила рейтинг Adindex среди агрегаторов рекламных сервисов [17:04 МСК, обычный прогон, 🔥] — https://ppc.world/news/liderom-reytinga-agregatorov-reklamnyh-servisov-stala-elama-adindex/
