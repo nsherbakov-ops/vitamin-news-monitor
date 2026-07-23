@@ -24,6 +24,10 @@
 - E-Retail Media превысит 1,25 трлн рублей к 2027 году [15:01 МСК, обязательный слот, 🔥] — https://www.seonews.ru/events/e-retail-media-prevysit-1-25-trln-rubley-k-2027-godu/
 - SEOnews подвёл итоги рейтинга «SEO глазами клиентов 2026» [15:01 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/seonews-podvel-itogi-masshtabnogo-reytinga-seo-glazami-klientov-2026/
 - Рекламная индустрия США выступила против запрета рекламы вредной еды для детей [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/reklamnaya-industriya-ssha-vystupila-protiv-zapreta-reklamy-vrednoj-edy-dlya-detej-85521.html
+- Михаил Гущин, «Яндекс UrbanAds»: Как расти, когда рынок штормит [17:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/mikhail-gushchin-yandeks-urbanads-kak-rasti-kogda-rynok-shtormit-85515.html
+- ЕК оштрафовала Google на 890 млн евро за нарушение закона о цифровых рынках [17:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ek-oshtrafovala-google-na-890-mln-za-narushenie-zakona-o-tsifrovykh-rynkakh-85527.html
+- Match займётся медиасопровождением бренда Gulliver [17:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/match-stalo-mediapartnerom-gulliver-i-zajmetsya-soprovozhdeniem-reklamnykh-kampanij-brenda-85524.html
+- Марина Федункив снялась в рекламе Avito Работы [17:01 МСК, обычный прогон, 🟡] — https://adindex.ru/news/social_advertising/2026/07/23/347463.phtml
 
 ### 2026-07-22
 - eLama возглавила рейтинг Adindex среди агрегаторов рекламных сервисов [17:04 МСК, обычный прогон, 🔥] — https://ppc.world/news/liderom-reytinga-agregatorov-reklamnyh-servisov-stala-elama-adindex/
