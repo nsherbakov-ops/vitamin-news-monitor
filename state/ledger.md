@@ -17,6 +17,7 @@
 - Кейс МТС AdTech, MGCom и 12STOREEZ: снижение стоимости подписчика на 41% [12:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kejs-mts-adtech-mgcom-i-12storeez-85447.html
 - Оригинальные авторы ВКонтакте увеличили доход в партнёрской программе в семь раз [12:01 МСК, обычный прогон, 🟡] — https://likeni.ru/events/originalnye-avtory-vkontakte-uvelichili-dokhod-v-partnerskoy-programme-v-sem-raz/
 - Неочевидные тренды диджитал-маркетинга: куда смотреть B2B [12:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/neochevidnye-trendy-didzhital-marketinga-kuda-smotret-v2v-85500.html
+- Доходы рекламной платформы Яндекс Urban Ads выросли на 21% за год [13:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/ad_budjet/2026/07/23/347454.phtml
 
 ### 2026-07-22
 - eLama возглавила рейтинг Adindex среди агрегаторов рекламных сервисов [17:04 МСК, обычный прогон, 🔥] — https://ppc.world/news/liderom-reytinga-agregatorov-reklamnyh-servisov-stala-elama-adindex/
