@@ -18,6 +18,9 @@
 - Оригинальные авторы ВКонтакте увеличили доход в партнёрской программе в семь раз [12:01 МСК, обычный прогон, 🟡] — https://likeni.ru/events/originalnye-avtory-vkontakte-uvelichili-dokhod-v-partnerskoy-programme-v-sem-raz/
 - Неочевидные тренды диджитал-маркетинга: куда смотреть B2B [12:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/neochevidnye-trendy-didzhital-marketinga-kuda-smotret-v2v-85500.html
 - Доходы рекламной платформы Яндекс Urban Ads выросли на 21% за год [13:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/ad_budjet/2026/07/23/347454.phtml
+- В Яндекс Директе появилась «Адаптация бюджета» [14:02 МСК, обычный прогон, 🔥] — https://yandex.ru/adv/news/adaptatsiya-byudzheta-novaya-nastrojka
+- Авторы и блогеры запустили 80 тысяч новых каналов в MAX [14:02 МСК, обычный прогон, 🟡] — https://vk.company/ru/press/releases/12367/
+- Исследование: 0,01% компаний заняли треть рынка интернет-рекламы [14:02 МСК, обычный прогон, 🟡] — https://adindex.ru/publication/analitics/search/2026/07/20/347350.phtml
 
 ### 2026-07-22
 - eLama возглавила рейтинг Adindex среди агрегаторов рекламных сервисов [17:04 МСК, обычный прогон, 🔥] — https://ppc.world/news/liderom-reytinga-agregatorov-reklamnyh-servisov-stala-elama-adindex/
