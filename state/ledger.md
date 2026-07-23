@@ -5,6 +5,12 @@
 
 ## Опубликовано
 
+### 2026-07-23
+- Рекламные доходы Google выросли на фоне развития ИИ [10:00 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/reklamnye-dokhody-google-vyrosli-na-fone-razvitiya-ii-85508.html
+- Крупные СМИ рассматривают блокировку Googlebot из-за AI Overviews [10:00 МСК, обязательный слот, 🟡] — https://kod.ru/smi-blokirovka-googlebot-ai-overviews-trafik
+- Лайкни запускает рейтинг Известности SMM-компаний 2026 [10:00 МСК, обязательный слот, 🟡] — https://likeni.ru/events/laykni-zapuskaet-reyting-izvestnosti-smm-kompaniy-2026/
+- В Яндекс Товарах добавили сравнение показателей магазина со средними по рынку [10:00 МСК, обязательный слот, 🟡] — https://yandex.ru/adv/news/v-yandeks-tovarakh-dobavilos-sravnenie-pokazatelej-magazina-so-srednimi-dannymi-po-rynku
+
 ### 2026-07-22
 - eLama возглавила рейтинг Adindex среди агрегаторов рекламных сервисов [17:04 МСК, обычный прогон, 🔥] — https://ppc.world/news/liderom-reytinga-agregatorov-reklamnyh-servisov-stala-elama-adindex/
 - Реклама в Telegram Ads подешевела, CTR вырос почти на 30% [17:04 МСК, обычный прогон, 🔥] — https://ppc.world/news/reklama-v-telegram-stala-deshevle-i-effektivnee-analitiki-podveli-itogi-vtorogo-kvartala-2026-goda/
