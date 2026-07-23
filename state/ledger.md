@@ -10,6 +10,10 @@
 - Крупные СМИ рассматривают блокировку Googlebot из-за AI Overviews [10:00 МСК, обязательный слот, 🟡] — https://kod.ru/smi-blokirovka-googlebot-ai-overviews-trafik
 - Лайкни запускает рейтинг Известности SMM-компаний 2026 [10:00 МСК, обязательный слот, 🟡] — https://likeni.ru/events/laykni-zapuskaet-reyting-izvestnosti-smm-kompaniy-2026/
 - В Яндекс Товарах добавили сравнение показателей магазина со средними по рынку [10:00 МСК, обязательный слот, 🟡] — https://yandex.ru/adv/news/v-yandeks-tovarakh-dobavilos-sravnenie-pokazatelej-magazina-so-srednimi-dannymi-po-rynku
+- Директ представил новый тип охватной рекламы «Панорама» [11:02 МСК, обычный прогон, 🔥] — https://ppc.world/news/direkt-predstavil-novyy-tip-ohvatnoy-reklamy-panorama/
+- РСЯ запустила новый формат рекламы Overlay [11:02 МСК, обычный прогон, 🔥] — https://ppc.world/news/rsya-zapuskaet-novyy-format-reklamy-kotoryy-sohranyaet-kontent-zametnym-dlya-polzovatelya/
+- Доходы YouTube от рекламы выросли почти на 13% [11:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/media/2026/07/23/347444.phtml
+- Рейтинг «Технологический Индекс»: Optimization Tools [11:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/digital/2026/07/23/347449.phtml
 
 ### 2026-07-22
 - eLama возглавила рейтинг Adindex среди агрегаторов рекламных сервисов [17:04 МСК, обычный прогон, 🔥] — https://ppc.world/news/liderom-reytinga-agregatorov-reklamnyh-servisov-stala-elama-adindex/
