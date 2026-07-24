@@ -5,6 +5,11 @@
 
 ## Опубликовано
 
+### 2026-07-24
+- Яндекс представил ИИ-хостес — виртуального агента для приёма звонков и бронирований [10:02 МСК, обязательный слот, 🟡] — https://ppc.world/news/yandeks-predstavil-ii-hostes-virtualnogo-agenta-dlya-priema-zvonkov-i-bronirovaniy/
+- В VK AI Space появилась многоуровневая память для корпоративных AI-агентов [10:02 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/v-vk-ai-space-poyavilas-mnogourovnevaya-pamyat-dlya-korporativnykh-ai-agentov/
+- Havas сохранил стабильный рост и улучшил годовой прогноз [10:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/havas-sokhranil-stabilnyj-rost-i-uluchshil-godovoj-prognoz-85539.html
+
 ### 2026-07-23
 - Рекламные доходы Google выросли на фоне развития ИИ [10:00 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/reklamnye-dokhody-google-vyrosli-na-fone-razvitiya-ii-85508.html
 - Крупные СМИ рассматривают блокировку Googlebot из-за AI Overviews [10:00 МСК, обязательный слот, 🟡] — https://kod.ru/smi-blokirovka-googlebot-ai-overviews-trafik
