@@ -9,6 +9,9 @@
 - Яндекс представил ИИ-хостес — виртуального агента для приёма звонков и бронирований [10:02 МСК, обязательный слот, 🟡] — https://ppc.world/news/yandeks-predstavil-ii-hostes-virtualnogo-agenta-dlya-priema-zvonkov-i-bronirovaniy/
 - В VK AI Space появилась многоуровневая память для корпоративных AI-агентов [10:02 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/v-vk-ai-space-poyavilas-mnogourovnevaya-pamyat-dlya-korporativnykh-ai-agentov/
 - Havas сохранил стабильный рост и улучшил годовой прогноз [10:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/havas-sokhranil-stabilnyj-rost-i-uluchshil-godovoj-prognoz-85539.html
+- Яндекс Директ запустил цифровую наружную рекламу в регионах [11:03 МСК, обычный прогон, 🔥] — https://ppc.world/news/direkt-zapustil-cifrovuyu-naruzhnuyu-reklamu-v-regionah/
+- Perfluence оспаривает штраф за маркировку рекламы [11:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/perfluence-osparivaet-shtraf-za-markirovku-reklamy-85543.html
+- Рейтинг «Технологический Индекс»: инструменты для маркетплейсов [11:03 МСК, обычный прогон, 🟡] — https://adindex.ru/news/digital/2026/07/24/347488.phtml
 
 ### 2026-07-23
 - Рекламные доходы Google выросли на фоне развития ИИ [10:00 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/reklamnye-dokhody-google-vyrosli-na-fone-razvitiya-ii-85508.html
