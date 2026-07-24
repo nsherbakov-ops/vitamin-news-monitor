@@ -14,6 +14,10 @@
 - Яндекс Директ запустил цифровую наружную рекламу в регионах [11:03 МСК, обычный прогон, 🔥] — https://ppc.world/news/direkt-zapustil-cifrovuyu-naruzhnuyu-reklamu-v-regionah/
 - Perfluence оспаривает штраф за маркировку рекламы [11:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/perfluence-osparivaet-shtraf-za-markirovku-reklamy-85543.html
 - Рейтинг «Технологический Индекс»: инструменты для маркетплейсов [11:03 МСК, обычный прогон, 🟡] — https://adindex.ru/news/digital/2026/07/24/347488.phtml
+- «9 движков» в рекламе платформ для ИИ-видимости — это про какой тариф? [15:02 МСК, обязательный слот, 🟡] — https://vc.ru/services/3044130-dvizhki-v-reklame-platformy-ii-vidimosti-tarify-i-osobennosti
+- Dentsu назвала пожилых потребителей одним из самых перспективных сегментов рынка [15:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/dentsu-nazvala-pozhilykh-potrebitelej-odnim-iz-samykh-perspektivnykh-segmentov-rynka-85557.html
+- TikTok заявил о рекордном вовлечении аудитории во время ЧМ-2026 [15:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/tiktok-zayavil-o-rekordnom-vovlechenii-auditorii-vo-vremya-chm-2026-85560.html
+- «Газпром-Медиа Холдинг» обновил цифровые активы [15:02 МСК, обязательный слот, 🟡] — https://adindex.ru/news/hr/2026/07/24/347494.phtml
 
 ### 2026-07-23
 - Рекламные доходы Google выросли на фоне развития ИИ [10:00 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/reklamnye-dokhody-google-vyrosli-na-fone-razvitiya-ii-85508.html
