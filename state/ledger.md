@@ -6,6 +6,7 @@
 ## Опубликовано
 
 ### 2026-07-24
+- Meta обвинили в получении прибыли от мошеннической рекламы [14:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/meta-obvinili-v-poluchenii-pribyli-ot-moshennicheskoj-reklamy-85555.html
 - Как МТС Ads и Papia реализовали Connected TV в канал продаж с помощью Shoppable Ads [12:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kak-mts-ads-premium-video-i-papia-prevratili-connected-tv-v-kanal-prodazh-s-pomoshchyu-shoppable-ads-85525.html
 - Яндекс представил ИИ-хостес — виртуального агента для приёма звонков и бронирований [10:02 МСК, обязательный слот, 🟡] — https://ppc.world/news/yandeks-predstavil-ii-hostes-virtualnogo-agenta-dlya-priema-zvonkov-i-bronirovaniy/
 - В VK AI Space появилась многоуровневая память для корпоративных AI-агентов [10:02 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/v-vk-ai-space-poyavilas-mnogourovnevaya-pamyat-dlya-korporativnykh-ai-agentov/
