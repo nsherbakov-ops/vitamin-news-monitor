@@ -5,6 +5,12 @@
 
 ## Опубликовано
 
+### 2026-07-25
+- Telegram остаётся лидером по числу зарегистрированных рекламных креативов [10:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/telegram-ostaetsya-liderom-po-chislu-zaregistrirovannykh-reklamnykh-kreativov-85565.html
+- Каждый рубль машиночитаемый: как «Зерокодер» отдал управление рекламой ИИ-агенту [10:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/kazhdyj-rubl-mashinochitaemyj-kak-zerokoder-otdal-upravlenie-reklamoj-ii-agentu-85530.html
+- Как смартфоны на Android превращают в зомби и донора рекламных показов [10:02 МСК, обязательный слот, 🔥] — https://vc.ru/services/3043738-kak-prilozheniya-na-android-prevrashchayut-smartfony-v-zombi
+- «Черноголовка» опередила Coca-Cola по знанию рекламы в три раза [10:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/chernogolovka-operedila-coca-cola-po-znaniyu-reklamy-v-tri-raza-85562.html
+
 ### 2026-07-24
 - Meta обвинили в получении прибыли от мошеннической рекламы [14:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/meta-obvinili-v-poluchenii-pribyli-ot-moshennicheskoj-reklamy-85555.html
 - Как МТС Ads и Papia реализовали Connected TV в канал продаж с помощью Shoppable Ads [12:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kak-mts-ads-premium-video-i-papia-prevratili-connected-tv-v-kanal-prodazh-s-pomoshchyu-shoppable-ads-85525.html
