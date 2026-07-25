@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-25
+- Пострадавшие продавцы Wildberries получили отсрочку по кредитам от WB Банка [15:02 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/postradavshie-prodavtsy-wildberries-poluchili-otsrochku-po-kreditam-ot-wb-banka-i-zaymam-ot-mkk-wb-finans/
+- Центробанк снизил ключевую ставку до 14% [15:02 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/07/24/347498.phtml
+- CRM-системы: что это и зачем бизнесу [15:02 МСК, обязательный слот, 🟡] — https://vc.ru/services/3043073-chto-takoe-crm-sistema-i-zachem-ona-nuzhna-biznesu
 - Telegram остаётся лидером по числу зарегистрированных рекламных креативов [10:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/telegram-ostaetsya-liderom-po-chislu-zaregistrirovannykh-reklamnykh-kreativov-85565.html
 - Каждый рубль машиночитаемый: как «Зерокодер» отдал управление рекламой ИИ-агенту [10:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/kazhdyj-rubl-mashinochitaemyj-kak-zerokoder-otdal-upravlenie-reklamoj-ii-agentu-85530.html
 - Как смартфоны на Android превращают в зомби и донора рекламных показов [10:02 МСК, обязательный слот, 🔥] — https://vc.ru/services/3043738-kak-prilozheniya-na-android-prevrashchayut-smartfony-v-zombi
