@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-26
+- RWB вывела народный флешмоб #КорзинаВБ на экраны по всей России [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/rwb-vyvela-narodnyj-fleshmob-korzinavb-na-ekrany-po-vsej-rossii-85572.html
+- Россияне всё чаще переходят на BiP и KakaoTalk [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/07/24/347486.phtml
+- MAX открыл комментарии в публичных и приватных каналах [15:01 МСК, обязательный слот, 🟡] — https://vk.company/ru/press/releases/12356/
 - Продавцы TikTok Shop столкнулись с конкуренцией со стороны ИИ [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/digital/2026/07/23/347476.phtml
 - Columbia Sportswear предложила отдать компанию тому, кто докажет, что Земля плоская [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/novyj-shrift-coca-cola-sravnili-so-stilem-marlboro-85569.html
 - Okko станет премиальным партнёром футбольного клуба «Спартак» [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/sport/2026/07/24/347513.phtml
