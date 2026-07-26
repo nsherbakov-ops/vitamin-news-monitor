@@ -6,6 +6,7 @@
 ## Опубликовано
 
 ### 2026-07-26
+- Зрители стали лояльнее к рекламе в стриминге [19:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/zriteli-stali-loyalnee-k-reklame-v-striminge-85571.html
 - RWB вывела народный флешмоб #КорзинаВБ на экраны по всей России [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/rwb-vyvela-narodnyj-fleshmob-korzinavb-na-ekrany-po-vsej-rossii-85572.html
 - Россияне всё чаще переходят на BiP и KakaoTalk [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/07/24/347486.phtml
 - MAX открыл комментарии в публичных и приватных каналах [15:01 МСК, обязательный слот, 🟡] — https://vk.company/ru/press/releases/12356/
