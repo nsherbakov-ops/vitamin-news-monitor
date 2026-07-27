@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-07-27
+- Google обжаловала взыскание 160,3 млрд рублей в пользу российского ООО «Гугл» [16:01 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/google-obzhalovala-vzyskanie-160-3-mlrd-rublej-v-polzu-rossijskogo-ooo-gugl-85597.html
+- Яндекс Метрика и AppMetrica подтвердили сертификаты ISO 27001 и 27701 [16:01 МСК, обычный прогон, 🟡] — https://yandex.ru/adv/news/metrika-appmetrica-iso-27001-27701
 - Kokoc Group выяснила, как россияне распознают ИИ-контент [14:00 МСК, обычный прогон, 🔥] — https://hi-tech.mail.ru/news/151985-ai-content-recognition-kokoc-research/
 - MAX запустил истории для Android [14:00 МСК, обычный прогон, 🟡] — https://vk.company/ru/press/releases/12368/
 - Истории ВКонтакте смотрит каждый второй пользователь Рунета [14:00 МСК, обычный прогон, 🟡] — https://likeni.ru/events/istorii-vkontakte-smotrit-kazhdyy-vtoroy-polzovatel-runeta/
