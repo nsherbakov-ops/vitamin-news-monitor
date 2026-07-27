@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-27
+- Иностранные компании вдвое увеличили вложения в рекламу мобильных приложений на «Яндексе» [19:01 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/27/347542.phtml
+- «RWB Медиа» запустила меры поддержки селлеров в продвижении на Wildberries [19:01 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/rwb-media-obyavila-o-zapuske-mer-podderzhki-sellerov-v-chasti-prodvizheniya-85605.html
+- Песков: Россия продолжает контакты с Telegram по восстановлению доступа [19:01 МСК, обычный прогон, 🟡] — https://kod.ru/peskov-telegram-dostup
 - Google обжаловала взыскание 160,3 млрд рублей в пользу российского ООО «Гугл» [16:01 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/google-obzhalovala-vzyskanie-160-3-mlrd-rublej-v-polzu-rossijskogo-ooo-gugl-85597.html
 - Яндекс Метрика и AppMetrica подтвердили сертификаты ISO 27001 и 27701 [16:01 МСК, обычный прогон, 🟡] — https://yandex.ru/adv/news/metrika-appmetrica-iso-27001-27701
 - Kokoc Group выяснила, как россияне распознают ИИ-контент [14:00 МСК, обычный прогон, 🔥] — https://hi-tech.mail.ru/news/151985-ai-content-recognition-kokoc-research/
