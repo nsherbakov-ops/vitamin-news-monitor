@@ -5,6 +5,11 @@
 
 ## Опубликовано
 
+### 2026-07-27
+- Путин подписал первый в истории России закон об ИИ [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/right/2026/07/27/347516.phtml
+- RWB перенесла народную акцию #корзинавб в наружную рекламу [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/social_advertising/2026/07/27/347517.phtml
+- Россияне назвали маркетологов главными помощниками брендов [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/researches/2026/07/27/347525.phtml
+
 ### 2026-07-26
 - Зрители стали лояльнее к рекламе в стриминге [19:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/zriteli-stali-loyalnee-k-reklame-v-striminge-85571.html
 - RWB вывела народный флешмоб #КорзинаВБ на экраны по всей России [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/rwb-vyvela-narodnyj-fleshmob-korzinavb-na-ekrany-po-vsej-rossii-85572.html
