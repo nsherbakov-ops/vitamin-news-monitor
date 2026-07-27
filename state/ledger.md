@@ -14,6 +14,10 @@
 - Путин подписал первый в истории России закон об ИИ [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/right/2026/07/27/347516.phtml
 - RWB перенесла народную акцию #корзинавб в наружную рекламу [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/social_advertising/2026/07/27/347517.phtml
 - Россияне назвали маркетологов главными помощниками брендов [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/researches/2026/07/27/347525.phtml
+- 55% рекламодателей готовы увеличить вложения в интерактивную рекламу при снижении ставки ЦБ [15:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/bolje-poloviny-reklamodatelej-gotovy-uvelichit-investitsii-v-interaktivnuyu-reklamu-pri-snizhenii-klyuchevoj-stavki-85596.html
+- 77% россиян поддержали обязательную маркировку ИИ-контента [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/innovations/2026/07/27/347535.phtml
+- Rostic's упаковал наггетсы в брелоки с героями Honkai: Star Rail [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/marketing/2026/07/27/347532.phtml
+- Почему геймификация не продаёт: пять ошибок маркетинга [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/pochemu-gejmifikatsiya-ne-prodaet-pyat-oshibok-marketinga-kotorye-prevrashchayut-igru-v-dorogoj-i-bespoleznyj-spetsproekt-85529.html
 
 ### 2026-07-26
 - Зрители стали лояльнее к рекламе в стриминге [19:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/zriteli-stali-loyalnee-k-reklame-v-striminge-85571.html
