@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-27
+- Kokoc Group выяснила, как россияне распознают ИИ-контент [14:00 МСК, обычный прогон, 🔥] — https://hi-tech.mail.ru/news/151985-ai-content-recognition-kokoc-research/
+- MAX запустил истории для Android [14:00 МСК, обычный прогон, 🟡] — https://vk.company/ru/press/releases/12368/
+- Истории ВКонтакте смотрит каждый второй пользователь Рунета [14:00 МСК, обычный прогон, 🟡] — https://likeni.ru/events/istorii-vkontakte-smotrit-kazhdyy-vtoroy-polzovatel-runeta/
 - Telegram остался лидером по числу зарегистрированных рекламных креативов во II квартале 2026 года [11:03 МСК, обычный прогон, 🟡] — https://ppc.world/news/telegram-ostalsya-liderom-po-chislu-zaregistrirovannyh-reklamnyh-kreativov-vo-vtorom-kvartale-2026-goda/
 - i.com потребовало с «ФармОушен Трейд» 4,5 млн рублей за рекламные услуги [11:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/i-com-potrebovalo-s-farmoushen-trejd-4-5-mln-rublej-za-reklamnye-uslugi-85585.html
 - Путин подписал первый в истории России закон об ИИ [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/right/2026/07/27/347516.phtml
