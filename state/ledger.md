@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-07-27
+- Telegram остался лидером по числу зарегистрированных рекламных креативов во II квартале 2026 года [11:03 МСК, обычный прогон, 🟡] — https://ppc.world/news/telegram-ostalsya-liderom-po-chislu-zaregistrirovannyh-reklamnyh-kreativov-vo-vtorom-kvartale-2026-goda/
+- i.com потребовало с «ФармОушен Трейд» 4,5 млн рублей за рекламные услуги [11:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/i-com-potrebovalo-s-farmoushen-trejd-4-5-mln-rublej-za-reklamnye-uslugi-85585.html
 - Путин подписал первый в истории России закон об ИИ [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/right/2026/07/27/347516.phtml
 - RWB перенесла народную акцию #корзинавб в наружную рекламу [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/social_advertising/2026/07/27/347517.phtml
 - Россияне назвали маркетологов главными помощниками брендов [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/researches/2026/07/27/347525.phtml
