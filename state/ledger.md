@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-28
+- Кукольный театр и ИИ: как оживили героя для кампании Mir Supreme [19:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kukolnyj-teatr-i-ii-85642.html
+- Позиционирование без исследований — коллективная галлюцинация о потребителе [19:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/pozitsionirovanie-bez-issledovanij-kollektivnaya-gallyutsinatsiya-o-potrebitele-85643.html
+- От тренда к первому урожаю: как «Профи.ру» запустил проект для начинающих дачников [19:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ot-trenda-k-pervomu-urozhayu-kak-profi-ru-zapustil-proekt-dlya-nachinayushchikh-dachnikov-85648.html
 - Одно объявление — разные формулировки [17:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/odno-obyavlenie-raznye-formulirovki-85639.html
 - От кросс-девайса к измерению: пять идей, которые рынок adtech уже перерос [16:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ot-kross-devajsa-k-izmereniyu-pyat-idej-kotorye-rynok-adtech-uzhe-pereros-85595.html
 - Запасной аэродром, который может стать основным: как блогеры осваивают «Макс» [16:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/zapasnoj-aerodrom-kotoryj-mozhet-stat-osnovnym-kak-blogery-osvaivayut-maks-85632.html
