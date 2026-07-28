@@ -5,6 +5,12 @@
 
 ## Опубликовано
 
+### 2026-07-28
+- Havas получил крупный медиа-аккаунт Skechers [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/havas-poluchil-krupnyj-media-akkaunt-skechers-85613.html
+- Зарубежные разработчики игр утроили расходы на рекламу в RuStore [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/zarubezhnye-razrabotchiki-igr-utroili-raskhody-na-reklamu-v-rustore-85608.html
+- «Бургер Кинг» зовёт бумеров в фастфуд через рекламу Boomer King [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/marketing/2026/07/28/347552.phtml
+- Объём трансграничной онлайн-торговли вырос на 40% в первом полугодии [10:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/obem-transgranichnoj-onlajn-torgovli-vyros-na-40-v-pervom-polugodii-85612.html
+
 ### 2026-07-27
 - Иностранные компании вдвое увеличили вложения в рекламу мобильных приложений на «Яндексе» [19:01 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/27/347542.phtml
 - «RWB Медиа» запустила меры поддержки селлеров в продвижении на Wildberries [19:01 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/rwb-media-obyavila-o-zapuske-mer-podderzhki-sellerov-v-chasti-prodvizheniya-85605.html
