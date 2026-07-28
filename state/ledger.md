@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-07-28
+- От кросс-девайса к измерению: пять идей, которые рынок adtech уже перерос [16:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ot-kross-devajsa-k-izmereniyu-pyat-idej-kotorye-rynok-adtech-uzhe-pereros-85595.html
+- Запасной аэродром, который может стать основным: как блогеры осваивают «Макс» [16:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/zapasnoj-aerodrom-kotoryj-mozhet-stat-osnovnym-kak-blogery-osvaivayut-maks-85632.html
+- Исследователи научили рекомендательные алгоритмы ВКонтакте учитывать будущие интересы пользователей [16:01 МСК, обычный прогон, 🟡] — https://vk.company/ru/press/releases/12369/
+- Пользователи ВКонтакте оформили 4 млн заказов из шопсов за полгода [16:01 МСК, обычный прогон, 🟡] — https://likeni.ru/events/polzovateli-vkontakte-oformili-4-mln-zakazov-iz-shopsov-za-polgoda/
 - 99% британских рекламодателей используют генеративный ИИ [15:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/99-britanskikh-reklamodatelej-ispolzuyut-generativnyj-ii-85634.html
 - «Зенит» возглавил топ футбольных рекламодателей в наружке [15:01 МСК, обязательный слот, 🔥] — https://adindex.ru/news/tendencies/2026/07/28/347570.phtml
 - Селлеры Wildberries получили первые поддерживающие выплаты, а на Ozon растёт цена страховки [15:01 МСК, обязательный слот, 🟡] — https://ppc.world/news/sellery-wildberries-poluchili-pervye-podderzhivayuschie-vyplaty-a-na-ozon-sohranyaetsya-strahovka-tovarov-no-podnimaetsya-ee-stoimost/
