@@ -6,6 +6,7 @@
 ## Опубликовано
 
 ### 2026-07-28
+- Одно объявление — разные формулировки [17:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/odno-obyavlenie-raznye-formulirovki-85639.html
 - От кросс-девайса к измерению: пять идей, которые рынок adtech уже перерос [16:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ot-kross-devajsa-k-izmereniyu-pyat-idej-kotorye-rynok-adtech-uzhe-pereros-85595.html
 - Запасной аэродром, который может стать основным: как блогеры осваивают «Макс» [16:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/zapasnoj-aerodrom-kotoryj-mozhet-stat-osnovnym-kak-blogery-osvaivayut-maks-85632.html
 - Исследователи научили рекомендательные алгоритмы ВКонтакте учитывать будущие интересы пользователей [16:01 МСК, обычный прогон, 🟡] — https://vk.company/ru/press/releases/12369/
