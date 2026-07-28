@@ -6,6 +6,11 @@
 ## Опубликовано
 
 ### 2026-07-28
+- 99% британских рекламодателей используют генеративный ИИ [15:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/99-britanskikh-reklamodatelej-ispolzuyut-generativnyj-ii-85634.html
+- «Зенит» возглавил топ футбольных рекламодателей в наружке [15:01 МСК, обязательный слот, 🔥] — https://adindex.ru/news/tendencies/2026/07/28/347570.phtml
+- Селлеры Wildberries получили первые поддерживающие выплаты, а на Ozon растёт цена страховки [15:01 МСК, обязательный слот, 🟡] — https://ppc.world/news/sellery-wildberries-poluchili-pervye-podderzhivayuschie-vyplaty-a-na-ozon-sohranyaetsya-strahovka-tovarov-no-podnimaetsya-ee-stoimost/
+- Brand Analytics назвал главные эмоции пиарщиков [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/07/28/347561.phtml
+- Новая природа вирусности: от сарафанного радио к алгоритмическому отбору [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/novaya-priroda-virusnosti-ot-sarafannogo-radio-k-algoritmicheskomu-otboru-85619.html
 - Havas получил крупный медиа-аккаунт Skechers [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/havas-poluchil-krupnyj-media-akkaunt-skechers-85613.html
 - Зарубежные разработчики игр утроили расходы на рекламу в RuStore [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/zarubezhnye-razrabotchiki-igr-utroili-raskhody-na-reklamu-v-rustore-85608.html
 - «Бургер Кинг» зовёт бумеров в фастфуд через рекламу Boomer King [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/marketing/2026/07/28/347552.phtml
