@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-07-29
+- Как Яндекс монополизировал выдачу, взвинтил цены и убил органику в поиске [13:01 МСК, обычный прогон, 🔥] — https://vc.ru/services/3051697-kak-yandeks-monopoliziroval-rynok-i-ubil-organicheskij-poisk
+- Брендформанс на практике: как «Отелло» тестировал 22 площадки и искал идеальный CPA [13:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/brendformans-na-praktike-kak-otello-testiroval-22-ploshchadki-i-iskal-idealnyj-cpa-85645.html
 - Спрос на нестандартную B2B-рекламу в почте вырос в четыре раза [12:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/07/29/347588.phtml
 - Fashion и DIY стали самыми быстрорастущими категориями в CPA-маркетинге [12:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/07/29/347587.phtml
 - Google ужесточил правила для отзывов в поиске [12:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/google-nachala-borbu-s-nakrutkoj-otzyvov-85661.html
