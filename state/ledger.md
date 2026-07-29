@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-07-29
+- Глава Omnicom: рынок пока не оценил стоимость использования ИИ [15:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/glava-omnicom-rynok-poka-ne-otsenil-stoimost-ispolzovaniya-ii-85675.html
+- Быстрые ответы Алисы обошли по качеству Google AI Overviews, набрали 49,5 млн пользователей [15:01 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/bystrye-otvety-alisy-ai-poiske-nabrali-49-5-mln-ezhemesyachnoy-auditorii-i-oboshli-po-kachestvu-google-ai-overviews/
+- Самая высокая конкуренция за рабочие места — среди маркетологов и рекламщиков [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/samaya-vysokaya-konkurentsiya-za-rabochie-mesta-nablyudaetsya-sredi-marketologov-i-reklamshchikov-85676.html
+- Стриминг занял уже 48,6% просмотра в США [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/striming-zanyal-uzhe-48-6-prosmotra-v-ssha-85677.html
 - VK Реклама внедряет анализ качества лидов [14:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/vk-reklama-vnedryaet-analiz-kachestva-lidov/
 - «Сбер» увеличил расходы на рекламу и маркетинг на 47% [14:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/ad_budjet/2026/07/29/347593.phtml
 - Средний чек рекламодателей на «Онлайн ТВ» увеличился на 90% [14:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/07/29/347591.phtml
