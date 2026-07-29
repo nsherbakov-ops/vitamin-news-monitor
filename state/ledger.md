@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-29
+- Спрос на нестандартную B2B-рекламу в почте вырос в четыре раза [12:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/07/29/347588.phtml
+- Fashion и DIY стали самыми быстрорастущими категориями в CPA-маркетинге [12:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/07/29/347587.phtml
+- Google ужесточил правила для отзывов в поиске [12:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/google-nachala-borbu-s-nakrutkoj-otzyvov-85661.html
 - Выручка Яндекса от рекламы и услуг продвижения выросла на 10,3% во II квартале 2026 года [11:03 МСК, обычный прогон, 🔥] — https://ppc.world/news/vyruchka-yandeksa-ot-reklamy-i-uslug-prodvizheniya-vyrosla-na-103-vo-vtorom-kvartale-2026-goda/
 - «Билайн Adtech» представил обновлённую тарификацию таргетированных SMS-рассылок [11:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/bilajn-adtech-predstavil-obnovlennuyu-tarifikatsiyu-targetirovannykh-sms-rassylok-85589.html
 - «Карма» от «Яндекс Недвижимости» поможет девелоперам оценить эффективность размещений [11:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/karma-ot-yandeks-nedvizhimosti-pomozhet-developeram-otsenit-effektivnost-razmeshchenij-85621.html
