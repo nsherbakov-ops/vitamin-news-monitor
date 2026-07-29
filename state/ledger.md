@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-29
+- В чате с Алиса AI разместили объявления более 460 000 рекламодателей [18:02 МСК, обычный прогон, 🔥] — https://ppc.world/news/v-chate-s-alisa-ai-razmestili-obyavleniya-bolee-460-000-reklamodateley/
+- P&G реинвестирует в маркетинг, но продажи почти не растут [18:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/p-g-uvelichila-investitsii-v-prodvizhenie-brendov-nesmotrya-na-slabyj-rost-prodazh-85681.html
+- Как прошел «X5 Медиа День» в «Сфере X5» [18:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kak-proshel-x5-media-den-v-sfere-x5-85679.html
 - Глава Omnicom: рынок пока не оценил стоимость использования ИИ [15:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/glava-omnicom-rynok-poka-ne-otsenil-stoimost-ispolzovaniya-ii-85675.html
 - Быстрые ответы Алисы обошли по качеству Google AI Overviews, набрали 49,5 млн пользователей [15:01 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/bystrye-otvety-alisy-ai-poiske-nabrali-49-5-mln-ezhemesyachnoy-auditorii-i-oboshli-po-kachestvu-google-ai-overviews/
 - Самая высокая конкуренция за рабочие места — среди маркетологов и рекламщиков [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/samaya-vysokaya-konkurentsiya-za-rabochie-mesta-nablyudaetsya-sredi-marketologov-i-reklamshchikov-85676.html
