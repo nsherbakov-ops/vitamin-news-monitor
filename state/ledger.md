@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-29
+- VK Реклама внедряет анализ качества лидов [14:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/vk-reklama-vnedryaet-analiz-kachestva-lidov/
+- «Сбер» увеличил расходы на рекламу и маркетинг на 47% [14:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/ad_budjet/2026/07/29/347593.phtml
+- Средний чек рекламодателей на «Онлайн ТВ» увеличился на 90% [14:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/07/29/347591.phtml
 - Как Яндекс монополизировал выдачу, взвинтил цены и убил органику в поиске [13:01 МСК, обычный прогон, 🔥] — https://vc.ru/services/3051697-kak-yandeks-monopoliziroval-rynok-i-ubil-organicheskij-poisk
 - Брендформанс на практике: как «Отелло» тестировал 22 площадки и искал идеальный CPA [13:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/brendformans-na-praktike-kak-otello-testiroval-22-ploshchadki-i-iskal-idealnyj-cpa-85645.html
 - Спрос на нестандартную B2B-рекламу в почте вырос в четыре раза [12:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/07/29/347588.phtml
