@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-29
+- Выручка Яндекса от рекламы и услуг продвижения выросла на 10,3% во II квартале 2026 года [11:03 МСК, обычный прогон, 🔥] — https://ppc.world/news/vyruchka-yandeksa-ot-reklamy-i-uslug-prodvizheniya-vyrosla-na-103-vo-vtorom-kvartale-2026-goda/
+- «Билайн Adtech» представил обновлённую тарификацию таргетированных SMS-рассылок [11:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/bilajn-adtech-predstavil-obnovlennuyu-tarifikatsiyu-targetirovannykh-sms-rassylok-85589.html
+- «Карма» от «Яндекс Недвижимости» поможет девелоперам оценить эффективность размещений [11:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/karma-ot-yandeks-nedvizhimosti-pomozhet-developeram-otsenit-effektivnost-razmeshchenij-85621.html
 - Яндекс объявил финансовые результаты за II квартал 2026 года [10:02 МСК, обязательный слот, 🔥] — https://yandex.ru/company/news/29-07-2026
 - Omnicom отчиталась о росте выручки на 6,1% [10:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/omnicom-85657.html
 - Долг Telegram по штрафам в России приблизился к 38 млн рублей [10:02 МСК, обязательный слот, 🟡] — https://adindex.ru/news/right/2026/07/29/347578.phtml
