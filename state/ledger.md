@@ -5,6 +5,12 @@
 
 ## Опубликовано
 
+### 2026-07-29
+- Яндекс объявил финансовые результаты за II квартал 2026 года [10:02 МСК, обязательный слот, 🔥] — https://yandex.ru/company/news/29-07-2026
+- Omnicom отчиталась о росте выручки на 6,1% [10:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/omnicom-85657.html
+- Долг Telegram по штрафам в России приблизился к 38 млн рублей [10:02 МСК, обязательный слот, 🟡] — https://adindex.ru/news/right/2026/07/29/347578.phtml
+- ООО «Ивк Медиа» сменило структуру владения [10:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/ooo-ivk-media-smenilo-strukturu-vladeniya-85655.html
+
 ### 2026-07-28
 - Кукольный театр и ИИ: как оживили героя для кампании Mir Supreme [19:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kukolnyj-teatr-i-ii-85642.html
 - Позиционирование без исследований — коллективная галлюцинация о потребителе [19:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/pozitsionirovanie-bez-issledovanij-kollektivnaya-gallyutsinatsiya-o-potrebitele-85643.html
