@@ -6,6 +6,7 @@
 ## Опубликовано
 
 ### 2026-07-30
+- Павел Дуров внесён в перечень террористов и экстремистов Росфинмониторинга [16:02 МСК, обычный прогон, 🔥] — https://kod.ru/pavel-durov-terrorist-i-ekstremist-rosfinmonitiring
 - Никита Прибыловский возглавил Telega.in [15:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/nikita-pribylovskij-vozglavil-platformu-telega-in-85712.html
 - Только 37% топовых PR-агентств продвигают себя через исследования [15:02 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/07/30/347636.phtml
 - WB Банк даст всем продавцам Wildberries бесплатное обслуживание счёта [15:02 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/wb-bank-budet-besplatno-predostavlyat-vsem-prodavtsam-wildberries-ezhemesyachnoe-obsluzhivanie-scheta/
