@@ -5,6 +5,15 @@
 
 ## Опубликовано
 
+### 2026-07-30
+- Meta увеличила выручку на 28% на фоне роста цен на рекламу [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/meta-uvelichila-vyruchku-na-27-na-fone-rosta-reklamnykh-tsen-i-raskhodov-na-ii-85693.html
+- Китайские компании резко увеличили рекламные бюджеты на российских цифровых платформах [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/kitajskie-kompanii-rezko-uvelichili-reklamnye-byudzhety-na-rossijskikh-tsifrovykh-platformakh-85688.html
+- Маркировка входящих уменьшила число холодных звонков от бизнеса [10:01 МСК, обязательный слот, 🔥] — https://adindex.ru/news/tendencies/2026/07/30/347614.phtml
+- Мошенники с помощью ИИ подделывают рекламные рассылки крупных компаний [10:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/moshenniki-nachali-rassylat-sozdannye-s-pomoshchyu-ii-falshivye-pisma-ot-imeni-krupnykh-kompanij-85695.html
+- Реклама принесла российским музыкальным стримингам лишь 1% выручки [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/researches/2026/07/30/347612.phtml
+- Долги Google в РФ достигли 56 млрд рублей [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/07/30/347613.phtml
+- Власти Австралии возбудили дело против «Телеграма» из-за терроризма [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/right/2026/07/30/347620.phtml
+
 ### 2026-07-29
 - В чате с Алиса AI разместили объявления более 460 000 рекламодателей [18:02 МСК, обычный прогон, 🔥] — https://ppc.world/news/v-chate-s-alisa-ai-razmestili-obyavleniya-bolee-460-000-reklamodateley/
 - P&G реинвестирует в маркетинг, но продажи почти не растут [18:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/p-g-uvelichila-investitsii-v-prodvizhenie-brendov-nesmotrya-na-slabyj-rost-prodazh-85681.html
@@ -122,24 +131,3 @@
 - ЕК оштрафовала Google на 890 млн евро за нарушение закона о цифровых рынках [17:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ek-oshtrafovala-google-na-890-mln-za-narushenie-zakona-o-tsifrovykh-rynkakh-85527.html
 - Match займётся медиасопровождением бренда Gulliver [17:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/match-stalo-mediapartnerom-gulliver-i-zajmetsya-soprovozhdeniem-reklamnykh-kampanij-brenda-85524.html
 - Марина Федункив снялась в рекламе Avito Работы [17:01 МСК, обычный прогон, 🟡] — https://adindex.ru/news/social_advertising/2026/07/23/347463.phtml
-
-### 2026-07-22
-- eLama возглавила рейтинг Adindex среди агрегаторов рекламных сервисов [17:04 МСК, обычный прогон, 🔥] — https://ppc.world/news/liderom-reytinga-agregatorov-reklamnyh-servisov-stala-elama-adindex/
-- Реклама в Telegram Ads подешевела, CTR вырос почти на 30% [17:04 МСК, обычный прогон, 🔥] — https://ppc.world/news/reklama-v-telegram-stala-deshevle-i-effektivnee-analitiki-podveli-itogi-vtorogo-kvartala-2026-goda/
-- Яндекс UrbanAds открыл публичный API [17:04 МСК, обычный прогон, 🔥] — https://ppc.world/news/yandeks-urbanads-otkryl-publichnyy-api-statistiku-bolshe-ne-nuzhno-vygruzhat-vruchnuyu/
-- API Яндекс KITβ — новый инструмент автоматизации для интернет-магазинов [17:04 МСК, обычный прогон, 🔥] — https://yandex.ru/adv/news/api-yandeks-kit-novyj-instrument-dlya-avtomatizaczii-raboty-internet-magazina
-- RWB Media обновила кабинет: агентства сами размещают click-in рекламу селлеров Wildberries [17:04 МСК, обычный прогон, 🔥] — https://ppc.world/news/rwb-media-obnovila-kabinet-teper-agentstva-mogut-razmeschat-click-in-reklamu-dlya-sellerov-wildberries/
-- Госдума приняла закон о штрафах для операторов маркетплейсов [17:04 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/gosduma-prinyala-zakon-o-shtrafakh-dlya-marketplejsov-85489.html
-- Приложения MAX и «ВКонтакте» удалили из российского Google Play [17:04 МСК, обычный прогон, 🟡] — https://ppc.world/news/prilozheniya-maksa-i-vkontakte-udalili-iz-rossiyskogo-google-play/
-- Более половины регионов РФ запустили витрину сервисов в MAX [17:04 МСК, обычный прогон, 🟡] — https://vk.company/ru/press/releases/12362/
-- В Яндексе в 5 раз больше таргетингов для видеорекламы на Connected TV [17:04 МСК, обычный прогон, 🟡] — https://yandex.ru/adv/news/novye-targetingi-dlya-aukcionnoj-videoreklamy-na-connected-tv
-- В Директе можно запускать продвижение через диалог с ИИ-помощником [17:04 МСК, обычный прогон, 🟡] — https://yandex.ru/adv/news/prodvizhenie-v-direct-cherez-dialog-s-ii-pomoshchnikom
-- Реестр .me приостановил домен t.me — короткие ссылки Telegram не открываются [17:04 МСК, обычный прогон, 🟡] — https://likeni.ru/events/reestr-me-priostanovil-rabotu-domena-t-me-korotkie-ssylki-telegram-perestali-otkryvatsya/
-- РСЯ выплатила блогерам 5,3 млрд рублей за три года монетизации каналов [18:01 МСК, обычный прогон, 🔥] — https://ppc.world/news/rsya-vyplatila-blogeram-53-mlrd-rubley-za-tri-goda-monetizacii-kanalov/
-- Бизнес перечислил в бюджет 8,5 млрд рублей за интернет-рекламу [18:01 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/biznes-perechislil-v-byudzhet-8-5-mlrd-rubley-za-internet-reklamu-/
-- Рекламная активность в MAX за первый год выросла более чем в 1300 раз [18:01 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/reklamnaya-aktivnost-v-max-za-pervyy-god-vyrosla-bolee-chem-v-1300-raz-dostignuv-327-3-tysyach-publikatsiy-/
-- Число новых рекламных компаний в России выросло на 68% [18:01 МСК, обычный прогон, 🔥] — https://likeni.ru/events/chislo-novykh-reklamnykh-kompaniy-v-rossii-vyroslo-na-68/
-- WARC: агентный ИИ сильнее всего изменит медиа, ретейл и финансы [18:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/warc-agentnyj-ii-silnee-vsego-izmenit-media-ritejl-i-finansy-85491.html
-- В ФАС разъяснили, считаются ли рекламой карточки и отзывы на маркетплейсах [19:02 МСК, обычный прогон, 🔥] — https://ppc.world/news/v-fas-razyasnili-schitayutsya-li-reklamoy-kartochki-i-otzyvy-na-marketpleysah/
-- Рейтинг «Технологический Индекс»: коллтрекинг [19:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/22/347416.phtml
-- 45% маркетологов считают, что ИИ улучшил качество контента [19:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/07/22/347430.phtml
