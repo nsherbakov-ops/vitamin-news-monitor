@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-07-30
+- Потребители готовы только к качественной ИИ-рекламе [14:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/potrebiteli-gotovy-tolko-k-kachestvennoj-ii-reklame-85707.html
+- В Директе появился динамический коллтрекинг без доплат за интеграции [14:02 МСК, обычный прогон, 🔥] — https://yandex.ru/adv/news/kolltreking-v-direkte
+- Без чего не обойтись при продвижении мобильной игры в RuStore: кейс Bellum Games [14:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kejs-igry-ot-bellum-games-85674.html
+- Доля активных пользователей нейросетей в России достигла 58% [14:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/innovations/2026/07/30/347630.phtml
 - Microsoft увеличила доходы от поисковой рекламы на 10% [13:00 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/microsoft-uvelichila-dokhody-ot-poiskovoj-reklamy-na-10-85701.html
 - Расходы Ozon на продажи и маркетинг в первом полугодии превысили 33 млрд рублей [13:00 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/raskhody-ozon-na-prodazhi-i-marketing-v-pervom-polugodii-prevysili-33-mlrd-rublej-85703.html
 - Рекламодатели из Китая увеличили траты на продвижение в VK Рекламе в 2,7 раза [13:00 МСК, обычный прогон, 🔥] — https://vk.company/ru/press/releases/12370/
