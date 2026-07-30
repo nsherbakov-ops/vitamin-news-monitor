@@ -6,6 +6,11 @@
 ## Опубликовано
 
 ### 2026-07-30
+- Microsoft увеличила доходы от поисковой рекламы на 10% [13:00 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/microsoft-uvelichila-dokhody-ot-poiskovoj-reklamy-na-10-85701.html
+- Расходы Ozon на продажи и маркетинг в первом полугодии превысили 33 млрд рублей [13:00 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/raskhody-ozon-na-prodazhi-i-marketing-v-pervom-polugodii-prevysili-33-mlrd-rublej-85703.html
+- Рекламодатели из Китая увеличили траты на продвижение в VK Рекламе в 2,7 раза [13:00 МСК, обычный прогон, 🔥] — https://vk.company/ru/press/releases/12370/
+- «Игроник» против трендов: рекламный холдинг открывает второй офис в Москве [13:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/igronik-protiv-trendov-85682.html
+- Новости уходят в соцсети: площадки впервые обогнали сайты СМИ по охвату аудитории [13:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/novosti-ukhodyat-v-sotsseti-platformy-vpervye-obognali-sajty-smi-po-okhvatu-auditorii-85696.html
 - «Магнит ADS» удвоила рекламную выручку в первом полугодии 2026 [12:00 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/magnit-ads-udvoila-reklamnuyu-vyruchku-v-pervom-polugodii-2026-goda-85700.html
 - Easy Commerce выяснил, как выбрать площадку между охватом и продажами [12:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/07/30/347621.phtml
 - Минцифры предложило обязать иностранные сервисы авторизовывать россиян по номеру телефона [12:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/mintsifry-predlozhilo-obyazat-inostrannye-servisy-avtorizovyvat-rossiyan-po-nomeru-telefona-85694.html
