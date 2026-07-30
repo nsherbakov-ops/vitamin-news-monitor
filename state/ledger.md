@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-07-30
+- «Магнит» догнал маркетплейсы по рекламным возможностям для FMCG [11:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/magnit-dognal-marketplejsy-po-reklamnym-vozmozhnostyam-dlya-fmcg-85697.html
+- Yandex B2B Tech выпустит универсального ИИ-агента для бизнеса [11:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/yandex-b2b-tech-vypustit-universalnogo-ii-agenta-dlya-biznesa-85698.html
 - Meta увеличила выручку на 28% на фоне роста цен на рекламу [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/meta-uvelichila-vyruchku-na-27-na-fone-rosta-reklamnykh-tsen-i-raskhodov-na-ii-85693.html
 - Китайские компании резко увеличили рекламные бюджеты на российских цифровых платформах [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/kitajskie-kompanii-rezko-uvelichili-reklamnye-byudzhety-na-rossijskikh-tsifrovykh-platformakh-85688.html
 - Маркировка входящих уменьшила число холодных звонков от бизнеса [10:01 МСК, обязательный слот, 🔥] — https://adindex.ru/news/tendencies/2026/07/30/347614.phtml
