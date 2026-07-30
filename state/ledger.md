@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-07-30
+- «Магнит ADS» удвоила рекламную выручку в первом полугодии 2026 [12:00 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/magnit-ads-udvoila-reklamnuyu-vyruchku-v-pervom-polugodii-2026-goda-85700.html
+- Easy Commerce выяснил, как выбрать площадку между охватом и продажами [12:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/07/30/347621.phtml
+- Минцифры предложило обязать иностранные сервисы авторизовывать россиян по номеру телефона [12:00 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/mintsifry-predlozhilo-obyazat-inostrannye-servisy-avtorizovyvat-rossiyan-po-nomeru-telefona-85694.html
+- Брендлокатор. Подрядчиков ищут: Х5, «Магнит», Т2 [12:00 МСК, обычный прогон, 🟡] — https://adindex.ru/news/ek/2026/07/29/347596.phtml
 - «Магнит» догнал маркетплейсы по рекламным возможностям для FMCG [11:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/magnit-dognal-marketplejsy-po-reklamnym-vozmozhnostyam-dlya-fmcg-85697.html
 - Yandex B2B Tech выпустит универсального ИИ-агента для бизнеса [11:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/yandex-b2b-tech-vypustit-universalnogo-ii-agenta-dlya-biznesa-85698.html
 - Meta увеличила выручку на 28% на фоне роста цен на рекламу [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/meta-uvelichila-vyruchku-na-27-na-fone-rosta-reklamnykh-tsen-i-raskhodov-na-ii-85693.html
