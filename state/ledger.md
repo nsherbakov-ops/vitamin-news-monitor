@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-07-30
+- Рекламные доходы Omnicom снизились во втором квартале 2026 года [19:01 МСК, обычный прогон, 🔥] — https://adindex.ru/news/agencies/2026/07/30/347648.phtml
+- Как двухметровый голубь от MAGNIT OMNI украл внимание всей конференции [19:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/zolotaya-semechka-i-dvukhmetrovyj-golub-85716.html
+- 73 миллиона охвата благодаря тюльпанам: как Ozon превратил премьеру фильма в инфоповод [19:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/73-milliona-okhvata-blagodarya-tyulpanam-kak-ozon-prevratil-premeru-filma-v-federalnyj-infopovod-85715.html
+- Подборка тендеров: T2, МТС, «Магнит» и другие [19:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/podborka-tenderov-t2-ozon-mts-i-drugie-85706.html
 - Павел Дуров внесён в перечень террористов и экстремистов Росфинмониторинга [16:02 МСК, обычный прогон, 🔥] — https://kod.ru/pavel-durov-terrorist-i-ekstremist-rosfinmonitiring
 - Никита Прибыловский возглавил Telega.in [15:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/nikita-pribylovskij-vozglavil-platformu-telega-in-85712.html
 - Только 37% топовых PR-агентств продвигают себя через исследования [15:02 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/07/30/347636.phtml
@@ -128,26 +132,3 @@
 - TikTok заявил о рекордном вовлечении аудитории во время ЧМ-2026 [15:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/tiktok-zayavil-o-rekordnom-vovlechenii-auditorii-vo-vremya-chm-2026-85560.html
 - «Газпром-Медиа Холдинг» обновил цифровые активы [15:02 МСК, обязательный слот, 🟡] — https://adindex.ru/news/hr/2026/07/24/347494.phtml
 
-### 2026-07-23
-- Рекламные доходы Google выросли на фоне развития ИИ [10:00 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/reklamnye-dokhody-google-vyrosli-na-fone-razvitiya-ii-85508.html
-- Крупные СМИ рассматривают блокировку Googlebot из-за AI Overviews [10:00 МСК, обязательный слот, 🟡] — https://kod.ru/smi-blokirovka-googlebot-ai-overviews-trafik
-- Лайкни запускает рейтинг Известности SMM-компаний 2026 [10:00 МСК, обязательный слот, 🟡] — https://likeni.ru/events/laykni-zapuskaet-reyting-izvestnosti-smm-kompaniy-2026/
-- В Яндекс Товарах добавили сравнение показателей магазина со средними по рынку [10:00 МСК, обязательный слот, 🟡] — https://yandex.ru/adv/news/v-yandeks-tovarakh-dobavilos-sravnenie-pokazatelej-magazina-so-srednimi-dannymi-po-rynku
-- Директ представил новый тип охватной рекламы «Панорама» [11:02 МСК, обычный прогон, 🔥] — https://ppc.world/news/direkt-predstavil-novyy-tip-ohvatnoy-reklamy-panorama/
-- РСЯ запустила новый формат рекламы Overlay [11:02 МСК, обычный прогон, 🔥] — https://ppc.world/news/rsya-zapuskaet-novyy-format-reklamy-kotoryy-sohranyaet-kontent-zametnym-dlya-polzovatelya/
-- Доходы YouTube от рекламы выросли почти на 13% [11:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/media/2026/07/23/347444.phtml
-- Рейтинг «Технологический Индекс»: Optimization Tools [11:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/digital/2026/07/23/347449.phtml
-- Кейс МТС AdTech, MGCom и 12STOREEZ: снижение стоимости подписчика на 41% [12:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kejs-mts-adtech-mgcom-i-12storeez-85447.html
-- Оригинальные авторы ВКонтакте увеличили доход в партнёрской программе в семь раз [12:01 МСК, обычный прогон, 🟡] — https://likeni.ru/events/originalnye-avtory-vkontakte-uvelichili-dokhod-v-partnerskoy-programme-v-sem-raz/
-- Неочевидные тренды диджитал-маркетинга: куда смотреть B2B [12:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/neochevidnye-trendy-didzhital-marketinga-kuda-smotret-v2v-85500.html
-- Доходы рекламной платформы Яндекс Urban Ads выросли на 21% за год [13:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/ad_budjet/2026/07/23/347454.phtml
-- В Яндекс Директе появилась «Адаптация бюджета» [14:02 МСК, обычный прогон, 🔥] — https://yandex.ru/adv/news/adaptatsiya-byudzheta-novaya-nastrojka
-- Авторы и блогеры запустили 80 тысяч новых каналов в MAX [14:02 МСК, обычный прогон, 🟡] — https://vk.company/ru/press/releases/12367/
-- Исследование: 0,01% компаний заняли треть рынка интернет-рекламы [14:02 МСК, обычный прогон, 🟡] — https://adindex.ru/publication/analitics/search/2026/07/20/347350.phtml
-- E-Retail Media превысит 1,25 трлн рублей к 2027 году [15:01 МСК, обязательный слот, 🔥] — https://www.seonews.ru/events/e-retail-media-prevysit-1-25-trln-rubley-k-2027-godu/
-- SEOnews подвёл итоги рейтинга «SEO глазами клиентов 2026» [15:01 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/seonews-podvel-itogi-masshtabnogo-reytinga-seo-glazami-klientov-2026/
-- Рекламная индустрия США выступила против запрета рекламы вредной еды для детей [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/reklamnaya-industriya-ssha-vystupila-protiv-zapreta-reklamy-vrednoj-edy-dlya-detej-85521.html
-- Михаил Гущин, «Яндекс UrbanAds»: Как расти, когда рынок штормит [17:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/mikhail-gushchin-yandeks-urbanads-kak-rasti-kogda-rynok-shtormit-85515.html
-- ЕК оштрафовала Google на 890 млн евро за нарушение закона о цифровых рынках [17:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ek-oshtrafovala-google-na-890-mln-za-narushenie-zakona-o-tsifrovykh-rynkakh-85527.html
-- Match займётся медиасопровождением бренда Gulliver [17:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/match-stalo-mediapartnerom-gulliver-i-zajmetsya-soprovozhdeniem-reklamnykh-kampanij-brenda-85524.html
-- Марина Федункив снялась в рекламе Avito Работы [17:01 МСК, обычный прогон, 🟡] — https://adindex.ru/news/social_advertising/2026/07/23/347463.phtml
