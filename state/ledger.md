@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-07-30
+- Никита Прибыловский возглавил Telega.in [15:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/nikita-pribylovskij-vozglavil-platformu-telega-in-85712.html
+- Только 37% топовых PR-агентств продвигают себя через исследования [15:02 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/07/30/347636.phtml
+- WB Банк даст всем продавцам Wildberries бесплатное обслуживание счёта [15:02 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/wb-bank-budet-besplatno-predostavlyat-vsem-prodavtsam-wildberries-ezhemesyachnoe-obsluzhivanie-scheta/
+- В России растёт конкуренция за рабочие места в маркетинге, ИТ и финансах [15:02 МСК, обязательный слот, 🟡] — https://www.likeni.ru/events/v-rossii-rastet-konkurentsiya-za-rabochie-mesta-v-marketinge-it-i-finansakh/
 - Потребители готовы только к качественной ИИ-рекламе [14:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/potrebiteli-gotovy-tolko-k-kachestvennoj-ii-reklame-85707.html
 - В Директе появился динамический коллтрекинг без доплат за интеграции [14:02 МСК, обычный прогон, 🔥] — https://yandex.ru/adv/news/kolltreking-v-direkte
 - Без чего не обойтись при продвижении мобильной игры в RuStore: кейс Bellum Games [14:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kejs-igry-ot-bellum-games-85674.html
