@@ -5,6 +5,13 @@
 
 ## Опубликовано
 
+### 2026-07-31
+- VK отчитался о росте числа рекламодателей из Китая почти вдвое [10:00 МСК, обязательный слот, 🔥] — https://adindex.ru/news/tendencies/2026/07/31/347650.phtml
+- Прибыль Meta от рекламы упала на 8% из-за судов и сокращений штата [10:00 МСК, обязательный слот, 🔥] — https://adindex.ru/news/tendencies/2026/07/31/347651.phtml
+- Amazon похвастался ростом выручки от рекламы на 26% [10:00 МСК, обязательный слот, 🔥] — https://adindex.ru/news/tendencies/2026/07/31/347657.phtml
+- SEOnews подвёл итоги рейтинга «SEO глазами клиентов 2026» [10:00 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/seonews-podvel-itogi-masshtabnogo-reytinga-seo-glazami-klientov-2026/
+- Wildberries поставила на паузу инвестпрограмму, сосредоточившись на поддержке продавцов [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/wildberries-postavila-na-pauzu-investprogrammu-sosredotochivshis-na-podderzhke-prodavtsov-85729.html
+
 ### 2026-07-30
 - Рекламные доходы Omnicom снизились во втором квартале 2026 года [19:01 МСК, обычный прогон, 🔥] — https://adindex.ru/news/agencies/2026/07/30/347648.phtml
 - Как двухметровый голубь от MAGNIT OMNI украл внимание всей конференции [19:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/zolotaya-semechka-i-dvukhmetrovyj-golub-85716.html
@@ -117,18 +124,4 @@
 - Каждый рубль машиночитаемый: как «Зерокодер» отдал управление рекламой ИИ-агенту [10:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/kazhdyj-rubl-mashinochitaemyj-kak-zerokoder-otdal-upravlenie-reklamoj-ii-agentu-85530.html
 - Как смартфоны на Android превращают в зомби и донора рекламных показов [10:02 МСК, обязательный слот, 🔥] — https://vc.ru/services/3043738-kak-prilozheniya-na-android-prevrashchayut-smartfony-v-zombi
 - «Черноголовка» опередила Coca-Cola по знанию рекламы в три раза [10:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/chernogolovka-operedila-coca-cola-po-znaniyu-reklamy-v-tri-raza-85562.html
-
-### 2026-07-24
-- Meta обвинили в получении прибыли от мошеннической рекламы [14:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/meta-obvinili-v-poluchenii-pribyli-ot-moshennicheskoj-reklamy-85555.html
-- Как МТС Ads и Papia реализовали Connected TV в канал продаж с помощью Shoppable Ads [12:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kak-mts-ads-premium-video-i-papia-prevratili-connected-tv-v-kanal-prodazh-s-pomoshchyu-shoppable-ads-85525.html
-- Яндекс представил ИИ-хостес — виртуального агента для приёма звонков и бронирований [10:02 МСК, обязательный слот, 🟡] — https://ppc.world/news/yandeks-predstavil-ii-hostes-virtualnogo-agenta-dlya-priema-zvonkov-i-bronirovaniy/
-- В VK AI Space появилась многоуровневая память для корпоративных AI-агентов [10:02 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/v-vk-ai-space-poyavilas-mnogourovnevaya-pamyat-dlya-korporativnykh-ai-agentov/
-- Havas сохранил стабильный рост и улучшил годовой прогноз [10:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/havas-sokhranil-stabilnyj-rost-i-uluchshil-godovoj-prognoz-85539.html
-- Яндекс Директ запустил цифровую наружную рекламу в регионах [11:03 МСК, обычный прогон, 🔥] — https://ppc.world/news/direkt-zapustil-cifrovuyu-naruzhnuyu-reklamu-v-regionah/
-- Perfluence оспаривает штраф за маркировку рекламы [11:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/perfluence-osparivaet-shtraf-za-markirovku-reklamy-85543.html
-- Рейтинг «Технологический Индекс»: инструменты для маркетплейсов [11:03 МСК, обычный прогон, 🟡] — https://adindex.ru/news/digital/2026/07/24/347488.phtml
-- «9 движков» в рекламе платформ для ИИ-видимости — это про какой тариф? [15:02 МСК, обязательный слот, 🟡] — https://vc.ru/services/3044130-dvizhki-v-reklame-platformy-ii-vidimosti-tarify-i-osobennosti
-- Dentsu назвала пожилых потребителей одним из самых перспективных сегментов рынка [15:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/dentsu-nazvala-pozhilykh-potrebitelej-odnim-iz-samykh-perspektivnykh-segmentov-rynka-85557.html
-- TikTok заявил о рекордном вовлечении аудитории во время ЧМ-2026 [15:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/tiktok-zayavil-o-rekordnom-vovlechenii-auditorii-vo-vremya-chm-2026-85560.html
-- «Газпром-Медиа Холдинг» обновил цифровые активы [15:02 МСК, обязательный слот, 🟡] — https://adindex.ru/news/hr/2026/07/24/347494.phtml
 
