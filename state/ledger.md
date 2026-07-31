@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-07-31
+- В Яндекс Ритме появилась настройка географии показов для бизнеса в сфере услуг [17:02 МСК, обычный прогон, 🟡] — https://yandex.ru/adv/news/v-yandeks-ritme-poyavilas-nastrojka-geografii-pokazov-dlya-biznesa-v-sfere-uslug
+- Рекламная выручка Reddit выросла на 64%, но акции упали из-за страха перед ИИ-поиском [17:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/digital/2026/07/31/347665.phtml
 - ChatGPT стал рекламной площадкой для 800 брендов [15:03 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/chatgpt-stal-reklamnoj-ploshchadkoj-dlya-800-brendov-85746.html
 - АКАР и АРИР представили двуязычный Глоссарий ИИ-терминов [15:03 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/akar-i-arir-predstavili-dvuyazychnyy-glossariy-ii-terminov/
 - Претендентами на покупку доли в НСПК стали Wildberries, Ozon, МТС и «Яндекс» [15:03 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/pretendentami-na-pokupku-doli-v-nspk-stali-wildberries-ozon-mts-i-yandeks-85748.html
