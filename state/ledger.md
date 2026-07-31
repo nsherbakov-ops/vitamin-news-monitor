@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-31
+- ФАС завела дело против «Альфа-банка» из-за рекламы ОСАГО [12:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/fas-vozbudila-delo-v-otnoshenii-alfa-banka-iz-za-reklamy-strakhovykh-uslug-85737.html
+- Time начал размещать рекламу специально для ИИ-агентов [12:01 МСК, обычный прогон, 🟡] — https://adindex.ru/news/digital/2026/07/31/347660.phtml
+- Операторы «большой четвёрки» обнулят мобильный трафик для MAX [12:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/operatory-bolshoj-chetv-rki-obnulyat-mobilnyj-trafik-dlya-messendzhera-max-85735.html
 - Wildberries обогнал «Сбер» в рейтинге крупнейших рекламодателей России [11:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/researches/2026/07/31/347658.phtml
 - Рекламодатели из Китая втрое увеличили инвестиции в продвижение приложений через «Яндекс» [11:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/kitajskie-reklamodateli-vtroe-uvelichili-investitsii-v-prodvizhenie-prilozhenij-cherez-yandeks-85731.html
 - В Росфинмониторинге заявили, что ограничения против Дурова не затрагивают Telegram [11:02 МСК, обычный прогон, 🟡] — https://ppc.world/news/v-rosfinmonitoringe-zayavili-chto-ogranicheniya-protiv-durova-ne-zatragivayut-telegram/
