@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-31
+- Wildberries обогнал «Сбер» в рейтинге крупнейших рекламодателей России [11:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/researches/2026/07/31/347658.phtml
+- Рекламодатели из Китая втрое увеличили инвестиции в продвижение приложений через «Яндекс» [11:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/kitajskie-reklamodateli-vtroe-uvelichili-investitsii-v-prodvizhenie-prilozhenij-cherez-yandeks-85731.html
+- В Росфинмониторинге заявили, что ограничения против Дурова не затрагивают Telegram [11:02 МСК, обычный прогон, 🟡] — https://ppc.world/news/v-rosfinmonitoringe-zayavili-chto-ogranicheniya-protiv-durova-ne-zatragivayut-telegram/
 - VK отчитался о росте числа рекламодателей из Китая почти вдвое [10:00 МСК, обязательный слот, 🔥] — https://adindex.ru/news/tendencies/2026/07/31/347650.phtml
 - Прибыль Meta от рекламы упала на 8% из-за судов и сокращений штата [10:00 МСК, обязательный слот, 🔥] — https://adindex.ru/news/tendencies/2026/07/31/347651.phtml
 - Amazon похвастался ростом выручки от рекламы на 26% [10:00 МСК, обязательный слот, 🔥] — https://adindex.ru/news/tendencies/2026/07/31/347657.phtml
