@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-07-31
+- ChatGPT стал рекламной площадкой для 800 брендов [15:03 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/chatgpt-stal-reklamnoj-ploshchadkoj-dlya-800-brendov-85746.html
+- АКАР и АРИР представили двуязычный Глоссарий ИИ-терминов [15:03 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/akar-i-arir-predstavili-dvuyazychnyy-glossariy-ii-terminov/
+- Претендентами на покупку доли в НСПК стали Wildberries, Ozon, МТС и «Яндекс» [15:03 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/pretendentami-na-pokupku-doli-v-nspk-stali-wildberries-ozon-mts-i-yandeks-85748.html
 - Škoda превратила фонетический ликбез в рекламную кампанию [14:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/adyummy/2026/07/31/347664.phtml
 - Конкурс «Клуба Арт-директоров России» объявил состав жюри 22-го сезона [14:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/konkurs-kluba-art-direktorov-rossii-obyavil-sostav-zhyuri-22-go-sezona-85702.html
 - Почему один рекламный канал больше не растит EdTech [14:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/novaya-ekonomika-rosta-kak-edtech-kompanii-masshtabiruyutsya-v-2026-godu-85744.html
