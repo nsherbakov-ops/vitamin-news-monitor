@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-07-31
+- Škoda превратила фонетический ликбез в рекламную кампанию [14:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/adyummy/2026/07/31/347664.phtml
+- Конкурс «Клуба Арт-директоров России» объявил состав жюри 22-го сезона [14:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/konkurs-kluba-art-direktorov-rossii-obyavil-sostav-zhyuri-22-go-sezona-85702.html
+- Почему один рекламный канал больше не растит EdTech [14:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/novaya-ekonomika-rosta-kak-edtech-kompanii-masshtabiruyutsya-v-2026-godu-85744.html
+- Wildberries перевела второй транш выплат пострадавшим продавцам [14:02 МСК, обычный прогон, 🟡] — https://www.seonews.ru/events/wildberries-perevela-vtoroy-transh-vyplat-postradavshim-prodavtsam/
 - ФАС завела дело против «Альфа-банка» из-за рекламы ОСАГО [12:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/fas-vozbudila-delo-v-otnoshenii-alfa-banka-iz-za-reklamy-strakhovykh-uslug-85737.html
 - Time начал размещать рекламу специально для ИИ-агентов [12:01 МСК, обычный прогон, 🟡] — https://adindex.ru/news/digital/2026/07/31/347660.phtml
 - Операторы «большой четвёрки» обнулят мобильный трафик для MAX [12:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/operatory-bolshoj-chetv-rki-obnulyat-mobilnyj-trafik-dlya-messendzhera-max-85735.html
