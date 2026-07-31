@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-07-31
+- Крупнейшие рекламодатели России сократили расходы на продвижение на 11% [18:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/krupneyshie-reklamodateli-rossii-sokratili-raskhody-na-prodvizhenie-na-11/
+- Яндекс выпустил ecom-дайджест новинок для продвижения за II квартал [18:02 МСК, обычный прогон, 🟡] — https://yandex.ru/adv/news/ecom-dajdzhest-glavnye-novinki-vtorogo-kvartala-dlya-effektivnogo-prodvizheniya-i-rosta-prodazh
 - В Яндекс Ритме появилась настройка географии показов для бизнеса в сфере услуг [17:02 МСК, обычный прогон, 🟡] — https://yandex.ru/adv/news/v-yandeks-ritme-poyavilas-nastrojka-geografii-pokazov-dlya-biznesa-v-sfere-uslug
 - Рекламная выручка Reddit выросла на 64%, но акции упали из-за страха перед ИИ-поиском [17:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/digital/2026/07/31/347665.phtml
 - ChatGPT стал рекламной площадкой для 800 брендов [15:03 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/chatgpt-stal-reklamnoj-ploshchadkoj-dlya-800-brendov-85746.html
