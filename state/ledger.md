@@ -10,6 +10,8 @@
 - В Рекламной сети Яндекса запустили формат Overlayβ [10:00 МСК, обязательный слот, 🟡] — https://yandex.ru/adv/news/noviy-format-overlay-v-rsya
 - 92,8% пользователей ChatGPT не переходят на сайты — что это значит для бизнеса на трафике [10:00 МСК, обязательный слот, 🟡] — https://vc.ru/services/3042524-92-8-protsent-polzovateley-chatgpt-ne-perekhodyat-na-sayty
 - Юлия Гарбузова покинула МТС AdTech и переходит в «Альфа-Банк» [11:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/yuliya-garbuzova-pokinula-mts-adtech-i-perekhodit-v-alfa-bank-85759.html
+- IKEA вместо демонстрации товаров разговаривает об эмоциональной связи с домом [12:04 МСК, обычный прогон, 🟡] — https://adindex.ru/news/adyummy/2026/07/31/347678.phtml
+- «Купер» использовал формат городского отдыха для офлайн-коммуникации с аудиторией [12:04 МСК, обычный прогон, 🟡] — https://adindex.ru/news/releases/2026/07/31/347676.phtml
 
 ### 2026-07-31
 - Крупнейшие рекламодатели России сократили расходы на продвижение на 11% [18:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/krupneyshie-reklamodateli-rossii-sokratili-raskhody-na-prodvizhenie-na-11/
