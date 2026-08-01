@@ -5,6 +5,11 @@
 
 ## Опубликовано
 
+### 2026-08-01
+- «Адаптация бюджета» — новая настройка для масштабирования кампаний в Яндекс Директе [10:00 МСК, обязательный слот, 🟡] — https://yandex.ru/adv/news/adaptatsiya-byudzheta-novaya-nastrojka
+- В Рекламной сети Яндекса запустили формат Overlayβ [10:00 МСК, обязательный слот, 🟡] — https://yandex.ru/adv/news/noviy-format-overlay-v-rsya
+- 92,8% пользователей ChatGPT не переходят на сайты — что это значит для бизнеса на трафике [10:00 МСК, обязательный слот, 🟡] — https://vc.ru/services/3042524-92-8-protsent-polzovateley-chatgpt-ne-perekhodyat-na-sayty
+
 ### 2026-07-31
 - Крупнейшие рекламодатели России сократили расходы на продвижение на 11% [18:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/krupneyshie-reklamodateli-rossii-sokratili-raskhody-na-prodvizhenie-na-11/
 - Яндекс выпустил ecom-дайджест новинок для продвижения за II квартал [18:02 МСК, обычный прогон, 🟡] — https://yandex.ru/adv/news/ecom-dajdzhest-glavnye-novinki-vtorogo-kvartala-dlya-effektivnogo-prodvizheniya-i-rosta-prodazh
