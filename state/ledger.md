@@ -5,6 +5,12 @@
 
 ## Опубликовано
 
+### 2026-08-02
+- Хроника блокировки WhatsApp в России: что происходит сегодня, 2 августа [10:00 МСК, обязательный слот, 🟡] — https://hi-tech.mail.ru/news/145604-chto-segodnya-s-whatsapp/
+- Meta признала, что использует ИИ для удержания внимания пользователей соцсетей [10:00 МСК, обязательный слот, 🟡] — https://hi-tech.mail.ru/news/152345-kompaniya-meta-priznalas-chto-ispolzuet-ii-chtoby-lyudi-dolshe-ne-mogli-otorvatsya-ot-socsetej/
+- Dove, K18 и Cif увеличили общие продажи Unilever в первом полугодии [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/marketing/2026/07/31/347679.phtml
+- Главные кадровые переходы: новые назначения в Rostics и «Централ партнершип» [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/hr/2026/07/31/347671.phtml
+
 ### 2026-08-01
 - Число новых рекламных компаний в России выросло на 68% [15:00 МСК, обязательный слот, 🟡] — https://www.likeni.ru/events/chislo-novykh-reklamnykh-kompaniy-v-rossii-vyroslo-na-68/
 - Правительство утвердило список сервисов для обязательной предустановки на 2027 год [15:00 МСК, обязательный слот, 🟡] — https://vc.ru/services/3056535-obyazatelnaya-predustanovka-prilozheniy-na-smartfony-i-pk
@@ -143,13 +149,4 @@
 - Продавцы TikTok Shop столкнулись с конкуренцией со стороны ИИ [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/digital/2026/07/23/347476.phtml
 - Columbia Sportswear предложила отдать компанию тому, кто докажет, что Земля плоская [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/novyj-shrift-coca-cola-sravnili-so-stilem-marlboro-85569.html
 - Okko станет премиальным партнёром футбольного клуба «Спартак» [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/sport/2026/07/24/347513.phtml
-
-### 2026-07-25
-- Пострадавшие продавцы Wildberries получили отсрочку по кредитам от WB Банка [15:02 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/postradavshie-prodavtsy-wildberries-poluchili-otsrochku-po-kreditam-ot-wb-banka-i-zaymam-ot-mkk-wb-finans/
-- Центробанк снизил ключевую ставку до 14% [15:02 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/07/24/347498.phtml
-- CRM-системы: что это и зачем бизнесу [15:02 МСК, обязательный слот, 🟡] — https://vc.ru/services/3043073-chto-takoe-crm-sistema-i-zachem-ona-nuzhna-biznesu
-- Telegram остаётся лидером по числу зарегистрированных рекламных креативов [10:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/telegram-ostaetsya-liderom-po-chislu-zaregistrirovannykh-reklamnykh-kreativov-85565.html
-- Каждый рубль машиночитаемый: как «Зерокодер» отдал управление рекламой ИИ-агенту [10:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/kazhdyj-rubl-mashinochitaemyj-kak-zerokoder-otdal-upravlenie-reklamoj-ii-agentu-85530.html
-- Как смартфоны на Android превращают в зомби и донора рекламных показов [10:02 МСК, обязательный слот, 🔥] — https://vc.ru/services/3043738-kak-prilozheniya-na-android-prevrashchayut-smartfony-v-zombi
-- «Черноголовка» опередила Coca-Cola по знанию рекламы в три раза [10:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/chernogolovka-operedila-coca-cola-po-znaniyu-reklamy-v-tri-raza-85562.html
 
