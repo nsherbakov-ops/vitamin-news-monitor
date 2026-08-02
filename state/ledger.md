@@ -10,6 +10,9 @@
 - Meta признала, что использует ИИ для удержания внимания пользователей соцсетей [10:00 МСК, обязательный слот, 🟡] — https://hi-tech.mail.ru/news/152345-kompaniya-meta-priznalas-chto-ispolzuet-ii-chtoby-lyudi-dolshe-ne-mogli-otorvatsya-ot-socsetej/
 - Dove, K18 и Cif увеличили общие продажи Unilever в первом полугодии [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/marketing/2026/07/31/347679.phtml
 - Главные кадровые переходы: новые назначения в Rostics и «Централ партнершип» [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/hr/2026/07/31/347671.phtml
+- Что происходит с Telegram в России 2 августа [15:04 МСК, обязательный слот, 🟡] — https://hi-tech.mail.ru/news/145611-chto-segodnya-s-telegram/
+- Сбой интернета МТС сегодня, 2 августа [15:04 МСК, обязательный слот, 🟡] — https://hi-tech.mail.ru/news/145491-chto-segodnya-s-mts/
+- Выручка российских музыкальных стримингов выросла на 35% [15:04 МСК, обязательный слот, 🟡] — https://likeni.ru/events/vyruchka-rossiyskikh-muzykalnykh-strimingov-vyrosla-na-35/
 
 ### 2026-08-01
 - Число новых рекламных компаний в России выросло на 68% [15:00 МСК, обязательный слот, 🟡] — https://www.likeni.ru/events/chislo-novykh-reklamnykh-kompaniy-v-rossii-vyroslo-na-68/
@@ -140,13 +143,4 @@
 - 77% россиян поддержали обязательную маркировку ИИ-контента [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/innovations/2026/07/27/347535.phtml
 - Rostic's упаковал наггетсы в брелоки с героями Honkai: Star Rail [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/marketing/2026/07/27/347532.phtml
 - Почему геймификация не продаёт: пять ошибок маркетинга [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/pochemu-gejmifikatsiya-ne-prodaet-pyat-oshibok-marketinga-kotorye-prevrashchayut-igru-v-dorogoj-i-bespoleznyj-spetsproekt-85529.html
-
-### 2026-07-26
-- Зрители стали лояльнее к рекламе в стриминге [19:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/zriteli-stali-loyalnee-k-reklame-v-striminge-85571.html
-- RWB вывела народный флешмоб #КорзинаВБ на экраны по всей России [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/rwb-vyvela-narodnyj-fleshmob-korzinavb-na-ekrany-po-vsej-rossii-85572.html
-- Россияне всё чаще переходят на BiP и KakaoTalk [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/07/24/347486.phtml
-- MAX открыл комментарии в публичных и приватных каналах [15:01 МСК, обязательный слот, 🟡] — https://vk.company/ru/press/releases/12356/
-- Продавцы TikTok Shop столкнулись с конкуренцией со стороны ИИ [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/digital/2026/07/23/347476.phtml
-- Columbia Sportswear предложила отдать компанию тому, кто докажет, что Земля плоская [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/novyj-shrift-coca-cola-sravnili-so-stilem-marlboro-85569.html
-- Okko станет премиальным партнёром футбольного клуба «Спартак» [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/sport/2026/07/24/347513.phtml
 
