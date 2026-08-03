@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-08-03
+- «МегаФон», Т2 и «ВымпелКом» начали блокировать звонки по телефону без маркировки [17:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/right/2026/08/3/347712.phtml
+- Яндекс Пэй запустил чекаут для сайтов интернет-магазинов [17:02 МСК, обычный прогон, 🟡] — https://www.seonews.ru/events/yandeks-pey-zapustil-vozmozhnost-podklyuchit-chekaut-na-sayte-internet-magazina/
 - Обновления кабинета: AI-сегменты от Soloway и товарные баннеры в «WB Медиа» [16:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/marketing/2026/08/3/347711.phtml
 - Мнение рынка: рынок мобильного маркетинга сегодня [16:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/mnenie-rynka-rynok-mobilnogo-marketinga-segodnya-85752.html
 - Маркетологи внедряют ИИ, но успех измеряют кликами [16:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/marketologi-vnedryayut-ii-no-uspekh-izmeryayut-klikami-85799.html
