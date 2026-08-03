@@ -5,6 +5,13 @@
 
 ## Опубликовано
 
+### 2026-08-03
+- В России начали блокировать массовые звонки без маркировки [10:00 МСК, обязательный слот, 🔥] — https://hi-tech.mail.ru/news/152365-v-rossii-nachali-blokirovat-massovye-zvonki-bez-markirovki/
+- «Алису AI» включили в перечень для предустановки [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/golosovogo-pomoshchnika-alisa-ai-vklyuchili-v-perechen-dlya-predustanovki-85766.html
+- LMC и MODULE запустили CMS-платформу MODULE MEDIA для цифровых экранов в ритейле [10:00 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/lmc-i-module-predstavlyayut-sobstvennuyu-cms-platformu-module-media-edinoe-okno-upravleniya-tsifrovymi-ekranami-v-riteyl/
+- JvM Nerd запустил формат брендированных ивентов в Roblox [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/marketing/2026/08/3/347688.phtml
+- Google усложнит установку RuStore-приложений за границей [10:00 МСК, обязательный слот, 🟡] — https://kod.ru/google-verifikaciya-razrabotchikov-rustore-sankcii
+
 ### 2026-08-02
 - Хроника блокировки WhatsApp в России: что происходит сегодня, 2 августа [10:00 МСК, обязательный слот, 🟡] — https://hi-tech.mail.ru/news/145604-chto-segodnya-s-whatsapp/
 - Meta признала, что использует ИИ для удержания внимания пользователей соцсетей [10:00 МСК, обязательный слот, 🟡] — https://hi-tech.mail.ru/news/152345-kompaniya-meta-priznalas-chto-ispolzuet-ii-chtoby-lyudi-dolshe-ne-mogli-otorvatsya-ot-socsetej/
