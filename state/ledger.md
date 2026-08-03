@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-08-03
+- Издатели потеряли 34% трафика за год из-за ИИ-режима Google [14:03 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/izdateli-poteryali-34-trafika-za-god-iz-za-ii-rezhima-google/
+- Кейс E-Promo и «Отелло»: как ИИ-офферы и кастом-фиды увеличили трафик и брони без слома CPO [14:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kejs-e-promo-i-otello-kak-ii-generatsiya-oferov-i-kastomnye-fidy-kratno-uvelichili-trafik-i-broni-bez-sloma-cpo-85774.html
+- Экс-топ-менеджер Яндекса Артём Хохлов возглавил рекламное направление в Альфа-Банке [14:03 МСК, обычный прогон, 🟡] — https://adindex.ru/news/hr/2026/08/3/347697.phtml
+- Бренды устроили битву креатива за бесплатное место на карте Blink [14:03 МСК, обычный прогон, 🟡] — https://adindex.ru/news/adyummy/2026/08/3/347705.phtml
 - «Магнит ADS» расширила сеть цифровых фасадных экранов до 1300 поверхностей [13:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/magnit-ads-rasshiril-set-tsifrovykh-fasadnykh-ekranov-do-1300-poverkhnostej-85781.html
 - Расходы «Ленты» на рекламу превысили 5,5 млрд рублей в первом полугодии [13:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/raskhody-lenty-na-reklamu-prevysili-5-5-mlrd-rublej-v-pervom-polugodii-85783.html
 - «ВкусВилл» первым в России забрендировал потолки в вагонах метро [13:03 МСК, обычный прогон, 🟡] — https://adindex.ru/news/ooh/2026/08/3/347700.phtml
@@ -140,23 +144,4 @@
 - Зарубежные разработчики игр утроили расходы на рекламу в RuStore [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/zarubezhnye-razrabotchiki-igr-utroili-raskhody-na-reklamu-v-rustore-85608.html
 - «Бургер Кинг» зовёт бумеров в фастфуд через рекламу Boomer King [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/marketing/2026/07/28/347552.phtml
 - Объём трансграничной онлайн-торговли вырос на 40% в первом полугодии [10:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/obem-transgranichnoj-onlajn-torgovli-vyros-na-40-v-pervom-polugodii-85612.html
-
-### 2026-07-27
-- Иностранные компании вдвое увеличили вложения в рекламу мобильных приложений на «Яндексе» [19:01 МСК, обычный прогон, 🔥] — https://adindex.ru/news/digital/2026/07/27/347542.phtml
-- «RWB Медиа» запустила меры поддержки селлеров в продвижении на Wildberries [19:01 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/rwb-media-obyavila-o-zapuske-mer-podderzhki-sellerov-v-chasti-prodvizheniya-85605.html
-- Песков: Россия продолжает контакты с Telegram по восстановлению доступа [19:01 МСК, обычный прогон, 🟡] — https://kod.ru/peskov-telegram-dostup
-- Google обжаловала взыскание 160,3 млрд рублей в пользу российского ООО «Гугл» [16:01 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/google-obzhalovala-vzyskanie-160-3-mlrd-rublej-v-polzu-rossijskogo-ooo-gugl-85597.html
-- Яндекс Метрика и AppMetrica подтвердили сертификаты ISO 27001 и 27701 [16:01 МСК, обычный прогон, 🟡] — https://yandex.ru/adv/news/metrika-appmetrica-iso-27001-27701
-- Kokoc Group выяснила, как россияне распознают ИИ-контент [14:00 МСК, обычный прогон, 🔥] — https://hi-tech.mail.ru/news/151985-ai-content-recognition-kokoc-research/
-- MAX запустил истории для Android [14:00 МСК, обычный прогон, 🟡] — https://vk.company/ru/press/releases/12368/
-- Истории ВКонтакте смотрит каждый второй пользователь Рунета [14:00 МСК, обычный прогон, 🟡] — https://likeni.ru/events/istorii-vkontakte-smotrit-kazhdyy-vtoroy-polzovatel-runeta/
-- Telegram остался лидером по числу зарегистрированных рекламных креативов во II квартале 2026 года [11:03 МСК, обычный прогон, 🟡] — https://ppc.world/news/telegram-ostalsya-liderom-po-chislu-zaregistrirovannyh-reklamnyh-kreativov-vo-vtorom-kvartale-2026-goda/
-- i.com потребовало с «ФармОушен Трейд» 4,5 млн рублей за рекламные услуги [11:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/i-com-potrebovalo-s-farmoushen-trejd-4-5-mln-rublej-za-reklamnye-uslugi-85585.html
-- Путин подписал первый в истории России закон об ИИ [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/right/2026/07/27/347516.phtml
-- RWB перенесла народную акцию #корзинавб в наружную рекламу [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/social_advertising/2026/07/27/347517.phtml
-- Россияне назвали маркетологов главными помощниками брендов [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/researches/2026/07/27/347525.phtml
-- 55% рекламодателей готовы увеличить вложения в интерактивную рекламу при снижении ставки ЦБ [15:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/bolje-poloviny-reklamodatelej-gotovy-uvelichit-investitsii-v-interaktivnuyu-reklamu-pri-snizhenii-klyuchevoj-stavki-85596.html
-- 77% россиян поддержали обязательную маркировку ИИ-контента [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/innovations/2026/07/27/347535.phtml
-- Rostic's упаковал наггетсы в брелоки с героями Honkai: Star Rail [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/marketing/2026/07/27/347532.phtml
-- Почему геймификация не продаёт: пять ошибок маркетинга [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/pochemu-gejmifikatsiya-ne-prodaet-pyat-oshibok-marketinga-kotorye-prevrashchayut-igru-v-dorogoj-i-bespoleznyj-spetsproekt-85529.html
 
