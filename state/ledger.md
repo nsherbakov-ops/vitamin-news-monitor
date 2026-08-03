@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-08-03
+- Go Ahead вложилась в платформу для авторов коротких видео VibeVO [11:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/go-ahead-vlozhilas-v-platformu-dlya-raboty-s-avtorami-korotkikh-video-vibevo-85777.html
+- Roblox обновил рекорд аудитории и готовит рекламный формат в ленте «Моменты» [11:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/roblox-dostig-rekorda-po-auditorii-85776.html
+- Россияне чаще дробят покупки и активнее ищут скидки на маркетплейсах [11:01 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/08/3/347693.phtml
 - В России начали блокировать массовые звонки без маркировки [10:00 МСК, обязательный слот, 🔥] — https://hi-tech.mail.ru/news/152365-v-rossii-nachali-blokirovat-massovye-zvonki-bez-markirovki/
 - «Алису AI» включили в перечень для предустановки [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/golosovogo-pomoshchnika-alisa-ai-vklyuchili-v-perechen-dlya-predustanovki-85766.html
 - LMC и MODULE запустили CMS-платформу MODULE MEDIA для цифровых экранов в ритейле [10:00 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/lmc-i-module-predstavlyayut-sobstvennuyu-cms-platformu-module-media-edinoe-okno-upravleniya-tsifrovymi-ekranami-v-riteyl/
