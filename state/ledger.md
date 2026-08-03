@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-08-03
+- Обновления кабинета: AI-сегменты от Soloway и товарные баннеры в «WB Медиа» [16:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/marketing/2026/08/3/347711.phtml
+- Мнение рынка: рынок мобильного маркетинга сегодня [16:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/mnenie-rynka-rynok-mobilnogo-marketinga-segodnya-85752.html
+- Маркетологи внедряют ИИ, но успех измеряют кликами [16:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/marketologi-vnedryayut-ii-no-uspekh-izmeryayut-klikami-85799.html
+- На рынок медиа вышел холдинг «М.1» [16:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/na-rynok-media-vyshel-kholding-m-1-85800.html
 - Header bidding vs прямой код Яндекса: как разные схемы монетизации влияют на доход паблишера [15:00 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/header-bidding-vs-pryamoj-kod-yandeksa-kak-raznye-skhemy-monetizatsii-vliyayut-na-dokhod-pablishera-85753.html
 - Subway выбрал агентство, которое пришло на тендер только с одной идеей [15:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/subway-vybral-agentstvo-kotoroe-prishlo-na-tender-tolko-s-odnoj-ideej-85795.html
 - 32% опрошенных россиян сократили расходы на покупки с помощью ИИ [15:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/32-oproshennykh-rossiyan-sokratili-raskhody-na-pokupki-s-pomoshchyu-ii-85797.html
