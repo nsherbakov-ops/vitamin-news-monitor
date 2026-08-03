@@ -6,6 +6,12 @@
 ## Опубликовано
 
 ### 2026-08-03
+- «Магнит ADS» расширила сеть цифровых фасадных экранов до 1300 поверхностей [13:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/magnit-ads-rasshiril-set-tsifrovykh-fasadnykh-ekranov-do-1300-poverkhnostej-85781.html
+- Расходы «Ленты» на рекламу превысили 5,5 млрд рублей в первом полугодии [13:03 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/raskhody-lenty-na-reklamu-prevysili-5-5-mlrd-rublej-v-pervom-polugodii-85783.html
+- «ВкусВилл» первым в России забрендировал потолки в вагонах метро [13:03 МСК, обычный прогон, 🟡] — https://adindex.ru/news/ooh/2026/08/3/347700.phtml
+- Max договорился с операторами об отмене расхода трафика на мессенджер [13:03 МСК, обычный прогон, 🟡] — https://vc.ru/services/3055176-max-i-mobilnye-operatory-dogovorilis-ob-ispolzovanii-messendzhera
+- API Яндекс KIT — новый инструмент для автоматизации интернет-магазина [13:03 МСК, обычный прогон, 🟡] — https://yandex.ru/adv/news/api-yandeks-kit-novyj-instrument-dlya-avtomatizaczii-raboty-internet-magazina
+- Авторы и блогеры запустили 80 тысяч новых каналов в MAX [13:03 МСК, обычный прогон, 🟡] — https://vk.company/ru/press/releases/12367/
 - Go Ahead вложилась в платформу для авторов коротких видео VibeVO [11:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/go-ahead-vlozhilas-v-platformu-dlya-raboty-s-avtorami-korotkikh-video-vibevo-85777.html
 - Roblox обновил рекорд аудитории и готовит рекламный формат в ленте «Моменты» [11:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/roblox-dostig-rekorda-po-auditorii-85776.html
 - Россияне чаще дробят покупки и активнее ищут скидки на маркетплейсах [11:01 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/08/3/347693.phtml
