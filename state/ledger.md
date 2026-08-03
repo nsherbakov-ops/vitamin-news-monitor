@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-08-03
+- Header bidding vs прямой код Яндекса: как разные схемы монетизации влияют на доход паблишера [15:00 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/header-bidding-vs-pryamoj-kod-yandeksa-kak-raznye-skhemy-monetizatsii-vliyayut-na-dokhod-pablishera-85753.html
+- Subway выбрал агентство, которое пришло на тендер только с одной идеей [15:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/subway-vybral-agentstvo-kotoroe-prishlo-na-tender-tolko-s-odnoj-ideej-85795.html
+- 32% опрошенных россиян сократили расходы на покупки с помощью ИИ [15:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/32-oproshennykh-rossiyan-sokratili-raskhody-na-pokupki-s-pomoshchyu-ii-85797.html
+- Рост российского EdTech замедлился до минимальных значений за последние годы [15:00 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/rost-rossiyskogo-edtech-zamedlilsya-do-minimalnykh-znacheniy-za-poslednie-gody/
 - Издатели потеряли 34% трафика за год из-за ИИ-режима Google [14:03 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/izdateli-poteryali-34-trafika-za-god-iz-za-ii-rezhima-google/
 - Кейс E-Promo и «Отелло»: как ИИ-офферы и кастом-фиды увеличили трафик и брони без слома CPO [14:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kejs-e-promo-i-otello-kak-ii-generatsiya-oferov-i-kastomnye-fidy-kratno-uvelichili-trafik-i-broni-bez-sloma-cpo-85774.html
 - Экс-топ-менеджер Яндекса Артём Хохлов возглавил рекламное направление в Альфа-Банке [14:03 МСК, обычный прогон, 🟡] — https://adindex.ru/news/hr/2026/08/3/347697.phtml
