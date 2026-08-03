@@ -6,6 +6,7 @@
 ## Опубликовано
 
 ### 2026-08-03
+- ФАС возбудила дело в отношении Apple за непредустановку мессенджера «Макс» на iOS-устройства [18:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/fas-vozbudila-delo-v-otnoshenii-apple-za-nepredustanovku-messendzhera-maks-na-ios-ustrojstva-85805.html
 - «МегаФон», Т2 и «ВымпелКом» начали блокировать звонки по телефону без маркировки [17:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/right/2026/08/3/347712.phtml
 - Яндекс Пэй запустил чекаут для сайтов интернет-магазинов [17:02 МСК, обычный прогон, 🟡] — https://www.seonews.ru/events/yandeks-pey-zapustil-vozmozhnost-podklyuchit-chekaut-na-sayte-internet-magazina/
 - Обновления кабинета: AI-сегменты от Soloway и товарные баннеры в «WB Медиа» [16:02 МСК, обычный прогон, 🔥] — https://adindex.ru/news/marketing/2026/08/3/347711.phtml
