@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-08-04
+- Как «Нетология» превратила обучение в шопинг: кейс воронки от бесплатных скиллов до выручки [17:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/netologiya-prevratila-obuchenie-v-shoping-kak-kompaniya-postroila-voronku-ot-besplatnykh-skilov-do-vyruchki-v-4-mln-rublej-85834.html
+- Портал в дополненную реальность: как PresiDENT и «Карусель» создали AR-мир Рыцаря Фторида [17:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/portal-v-dopolnennuyu-realnost-kak-president-i-karusel-sozdali-ar-mir-rytsarya-ftorida-85837.html
+- БДД 2026 (ex Baltic Digital Days) представил полную программу конференции [17:03 МСК, обычный прогон, 🟡] — https://adindex.ru/news/releases/2026/07/30/347625.phtml
 - Рекламная платформа требует с Google компенсацию за потерю 6,9 трлн рекламных показов [15:03 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/reklamnaya-platforma-trebuet-s-google-kompensatsiyu-za-poteryu-6-9-trln-reklamnykh-pokazov-85831.html
 - PR перестал быть витриной: как российский B2B меняет подход к коммуникациям в 2026 [15:03 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/pr-perestal-byt-vitrinoj-kak-rossijskij-b2b-menyaet-podkhod-k-kommunikatsiyam-v-2026-85667.html
 - UFC заработал 1 млрд долларов от рекламы турнира в Белом доме [15:03 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/08/4/347730.phtml
