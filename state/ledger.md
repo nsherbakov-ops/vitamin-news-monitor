@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-08-04
+- «Билайн Adtech» расширяет сеть Digital Indoor за счёт салонов «Пальчики» [13:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/bilajn-adtech-rasshiryaet-set-digital-indoor-85780.html
+- Александр Папков: большой разговор о трансформации рекламного рынка [13:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/aleksandr-papkov-bolshoj-razgovor-o-transformatsii-reklamnogo-rynka-85796.html
+- Adidas потратила более $1 млрд на маркетинг за квартал [13:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/adidas-potratila-bolee-1-mlrd-na-marketing-za-kvartal-85825.html
 - IAB представила стандарт оценки видимости брендов в поиске с ИИ [12:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/iab-predstavila-standart-otsenki-vidimosti-brendov-v-poiske-s-ii-85821.html
 - VK подвела итоги работы Discovery-платформы за первое полугодие 2026 года [12:02 МСК, обычный прогон, 🔥] — https://vk.company/ru/press/releases/12374/
 - Amazon ответит в суде за рекламу морепродуктов [12:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/right/2026/08/4/347733.phtml
@@ -150,23 +153,4 @@
 - Omnicom отчиталась о росте выручки на 6,1% [10:02 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/omnicom-85657.html
 - Долг Telegram по штрафам в России приблизился к 38 млн рублей [10:02 МСК, обязательный слот, 🟡] — https://adindex.ru/news/right/2026/07/29/347578.phtml
 - ООО «Ивк Медиа» сменило структуру владения [10:02 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/ooo-ivk-media-smenilo-strukturu-vladeniya-85655.html
-
-### 2026-07-28
-- Кукольный театр и ИИ: как оживили героя для кампании Mir Supreme [19:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kukolnyj-teatr-i-ii-85642.html
-- Позиционирование без исследований — коллективная галлюцинация о потребителе [19:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/pozitsionirovanie-bez-issledovanij-kollektivnaya-gallyutsinatsiya-o-potrebitele-85643.html
-- От тренда к первому урожаю: как «Профи.ру» запустил проект для начинающих дачников [19:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ot-trenda-k-pervomu-urozhayu-kak-profi-ru-zapustil-proekt-dlya-nachinayushchikh-dachnikov-85648.html
-- Одно объявление — разные формулировки [17:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/odno-obyavlenie-raznye-formulirovki-85639.html
-- От кросс-девайса к измерению: пять идей, которые рынок adtech уже перерос [16:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ot-kross-devajsa-k-izmereniyu-pyat-idej-kotorye-rynok-adtech-uzhe-pereros-85595.html
-- Запасной аэродром, который может стать основным: как блогеры осваивают «Макс» [16:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/zapasnoj-aerodrom-kotoryj-mozhet-stat-osnovnym-kak-blogery-osvaivayut-maks-85632.html
-- Исследователи научили рекомендательные алгоритмы ВКонтакте учитывать будущие интересы пользователей [16:01 МСК, обычный прогон, 🟡] — https://vk.company/ru/press/releases/12369/
-- Пользователи ВКонтакте оформили 4 млн заказов из шопсов за полгода [16:01 МСК, обычный прогон, 🟡] — https://likeni.ru/events/polzovateli-vkontakte-oformili-4-mln-zakazov-iz-shopsov-za-polgoda/
-- 99% британских рекламодателей используют генеративный ИИ [15:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/99-britanskikh-reklamodatelej-ispolzuyut-generativnyj-ii-85634.html
-- «Зенит» возглавил топ футбольных рекламодателей в наружке [15:01 МСК, обязательный слот, 🔥] — https://adindex.ru/news/tendencies/2026/07/28/347570.phtml
-- Селлеры Wildberries получили первые поддерживающие выплаты, а на Ozon растёт цена страховки [15:01 МСК, обязательный слот, 🟡] — https://ppc.world/news/sellery-wildberries-poluchili-pervye-podderzhivayuschie-vyplaty-a-na-ozon-sohranyaetsya-strahovka-tovarov-no-podnimaetsya-ee-stoimost/
-- Brand Analytics назвал главные эмоции пиарщиков [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/07/28/347561.phtml
-- Новая природа вирусности: от сарафанного радио к алгоритмическому отбору [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/novaya-priroda-virusnosti-ot-sarafannogo-radio-k-algoritmicheskomu-otboru-85619.html
-- Havas получил крупный медиа-аккаунт Skechers [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/havas-poluchil-krupnyj-media-akkaunt-skechers-85613.html
-- Зарубежные разработчики игр утроили расходы на рекламу в RuStore [10:01 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/zarubezhnye-razrabotchiki-igr-utroili-raskhody-na-reklamu-v-rustore-85608.html
-- «Бургер Кинг» зовёт бумеров в фастфуд через рекламу Boomer King [10:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/marketing/2026/07/28/347552.phtml
-- Объём трансграничной онлайн-торговли вырос на 40% в первом полугодии [10:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/obem-transgranichnoj-onlajn-torgovli-vyros-na-40-v-pervom-polugodii-85612.html
 
