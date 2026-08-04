@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-08-04
+- Путин подписал закон о штрафах для операторов цифровых платформ [19:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/putin-podpisal-zakon-o-shtrafakh-dlya-operatorov-tsifrovykh-platform-85847.html
+- Чему бренды учит реклама вокруг Чемпионата мира по футболу [19:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kak-brendam-ispolzovat-bolshie-infopovody-85841.html
+- «ЛАБ Индастриз» разработала два визуальных мира для новинок бренда [19:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/lab-indastriz-vibrissa-i-postpro18-85801.html
 - Как «Нетология» превратила обучение в шопинг: кейс воронки от бесплатных скиллов до выручки [17:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/netologiya-prevratila-obuchenie-v-shoping-kak-kompaniya-postroila-voronku-ot-besplatnykh-skilov-do-vyruchki-v-4-mln-rublej-85834.html
 - Портал в дополненную реальность: как PresiDENT и «Карусель» создали AR-мир Рыцаря Фторида [17:03 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/portal-v-dopolnennuyu-realnost-kak-president-i-karusel-sozdali-ar-mir-rytsarya-ftorida-85837.html
 - БДД 2026 (ex Baltic Digital Days) представил полную программу конференции [17:03 МСК, обычный прогон, 🟡] — https://adindex.ru/news/releases/2026/07/30/347625.phtml
