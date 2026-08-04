@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-08-04
+- Рекламная платформа требует с Google компенсацию за потерю 6,9 трлн рекламных показов [15:03 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/reklamnaya-platforma-trebuet-s-google-kompensatsiyu-za-poteryu-6-9-trln-reklamnykh-pokazov-85831.html
+- PR перестал быть витриной: как российский B2B меняет подход к коммуникациям в 2026 [15:03 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/pr-perestal-byt-vitrinoj-kak-rossijskij-b2b-menyaet-podkhod-k-kommunikatsiyam-v-2026-85667.html
+- UFC заработал 1 млрд долларов от рекламы турнира в Белом доме [15:03 МСК, обязательный слот, 🟡] — https://adindex.ru/news/tendencies/2026/08/4/347730.phtml
+- Исповедь маркетолога: о сущности роли CMO [15:03 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/ispoved-marketologa-o-sushchnosti-roli-smo-85807.html
 - Telegram объяснил, почему пропадал из App Store [14:04 МСК, обычный прогон, 🟡] — https://kod.ru/elegram-says-app-restored-apples-app-store
 - Роскомнадзор заблокировал в июле 2,5 тысячи фишинговых ресурсов [14:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/roskomnadzor-zablokiroval-v-iyule-2-5-tysyachi-fishingovykh-resursov-85824.html
 - Каждый третий совершает покупки по рекомендациям блогеров [14:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kazhdyj-tretij-sovershaet-pokupki-po-rekomendatsiyam-avtorov-85827.html
