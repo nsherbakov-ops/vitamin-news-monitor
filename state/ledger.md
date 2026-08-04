@@ -6,6 +6,11 @@
 ## Опубликовано
 
 ### 2026-08-04
+- IAB представила стандарт оценки видимости брендов в поиске с ИИ [12:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/iab-predstavila-standart-otsenki-vidimosti-brendov-v-poiske-s-ii-85821.html
+- VK подвела итоги работы Discovery-платформы за первое полугодие 2026 года [12:02 МСК, обычный прогон, 🔥] — https://vk.company/ru/press/releases/12374/
+- Amazon ответит в суде за рекламу морепродуктов [12:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/right/2026/08/4/347733.phtml
+- Минцифры предложило создать единый сервис для согласий на обработку персональных данных [12:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/mintsifry-predlozhilo-sozdat-edinuyu-platformu-dlya-upravleniya-soglasiyami-na-obrabotku-personalnykh-dannykh-85823.html
+- Ozon тестирует ИИ-ассистента для подбора товаров [12:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ozon-nachal-testirovat-ii-assistenta-dlya-podbora-tovarov-85819.html
 - Кейс «Совкомбанк» и icontext: «Макс» как источник лидов для инвестпродуктов [10:00 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/sovkombank-i-icontext-85794.html
 - В Яндекс Ритме появилась настройка географии показов для локального бизнеса [10:00 МСК, обязательный слот, 🔥] — https://ppc.world/news/v-yandeks-ritme-poyavilas-nastroyka-geografii-pokazov-dlya-lokalnogo-biznesa-v-sfere-uslug/
 - Amazon обвинили в недостоверной рекламе экологичных продуктов [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/amazon-obvinili-v-nedostovernoj-reklame-ekologichnykh-produktov-85814.html
