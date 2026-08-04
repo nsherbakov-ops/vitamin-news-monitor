@@ -6,6 +6,12 @@
 ## Опубликовано
 
 ### 2026-08-04
+- Telegram объяснил, почему пропадал из App Store [14:04 МСК, обычный прогон, 🟡] — https://kod.ru/elegram-says-app-restored-apples-app-store
+- Роскомнадзор заблокировал в июле 2,5 тысячи фишинговых ресурсов [14:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/roskomnadzor-zablokiroval-v-iyule-2-5-tysyachi-fishingovykh-resursov-85824.html
+- Каждый третий совершает покупки по рекомендациям блогеров [14:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kazhdyj-tretij-sovershaet-pokupki-po-rekomendatsiyam-avtorov-85827.html
+- ИИ-блогеры догоняют инфлюенсеров по вовлечённости, но 40% проектов быстро закрываются [14:04 МСК, обычный прогон, 🟡] — https://ppc.world/news/ii-blogery-dogonyayut-inflyuenserov-po-vovlechennosti-no-40-proektov-bystro-zakryvayutsya/
+- Доверие стало новой валютой B2B-маркетинга — исследование Ipsos и LinkedIn [14:04 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/08/4/347736.phtml
+- Аудитория Rutube в 15 крупнейших регионах РФ превысила 70% [14:04 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/08/4/347723.phtml
 - «Билайн Adtech» расширяет сеть Digital Indoor за счёт салонов «Пальчики» [13:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/bilajn-adtech-rasshiryaet-set-digital-indoor-85780.html
 - Александр Папков: большой разговор о трансформации рекламного рынка [13:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/aleksandr-papkov-bolshoj-razgovor-o-transformatsii-reklamnogo-rynka-85796.html
 - Adidas потратила более $1 млрд на маркетинг за квартал [13:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/adidas-potratila-bolee-1-mlrd-na-marketing-za-kvartal-85825.html
