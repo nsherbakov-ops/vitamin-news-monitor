@@ -5,6 +5,14 @@
 
 ## Опубликовано
 
+### 2026-08-04
+- Кейс «Совкомбанк» и icontext: «Макс» как источник лидов для инвестпродуктов [10:00 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/sovkombank-i-icontext-85794.html
+- В Яндекс Ритме появилась настройка географии показов для локального бизнеса [10:00 МСК, обязательный слот, 🔥] — https://ppc.world/news/v-yandeks-ritme-poyavilas-nastroyka-geografii-pokazov-dlya-lokalnogo-biznesa-v-sfere-uslug/
+- Amazon обвинили в недостоверной рекламе экологичных продуктов [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/amazon-obvinili-v-nedostovernoj-reklame-ekologichnykh-produktov-85814.html
+- Российская «дочка» Google добивается взыскания 10 млрд рублей через суды 10 стран [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/rossijskaya-dochka-google-dobivaetsya-vzyskaniya-10-mlrd-rublej-cherez-sudy-desyati-stran-85816.html
+- Telegram пропал из App Store [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/telegram-propal-iz-app-store-85809.html
+- Метрика и AppMetrica снова прошли международную сертификацию по информационной безопасности [10:00 МСК, обязательный слот, 🟡] — https://yandex.ru/adv/news/metrika-appmetrica-iso-27001-27701
+
 ### 2026-08-03
 - Наталья Полковникова возглавила коммерческий блок «билайн Adtech» вместо Дианы Забелиной [19:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/hr/2026/08/3/347717.phtml
 - ФАС возбудила дело в отношении Apple за непредустановку мессенджера «Макс» на iOS-устройства [18:02 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/fas-vozbudila-delo-v-otnoshenii-apple-za-nepredustanovku-messendzhera-maks-na-ios-ustrojstva-85805.html
