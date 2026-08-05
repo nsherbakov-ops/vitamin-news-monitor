@@ -6,6 +6,8 @@
 ## Опубликовано
 
 ### 2026-08-05
+- Автобренды на радио: рынок вышел из фазы роста [11:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/avtobrendy-na-radio-rynok-vyshel-iz-fazy-rosta-85858.html
+- IP как новый актив бренда: зачем компаниям создавать свои миры и героев [11:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ip-kak-novyj-aktiv-brenda-zachem-kompaniyam-sozdavat-svoi-miry-i-geroev-85846.html
 - Pinterest нарастила рекламную выручку [10:03 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/pinterest-narastila-reklamnuyu-vyruchku-85852.html
 - Discovery-платформа VK увеличила число целевых действий в CPC-кампаниях на 56% [10:03 МСК, обязательный слот, 🔥] — https://ppc.world/news/discovery-platforma-vk-uvelichila-chislo-celevyh-deystviy-v-cpc-kampaniyah-na-56/
 - Большинство россиян не совершают действий после просмотра интересной рекламы [10:03 МСК, обязательный слот, 🟡] — https://adindex.ru/news/researches/2026/08/5/347769.phtml
