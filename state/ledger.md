@@ -6,6 +6,7 @@
 ## Опубликовано
 
 ### 2026-08-05
+- Что нового в Яндекс Метрике и Тег Менеджере: главное для специалистов по продвижению и аналитике [13:00 МСК, обычный прогон, 🔥] — https://yandex.ru/adv/news/obnovleniya-metriki-i-teg-menedzhere
 - Adfox обновил маркировку рекламы под API v8 ЕРИР [12:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/adfox-obnovil-interfeys-markirovki-reklamy-v-svyazi-s-perekhodom-na-api-v8-ot-erir/
 - Путин подписал закон о штрафах для маркетплейсов и сервисов доставки [12:02 МСК, обычный прогон, 🟡] — https://ppc.world/news/putin-podpisal-zakon-o-shtrafah-dlya-marketpleysov-i-servisov-dostavki/
 - TikTok обновил ИИ-модель и расширил функции для рекламодателей [12:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/digital/2026/08/5/347778.phtml
