@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-08-05
+- Sony может начать продавать рекламу в PlayStation [19:01 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/08/5/347797.phtml
+- «Дзен» рассказал, как россияне выбирают авторов для подписки [19:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/dzen-rasskazal-kak-rossiyane-vybirayut-avtorov-dlya-podpiski-85882.html
+- Банк Banco Pichincha превратил фамилии футболистов в «ненадёжные пароли» [19:01 МСК, обычный прогон, 🟡] — https://adindex.ru/news/sport/2026/08/5/347796.phtml
 - BMW показала рекламу «Человека-паука» на экранах автомобилей — владельцы возмущены [17:04 МСК, обычный прогон, 🟡] — https://hi-tech.mail.ru/news/152609-bmw-razmestila-reklamu-chelovekapauka-na-ekranah-novyh-avtomobilej/
 - «Яндекс Маркет» превратил наружную рекламу в реалити с участием пользователей [17:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kak-polzovateli-marketplejsa-stali-geroyami-realiti-v-naruzhnoj-reklame-85865.html
 - Каждый третий покупатель уходит с сайта на этапе просмотра карточки товара [17:04 МСК, обычный прогон, 🟡] — https://adindex.ru/news/hr/2026/08/5/347792.phtml
