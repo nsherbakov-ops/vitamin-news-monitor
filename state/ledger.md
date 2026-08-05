@@ -6,6 +6,9 @@
 ## Опубликовано
 
 ### 2026-08-05
+- BMW показала рекламу «Человека-паука» на экранах автомобилей — владельцы возмущены [17:04 МСК, обычный прогон, 🟡] — https://hi-tech.mail.ru/news/152609-bmw-razmestila-reklamu-chelovekapauka-na-ekranah-novyh-avtomobilej/
+- «Яндекс Маркет» превратил наружную рекламу в реалити с участием пользователей [17:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/kak-polzovateli-marketplejsa-stali-geroyami-realiti-v-naruzhnoj-reklame-85865.html
+- Каждый третий покупатель уходит с сайта на этапе просмотра карточки товара [17:04 МСК, обычный прогон, 🟡] — https://adindex.ru/news/hr/2026/08/5/347792.phtml
 - Брендлокатор: тендеры ищут «Зенит», СДЭК и НСПК [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/ek/2026/08/5/347787.phtml
 - Каждый четвёртый пользователь отписывается от блогеров из-за навязчивой рекламы [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/researches/2026/08/5/347786.phtml
 - «Технологии без стратегии»: чего не хватает современному маркетингу [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/tekhnologii-bez-strategii-dengi-na-veter-chego-ne-khvataet-sovremennomu-marketingu-85844.html
