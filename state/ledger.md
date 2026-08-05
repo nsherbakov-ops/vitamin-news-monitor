@@ -6,6 +6,11 @@
 ## Опубликовано
 
 ### 2026-08-05
+- Adfox обновил маркировку рекламы под API v8 ЕРИР [12:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/adfox-obnovil-interfeys-markirovki-reklamy-v-svyazi-s-perekhodom-na-api-v8-ot-erir/
+- Путин подписал закон о штрафах для маркетплейсов и сервисов доставки [12:02 МСК, обычный прогон, 🟡] — https://ppc.world/news/putin-podpisal-zakon-o-shtrafah-dlya-marketpleysov-i-servisov-dostavki/
+- TikTok обновил ИИ-модель и расширил функции для рекламодателей [12:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/digital/2026/08/5/347778.phtml
+- Walmart завершил сделку по приобретению рекламной платформы Vibe.co [12:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/08/5/347776.phtml
+- Больше 40% россиян замечают вирусную рекламу в соцсетях [12:02 МСК, обычный прогон, 🟡] — https://adindex.ru/news/researches/2026/08/5/347780.phtml
 - Автобренды на радио: рынок вышел из фазы роста [11:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/avtobrendy-na-radio-rynok-vyshel-iz-fazy-rosta-85858.html
 - IP как новый актив бренда: зачем компаниям создавать свои миры и героев [11:02 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ip-kak-novyj-aktiv-brenda-zachem-kompaniyam-sozdavat-svoi-miry-i-geroev-85846.html
 - Pinterest нарастила рекламную выручку [10:03 МСК, обязательный слот, 🔥] — https://www.sostav.ru/publication/pinterest-narastila-reklamnuyu-vyruchku-85852.html
