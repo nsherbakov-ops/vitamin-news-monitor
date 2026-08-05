@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-08-05
+- Рекламный бизнес X сократился втрое после прихода Маска [14:05 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/reklamnyj-biznes-x-sokratilsya-vtroe-posle-prikhoda-maska-85872.html
+- Hi-Tech Mail и VK Реклама выяснили, какая реклама становится вирусной [14:05 МСК, обычный прогон, 🔥] — https://likeni.ru/events/hi-tech-mail-i-vk-reklama-vyyasnili-kakaya-reklama-stanovitsya-virusnoy/
+- Рекламодателей в Google стало на 35% больше за год — и как ИИ одновременно упростил и удорожил рекламу [14:05 МСК, обычный прогон, 🟡] — https://vc.ru/services/3062572-kak-ii-izmenil-rynok-reklamy
+- Рекламная выручка Spotify выросла на 1% во втором квартале 2026 года [14:05 МСК, обычный прогон, 🟡] — https://adindex.ru/news/ad_budjet/2026/08/5/347785.phtml
 - Что нового в Яндекс Метрике и Тег Менеджере: главное для специалистов по продвижению и аналитике [13:00 МСК, обычный прогон, 🔥] — https://yandex.ru/adv/news/obnovleniya-metriki-i-teg-menedzhere
 - Adfox обновил маркировку рекламы под API v8 ЕРИР [12:02 МСК, обычный прогон, 🔥] — https://www.seonews.ru/events/adfox-obnovil-interfeys-markirovki-reklamy-v-svyazi-s-perekhodom-na-api-v8-ot-erir/
 - Путин подписал закон о штрафах для маркетплейсов и сервисов доставки [12:02 МСК, обычный прогон, 🟡] — https://ppc.world/news/putin-podpisal-zakon-o-shtrafah-dlya-marketpleysov-i-servisov-dostavki/
