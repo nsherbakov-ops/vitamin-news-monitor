@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-08-05
+- Брендлокатор: тендеры ищут «Зенит», СДЭК и НСПК [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/ek/2026/08/5/347787.phtml
+- Каждый четвёртый пользователь отписывается от блогеров из-за навязчивой рекламы [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/researches/2026/08/5/347786.phtml
+- «Технологии без стратегии»: чего не хватает современному маркетингу [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/tekhnologii-bez-strategii-dengi-na-veter-chego-ne-khvataet-sovremennomu-marketingu-85844.html
+- Мессенджер-маркетинг: новые факты о покупателях через WhatsApp [15:01 МСК, обязательный слот, 🟡] — https://vc.ru/services/3062597-messendzher-marketing-novye-fakty-o-pokupatelyakh-cherez-whatsapp
 - Рекламный бизнес X сократился втрое после прихода Маска [14:05 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/reklamnyj-biznes-x-sokratilsya-vtroe-posle-prikhoda-maska-85872.html
 - Hi-Tech Mail и VK Реклама выяснили, какая реклама становится вирусной [14:05 МСК, обычный прогон, 🔥] — https://likeni.ru/events/hi-tech-mail-i-vk-reklama-vyyasnili-kakaya-reklama-stanovitsya-virusnoy/
 - Рекламодателей в Google стало на 35% больше за год — и как ИИ одновременно упростил и удорожил рекламу [14:05 МСК, обычный прогон, 🟡] — https://vc.ru/services/3062572-kak-ii-izmenil-rynok-reklamy
