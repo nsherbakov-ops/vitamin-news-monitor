@@ -5,6 +5,11 @@
 
 ## Опубликовано
 
+### 2026-08-06
+- Wildberries готовится к запуску собственного мессенджера [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/digital/2026/08/6/347799.phtml
+- Disney и TikTok объединились для продвижения контента фанатов Marvel и Star Wars [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/media/2026/08/6/347802.phtml
+- Франция с 11 августа запретит рекламные звонки без согласия клиентов [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/frantsiya-zapretit-reklamnye-zvonki-bez-soglasiya-klientov-85891.html
+
 ### 2026-08-05
 - Sony может начать продавать рекламу в PlayStation [19:01 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/08/5/347797.phtml
 - «Дзен» рассказал, как россияне выбирают авторов для подписки [19:01 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/dzen-rasskazal-kak-rossiyane-vybirayut-avtorov-dlya-podpiski-85882.html
