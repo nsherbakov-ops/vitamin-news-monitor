@@ -6,6 +6,11 @@
 ## Опубликовано
 
 ### 2026-08-06
+- Массовый сбой в работе интернета в России 6 августа [15:01 МСК, обязательный слот, 🔥] — https://ppc.world/news/v-rabote-interneta-v-rossii-6-avgusta-fiksiruyut-masshtabnyy-sboy/
+- Алексей Филия назначен замгендиректора «ГПМ Реклама» по стратегии и развитию [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/aleksej-filiya-naznachen-zamestitelem-generalnogo-direktora-85906.html
+- «Газпром-Медиа Холдинг» создаст совместный продукт с маркетплейсами [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/digital/2026/08/6/347831.phtml
+- Яндекс 360 усилил блок AI и автоматизацию: июльское обновление сервисов [15:01 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/yandeks-360-usilil-blok-ai-i-avtomatizatsiyu-iyulskoe-obnovlenie-servisov/
+- VK Видео объединил комментарии канала в Кабинете автора [15:01 МСК, обязательный слот, 🟡] — https://www.seonews.ru/events/vk-video-obedinil-kommentarii-kanala-v-kabinete-avtora/
 - WPP сократила выручку на 4,4% [14:04 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/wpp-sokratila-vyruchku-na-4-4-85903.html
 - От производства к идеям: три сдвига, которые меняют рекламную индустрию [14:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ot-proizvodstva-k-ideyam-85878.html
 - Почему SEO больше недостаточно [14:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/pochemu-seo-bolshe-nedostatochno-85877.html
