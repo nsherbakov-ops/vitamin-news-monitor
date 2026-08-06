@@ -6,6 +6,12 @@
 ## Опубликовано
 
 ### 2026-08-06
+- WPP сократила выручку на 4,4% [14:04 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/wpp-sokratila-vyruchku-na-4-4-85903.html
+- От производства к идеям: три сдвига, которые меняют рекламную индустрию [14:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ot-proizvodstva-k-ideyam-85878.html
+- Почему SEO больше недостаточно [14:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/pochemu-seo-bolshe-nedostatochno-85877.html
+- WARC: соцсети не заменят сильный бренд [14:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/warc-sotsseti-ne-zamenyat-silnyj-brend-85898.html
+- 10-секундные ролики в наружной рекламе лучше удерживают внимание аудитории [14:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/10-sekundnye-roliki-v-naruzhnoj-reklame-luchshe-uderzhivayut-vnimanie-auditorii-85905.html
+- Не апатия, а замедление роста: что произошло с PR-сегментом Telegram [14:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/ne-apatiya-a-zamedlenie-rosta-chto-proizoshlo-s-pr-segmentom-telegram-85845.html
 - ФАС признала нарушением наружную рекламу Fonbet [12:04 МСК, обычный прогон, 🟡] — https://adindex.ru/news/right/2026/08/6/347812.phtml
 - До 14% рекламного потока в Telegram приходится на упоминания банков [12:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/do-14-reklamnogo-potoka-v-telegram-prikhoditsya-na-upominaniya-bankov-85895.html
 - Disney распродал все рекламные места на Супербоул 2027 [12:04 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/08/6/347808.phtml
