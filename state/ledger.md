@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-08-06
+- ФАС признала нарушением наружную рекламу Fonbet [12:04 МСК, обычный прогон, 🟡] — https://adindex.ru/news/right/2026/08/6/347812.phtml
+- До 14% рекламного потока в Telegram приходится на упоминания банков [12:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/do-14-reklamnogo-potoka-v-telegram-prikhoditsya-na-upominaniya-bankov-85895.html
+- Disney распродал все рекламные места на Супербоул 2027 [12:04 МСК, обычный прогон, 🟡] — https://adindex.ru/news/tendencies/2026/08/6/347808.phtml
+- Rocket10 возглавило ключевые рейтинги диджитал-агентств [12:04 МСК, обычный прогон, 🟡] — https://www.sostav.ru/publication/rocket10-vozglavilo-klyuchevye-rejtingi-85839.html
 - Wildberries готовится к запуску собственного мессенджера [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/digital/2026/08/6/347799.phtml
 - Disney и TikTok объединились для продвижения контента фанатов Marvel и Star Wars [10:00 МСК, обязательный слот, 🟡] — https://adindex.ru/news/media/2026/08/6/347802.phtml
 - Франция с 11 августа запретит рекламные звонки без согласия клиентов [10:00 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/frantsiya-zapretit-reklamnye-zvonki-bez-soglasiya-klientov-85891.html
