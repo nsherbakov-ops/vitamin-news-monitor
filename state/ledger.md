@@ -6,6 +6,10 @@
 ## Опубликовано
 
 ### 2026-08-06
+- Рынок инфлюенс-маркетинга в России впервые за 4 года перестал расти [16:00 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/rost-rynka-inflyuens-marketinga-zamedlilsya-do-2-85908.html
+- Self-service повзрослел: почему рынок всё ещё принимает его за «кабинет для новичков» [16:00 МСК, обычный прогон, 🔥] — https://www.sostav.ru/publication/self-service-povzroslel-pochemu-rynok-vse-eshche-prinimaet-ego-za-kabinet-dlya-novichkov-85745.html
+- Яндекс отключил навыки в чате с Алисой AI и мобильных приложениях [16:00 МСК, обычный прогон, 🟡] — https://www.seonews.ru/events/yandeks-otklyuchil-navyki-v-chate-s-alisoy-ai-i-mobilnykh-prilozheniyakh/
+- Комментарии в MAX: почему владельцы каналов их отключают [16:00 МСК, обычный прогон, 🟡] — https://vc.ru/services/3030015-kommentarii-v-max-prichiny-otklyucheniya
 - Массовый сбой в работе интернета в России 6 августа [15:01 МСК, обязательный слот, 🔥] — https://ppc.world/news/v-rabote-interneta-v-rossii-6-avgusta-fiksiruyut-masshtabnyy-sboy/
 - Алексей Филия назначен замгендиректора «ГПМ Реклама» по стратегии и развитию [15:01 МСК, обязательный слот, 🟡] — https://www.sostav.ru/publication/aleksej-filiya-naznachen-zamestitelem-generalnogo-direktora-85906.html
 - «Газпром-Медиа Холдинг» создаст совместный продукт с маркетплейсами [15:01 МСК, обязательный слот, 🟡] — https://adindex.ru/news/digital/2026/08/6/347831.phtml
